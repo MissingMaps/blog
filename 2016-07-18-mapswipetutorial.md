@@ -1,6 +1,6 @@
 ---
  layout: post
- title: MapSwipe-Tutorial
+ title: MapSwipe: A tutorial
  postID: mapswipe-tutorial
  category: [MapSwipe]
  banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160714_mapswipe.jpg
@@ -27,14 +27,26 @@ We will be looking at imagery from the Niger State (Nigeria) missions for the fo
 
 ### Buildings:
 
-There are **two main types of building in this area; rectangular structures with metal or wooden roofs and round huts with roofs of straw**. The rectangular buildings are much easier to spot as they are generally square and usually fairly large. The round huts, however, are smaller and blend more into the landscape. You can see the differences in the example below.
+There are **two main types of building in this area; rectangular structures with metal or wooden roofs and round huts with roofs of straw**. 
 
 <figure>
-<img src="https://wiki.openstreetmap.org/w/images/f/fb/Building_examples.PNG" alt="Building examples">
+<img src="https://wiki.openstreetmap.org/w/images/e/e2/MSSS3.JPG" alt="Building examples">
 <p class="caption">Building examples</p>
 </figure>
 
+The rectangular buildings are much easier to spot as they are generally square and usually fairly large. The round huts, however, are often smaller and blend more into the landscape. You can see the differences in the examples below.
+
+<figure>
+<img src="https://wiki.openstreetmap.org/w/images/8/82/MSSS1.JPG" alt="Rectangular buildings">
+<p class="caption">Rectangular buildings</p>
+</figure>
+
 The **round huts can** be differentiated from natural features, such as trees and rocks because they usually appear to be a (near-perfect) circle. They are also often grouped together into villages or hamlets.
+
+<figure>
+<img src="https://wiki.openstreetmap.org/w/images/5/51/MSSS2.JPG" alt="Round huts">
+<p class="caption">Round huts</p>
+</figure>
 
 It is very important that we try and identify all structures in this task, so take your time when swiping and look out for these groups of shapes. **Remember, if you are unsure you can always tap it twice to turn the tile yellow indicating “maybe”.** It is often better to be on the safe side and tap to indicate a feature as other mappers will review and map the areas you have identified.
 
