@@ -8,18 +8,18 @@ Next add the following to the top of your new file. This 'front matter' is impor
 
 ````
 ---
- layout: post
- title: [title of your post]
- postID: [unique-post-id]
- category: [category]
- banner: [url of banner image]
- date: YYYY-MM-DD
- author: [author]
- excerpt: [excerpt from your post]
- published: true
- tags: [tag1, tag2]
- permalink: /blog/:year/:month/:day/:title/
- lang: en
+layout: post
+title: [title of your post]
+postID: [unique-post-id]
+category: [category]
+banner: [url of banner image]
+date: YYYY-MM-DD
+author: [author]
+excerpt: [excerpt from your post]
+published: true
+tags: [tag1, tag2]
+permalink: /blog/:year/:month/:day/:title/
+lang: en
 ---
 ````
 
