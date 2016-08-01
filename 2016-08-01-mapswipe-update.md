@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What's new with MapSwipe?
+title:  What's new with MapSwipe
 postID: mapswipe-update
 category: [MapSwipe]
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160714_mapswipe.jpg
