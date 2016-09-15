@@ -58,12 +58,12 @@ The team uploaded three projects to the HOT Tasking Manager, with instructions f
 
 In less than two months, all six sub-prefectures have been mapped - an impressive feat, and a testament to the incredible impact that the Missing Maps community can have when it works together. In just the six study areas – remote volunteers mapped 40,734 buildings and 1283 residential areas.
 
-
+<center>
 | Sous-Prefecture    | Dionfo | Tangali |	Bodie  |	Mafara |	Maci |	Ninguelande | *Total*   |
 | -------------------|:------:|:-------:|:------:|:-------:|:-----:|:------------:|:---------:|
 | Buildings          | 3435   |3056	    | 8370   |	7754   |7972   |10147         |40734      |
 | Residential Areas  | 90     |188	    |211     |	315    |219    |260           |1283       |
-
+</center>
 
 Once the map features added by remote Missing Maps volunteers have been validated for accuracy, it will be combined with GPS data on village names and other local information collected as part of the baseline survey, creating a rich basemap that is accessible in OpenStreetMap.
 
