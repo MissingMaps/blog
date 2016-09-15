@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Putting Guinea’s reproductive health issues on the map
-postID: Putting-Guineas-reproductive-health-issues-on-the-map
+postID: putting-guineas-reproductive-health-issues-on-the-map
 category: blog
 banner: **Add image link here**
 date: 2016-09-13
