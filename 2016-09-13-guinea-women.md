@@ -4,7 +4,7 @@ title: Putting Guinea’s reproductive health issues on the map
 postID: putting-guineas-reproductive-health-issues-on-the-map
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160916_banner.jpg
-date: 2016-09-13
+date: 2016-09-16
 author: Chris Glithero, Paul Knight, Kat Hicks
 excerpt: "The Danish, Swiss and British Red Cross are currently working together to support the Guinea Red Cross in developing integrated, high quality programmes, and the Reproductive Health and Rights Programme is one of these. It aims to improve knowledge and access to reproductive health and rights in the Moyenne Guinée region of the country."
 published: true
