@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSM Geography Awareness Week: 13-19 November
+title: "OSM Geography Awareness Week: 13-19 November"
 postID: osm-geoweek
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20161007_banner.png
