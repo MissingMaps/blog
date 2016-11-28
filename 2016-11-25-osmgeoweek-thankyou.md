@@ -15,7 +15,7 @@ lang: en
 
 Thank you for your incredible efforts organizing this year's OSM GeoWeek! In total 140 public and 150 private events took place in 42 countries.  We made 1 million edits and added 861,865 buildings and 145,030 km of roads to OSM. Thanks to your hard work, almost 4,000 new mappers joined the OSM community!
 
-We would love to hear about your event. If you have time, please fill out this form to let us know what went well, what went poorly, and if you have any lessons you’d like to pass on to your fellow organizers. If you would like to share pictures, please add them with a short blurb to HOT’s Flickr located here.
+We would love to hear about your event. If you have time, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScKG9bYHIcPdHSnT3Yf700LC0evzCqs-ihI5rkjaAopdcCMOg/viewform) to let us know what went well, what went poorly, and if you have any lessons you’d like to pass on to your fellow organizers. If you would like to share pictures, please add them with a short blurb to HOT’s Flickr located here.
 
 It's a great idea to follow-up with your participants (if you haven't already). Here are some helpful reminders you can include:
 
