@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSM GeoWeek Thankyou"
+title: "OSM GeoWeek Thank You!"
 postID: osmgeoweek-thankyou
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/geoweek_2016_ucla.jpg
@@ -29,3 +29,8 @@ It's a great idea to follow-up with your participants (if you haven't already). 
 - Put OSM GeoWeek on your calendar for the week of November 12-18, 2017!
 
 Again, from all of us on the OSM GeoWeek organizing team, thank you so much for your planning, mapping, and continued support!
+
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20161128_geoweek.jpg" alt="GeoWeek">
+<p class="caption">6th grade students participating in a geography workshop in India. Photo Credit: [upendrakarukonda](http://www.openstreetmap.org/user/upendrakarukonda/diary/39889).</p>
+</figure>
