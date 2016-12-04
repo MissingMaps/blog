@@ -32,5 +32,5 @@ Again, from all of us on the OSM GeoWeek organizing team, thank you so much for 
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20161128_geoweek.jpg" alt="GeoWeek">
-<p class="caption">6th grade students participating in a geography workshop in India. Photo Credit: [upendrakarukonda](http://www.openstreetmap.org/user/upendrakarukonda/diary/39889).</p>
+<p class="caption">6th grade students participating in a geography workshop in India. Photo Credit: <a href="http://www.openstreetmap.org/user/upendrakarukonda/diary/39889" target="_blank">upendrakarukonda.</a></p>
 </figure>
