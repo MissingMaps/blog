@@ -1,3 +1,17 @@
+---
+layout: post
+title: Mapping cell phone signals
+postID: opensignal
+category: blog
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_banner.jpg
+date: 2016-12-30
+author: Emily Eros
+excerpt: This past spring/summer, over 100 Red Cross volunteers conducted field mapping in the border regions of Guinea, Liberia, and Sierra Leone. In addition to the actual mapping, we also asked the volunteers to record their GPS tracks each day, and we set their phones to automatically collect cell signal strength data using OpenSignal, an app which crowdsources this information.
+published: true
+tags: [Red Cross, Field Mapping, West Africa, connectivity, OpenSignal]
+lang: en
+---
+
 # Mapping cell phone signals with OpenSignal
 
 This past spring/summer, over 100 Red Cross volunteers conducted field mapping in the border regions of Guinea, Liberia, and Sierra Leone. In addition to the actual mapping, we also asked the volunteers to record their GPS tracks each day, and we set their phones to automatically collect cell signal strength data using OpenSignal, an app which crowdsources this information.
@@ -15,7 +29,10 @@ We loaded OpenSignal onto all of the phones before the fieldwork began, then dow
 
 OpenSignal generated three types of CSV files: wifi, speedtests, and cell signals:
 
-![] (https://arcmaps.s3.amazonaws.com/share/file_types.png)
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/file_types.png" alt="File types">
+<p class="caption">CC-BY American Red Cross.</p>
+</figure>
 
  Since we only care about the cell signal strength, I put all these into a folder and then ran a quick command in Terminal to merge them:
 
@@ -34,9 +51,11 @@ Finally, I cleaned up a few parts of the data:
 
 where X is the cell with the time in epoch and T is offset from GMT time, in hours. You'll need to change the format of those cells to a date, as well.
 
-2. Location inaccuracy. The maximum location inaccuracy was almost 5 km. I discarded any records with a location inaccuracy greater than 1000 metres. This seems like a very high number to me, but it eliminated almost a quarter of my dataset, dropping it from 200,000 records down to 150,000.
+### Location inaccuracy
+The maximum location inaccuracy was almost 5 km. I discarded any records with a location inaccuracy greater than 1000 metres. This seems like a very high number to me, but it eliminated almost a quarter of my dataset, dropping it from 200,000 records down to 150,000.
 
-3. RSSI (Received Signal Strength Indicator) measures the signal strength. HOWEVER, it's measured differently depending on the network type. For EDGE, GPRS, HSPAP, and sometimes HSDPA and HSPA, it is measured on a scale of -1 to 31. On other HSDPA and HSPA networks, it's measured in dBm, on a scale of -113 to -51.
+### RSSI (Received Signal Strength Indicator)
+RSSI (Received Signal Strength Indicator) measures the signal strength. HOWEVER, it's measured differently depending on the network type. For EDGE, GPRS, HSPAP, and sometimes HSDPA and HSPA, it is measured on a scale of -1 to 31. On other HSDPA and HSPA networks, it's measured in dBm, on a scale of -113 to -51.
 
 There were other instances where we had "unknown" and "out of service" networks with an RSSI of 99. I wasn't sure if this was code for "no signal", or if it meant that RSSI was being measured on yet another scale - the internet tells me that the RSSI max is 99 on Cisco equipment. These records added up to only 1% of the data so I just discarded them.
 
@@ -47,12 +66,14 @@ This leaves values already measured in dBm, converts those on the -1 to 31 RSSI 
 
 When I put this data into GIS, I coded the dBm values into signal strength categories. I found several different scales for this, so I ended up with the following "compromise":
 
--113 to -101: Very poor
--100 to -86: Weak
--85 to -71: Good
+-113 to -101: Very poor<br />
+-100 to -86: Weak<br />
+-85 to -71: Good<br />
 -70 to -51: Excellent
 
-- Lat/long: Because we set the phones up in the US, I discarded any lat/long pairings taken outside of West Africa.
+### Lat/long
+
+Because we set the phones up in the US, I discarded any lat/long pairings taken outside of West Africa.
 
 This gave me a clean dataset ready to be saved as a Windows CSV and loaded into GIS.
 
@@ -73,13 +94,19 @@ I loaded the CSV file into GIS and converted it into an equal-area projection (t
 
 Again, the data look very sparse compared to the amount of volunteers and time spent in the field. The image below shows the OpenSignal data overlaid on GPX tracks collected by volunteers (shown in grey) for the West African region. The OpenSignal data covers some main highways across the region and some clusters in certain cities, but it's extremely sparse compared to what I was expecting.
 
-![] (https://arcmaps.s3.amazonaws.com/share/signal_strength.png)
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/signal_strength.png" alt="Signal strength">
+<p class="caption">CC-BY American Red Cross.</p>
+</figure>
 
 The settings on the OpenSignal app explain, "Data is collected when the app is open and at a low rate when it is closed (around 10 signal readings per hour)."
 
 That's not what I see in the West Africa data. The snippet below contains data from a few different files. In each of these files, a phone collects data briefly when set up in late March... then nothing until a month later, at the end of April. When the phones are logging data, they are doing so at the expected rate of about 10x per hour... it's just that there are huge gaps between the readings. I'd love to know more about why this is and if there is something we can correct, or if it's a bug that can (or has) been fixed.
 
-![] (https://arcmaps.s3.amazonaws.com/share/timestamps.png)
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/timestamps.png" alt="time stamps">
+<p class="caption">CC-BY American Red Cross.</p>
+</figure>
 
 ## Next steps
 
