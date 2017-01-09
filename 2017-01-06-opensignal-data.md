@@ -4,7 +4,7 @@ title: Mapping cell phone signals
 postID: opensignal
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/signal_strength.png
-date: 2017-01-07
+date: 2017-01-06
 author: Emily Eros
 excerpt: This past spring/summer, over 100 Red Cross volunteers conducted field mapping in the border regions of Guinea, Liberia, and Sierra Leone. In addition to the actual mapping, we also set the volunteers' phones to record their GPS tracks each day, and we set their phones to automatically collect cell signal strength data using OpenSignal, an app which crowdsources this information. We haven't come across much about working with OpenSignal data, so this post documents our workflow for using the data, the challenges we had, and our results.
 published: true
