@@ -3,7 +3,7 @@ layout: post
 title: "Roads less traveled... all 72,000 km of them"
 postID: gps-tracks
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/motorbike_road.jpg
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/motorbike_road.png
 date: 2017-01-07
 author: Emily Eros
 excerpt: "Red Cross volunteers on motorbikes logged 72,000 km of GPS tracks in West Africa. Here's what we did with the data, and how we did it."
@@ -42,7 +42,11 @@ There are several ways to do this. I did it by downloading the country-level OSM
 
 The GPX data and the roads data both had to be saved in an equal area projection so that the distance calculations would be accurate.
 
-Within QGIS, I used the v.distance function in GRASS (It's slightly hidden. You can find it under `Processing -> Toolbox -> GRASS -> v.distance`). This iterated through each of the GPX track points to determine the closest road and the distance between the road and the point. I took the output and filtered the data to only keep track points that were over 100 metres from an existing road. This left me with a set of points that needed to be traced into OSM, which I did using JOSM; you can add in a GPX track points layer on top of existing data and imagery.
+Within QGIS, I used the v.distance function in GRASS. It's slightly hidden. You can find it under:
+
+`Processing -> Toolbox -> GRASS -> v.distance`
+
+This iterated through each of the GPX track points to determine the closest road and the distance between the road and the point. I took the output and filtered the data to only keep track points that were over 100 metres from an existing road. This left me with a set of points that needed to be traced into OSM, which I did using JOSM; you can add in a GPX track points layer on top of existing data and imagery.
 
 Three days, 8 episodes of Game of Thrones, and one sore arm later, the tracing was complete. Through the volunteers' efforts, we added about 600 km of roads into OSM, connecting some of the most inaccessible and remote communities in West Africa.
 
