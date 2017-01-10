@@ -6,7 +6,7 @@ category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/motorbike_road.jpg
 date: 2017-01-07
 author: Emily Eros
-excerpt: "Red Cross volunteers on motorbikes logged 72,000 km of GPS tracks in West Africa. Here's what we did with the data, and how we did it."
+excerpt: "Red Cross volunteers on motorbikes logged 72,000 km of GPS tracks during border mapping in West Africa. We used these data to get under the clouds and add roads to OSM that can't be seen from satellite imagery. These roads connect some of the most remote communities in the region. Here's how we processed the dataset and what we were able to do with it."
 published: true
 tags: [West Africa, Field Mapping, Red Cross, GPS, osmAnd, roads]
 permalink: /blog/:year/:month/:day/:title/
