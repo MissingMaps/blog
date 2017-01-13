@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Community mapping in Riohacha, Columbia
+title: Community mapping in Riohacha, Colombia
 postID: riohacha-mapping
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_banner.jpg
-date: 2015-03-29
+date: 2016-03-29
 author: Drishtie Patel, Matt Gibb
-excerpt: Every year in the Americas more and more people are living in conditions of vulnerability to natural hazards and climate change. To help reduce disaster risk and enhance community resilience in the region, the American Red Cross is working with Red Cross partners like the Columbian Red Cross to address local hazards and vulnerabilities in dozens of disaster-prone communities.
+excerpt: Every year in the Americas more and more people are living in conditions of vulnerability to natural hazards and climate change. To help reduce disaster risk and enhance community resilience in the region, the American Red Cross is working with Red Cross partners like the Colombian Red Cross to address local hazards and vulnerabilities in dozens of disaster-prone communities.
 published: true
 tags: [Red Cross, Field Mapping, Colombia]
 lang: en
@@ -20,7 +20,7 @@ We were absolutely amazed at the responsiveness of the staff and volunteers and 
 
 ## Community Background
 
-Every year in the Americas more and more people are living in conditions of vulnerability to natural hazards and climate change. To help reduce disaster risk and enhance community resilience in the region, the American Red Cross is working with Red Cross partners to address local hazards and vulnerabilities in dozens of disaster-prone communities. Through research and community discussion in the chosen communities the Columbian Red Cross has identified the top priorities for building resilience: Community health, water and sanitation, risk reduction, organizational strengthening, rights and advocacy, mitigation microproject and risk reduction.
+Every year in the Americas more and more people are living in conditions of vulnerability to natural hazards and climate change. To help reduce disaster risk and enhance community resilience in the region, the American Red Cross is working with Red Cross partners to address local hazards and vulnerabilities in dozens of disaster-prone communities. Through research and community discussion in the chosen communities the Colombian Red Cross has identified the top priorities for building resilience: Community health, water and sanitation, risk reduction, organizational strengthening, rights and advocacy, mitigation microproject and risk reduction.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_Nuevo-Milenio.jpg" alt="Nuevo Milenio">
