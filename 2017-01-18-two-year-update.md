@@ -55,7 +55,7 @@ Over the past two years, we registered thousands of users and held mapathons in
 
 A highlight of 2016 was conducting extensive field mapping with local volunteers in the border areas of [West Africa](http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/). They completed field surveys in 7,200 villages and added health facilities, water points, and community resources to OpenStreetMap.
 
-Remote mappers played a significant role in helping save lives in the Democratic Republic of the Congo. During a [yellow fever emergency response](http://www.doctorswithoutborders.org/article/drc-saving-lives-remote-mapping), mapped data aided planning and logistics to vaccinate 700,000 people.
+Remote mappers played a significant role in helping save lives in the Democratic Republic of the Congo. During a [yellow fever emergency response](https://www.ft.com/content/7a6df79c-c139-11e6-81c2-f57d90f6741a), mapped data aided planning and logistics to vaccinate 700,000 people.
 
 The [MapSwipe](http://www.missingmaps.org/blog/2016/07/14/mapswipe/) app was also launched in 2016. Using fast satellite image classification on mobile devices, users can rapidly identify population clusters to better target mapping. So far, over 13,000 users have identified over 9 million features.
 
