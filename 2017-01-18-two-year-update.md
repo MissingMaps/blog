@@ -3,7 +3,7 @@ layout: post
 title: "Two Year Update"
 postID: two-year-update
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/mm_two_year_banner.jpg
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-webbanner.jpg
 date: 2017-01-18
 author: Dale Kunce
 excerpt: Since its launch in 2014, Missing Maps has engaged almost 20,000 mappers, helped 430+ public mapathons, put 29 million people on the map, and mapped an area equal to the size of Sweden. We've added many new partners to help try and map the world. Thanks to everyone out there who's been a part of this amazing project!
