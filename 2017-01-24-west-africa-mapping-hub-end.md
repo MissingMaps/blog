@@ -79,11 +79,10 @@ Based on the data collected and the communities visited, roughly 800 `fixme` loc
 All of the data we collected is available for use on the [Humanitarian Data Exchange](https://data.humdata.org/dataset/american-red-cross-west-africa-project) and on OpenStreetMap.
 
 For more background on the West Africa Project check out some of our earlier blog posts:
-	1. [Field Mapping at Scale in West Africa](http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/)
-	
-	2. [Without Frontiers in Border Country](http://www.missingmaps.org/blog/2016/06/28/border-country/) - A post by Rupert Allan with Missing Maps partner MSF, who helped train volunteers in Sierra Leone
-	
-	3. Reflections from our Mapping Hub Lead David Luswata [Trends of Transformation by Mapping in West Africa](http://www.missingmaps.org/blog/2016/07/11/trends-of-transformation/) and [Mapping Every Detail](http://www.missingmaps.org/blog/2016/08/02/mapping-every-detail/)
+
+ 1. [Field Mapping at Scale in West Africa](http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/)
+ 2. [Without Frontiers in Border Country](http://www.missingmaps.org/blog/2016/06/28/border-country/) - A post by Rupert Allan with Missing Maps partner MSF, who helped train volunteers in Sierra Leone
+ 3. Reflections from our Mapping Hub Lead David Luswata [Trends of Transformation by Mapping in West Africa](http://www.missingmaps.org/blog/2016/07/11/trends-of-transformation/) and [Mapping Every Detail](http://www.missingmaps.org/blog/2016/08/02/mapping-every-detail/)
 
 Check out some of the analysis already done with the data we collected: [Mapping OpenSignal Data](http://www.missingmaps.org/blog/2017/01/06/opensignal-data/) and [Visualizing GPX tracks](http://www.missingmaps.org/blog/2017/01/07/gps-tracks/)
 
