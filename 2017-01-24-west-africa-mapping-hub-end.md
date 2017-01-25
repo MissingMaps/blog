@@ -22,7 +22,7 @@ lang: en
 
 First and foremost, this project could not have been possible without the dedication of the Red Cross volunteers in Liberia, Guinea, and Sierra Leone. Over 120 volunteers plus an additional 109 motorbike drivers [traveled 72,000 km](http://www.missingmaps.org/blog/2017/01/07/gps-tracks/) visiting some of the most vulnerable communities in West Africa.
 
-We started the West Africa project in response because information gaps made it more difficult to combat Ebola. Accurate maps play a critical role in understanding human communities, especially for populations at risk. The lack of detailed maps for West Africa posed a problem during the 2014 Ebola crisis; contact tracing was much more difficult without accurate names and locations for all of the villages, particularly in the border areas.
+We started the West Africa project because information gaps in available data made it more difficult to combat Ebola. Accurate maps play a critical role in understanding human communities, especially for populations at risk. The lack of detailed maps for West Africa posed a problem during the 2014 Ebola crisis; contact tracing was much more difficult without accurate names and locations for all of the villages, particularly in the border areas.
 
 The mapping project involved five processes, which consisted of tech development, a mapping hub, a rapid assessment survey, detailed community mapping, and community engagement.
 
@@ -80,7 +80,9 @@ All of the data we collected is available for use on the [Humanitarian Data Exch
 
 For more background on the West Africa Project check out some of our earlier blog posts:
 	1. [Field Mapping at Scale in West Africa](http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/)
+	
 	2. [Without Frontiers in Border Country](http://www.missingmaps.org/blog/2016/06/28/border-country/) - A post by Rupert Allan with Missing Maps partner MSF, who helped train volunteers in Sierra Leone
+	
 	3. Reflections from our Mapping Hub Lead David Luswata [Trends of Transformation by Mapping in West Africa](http://www.missingmaps.org/blog/2016/07/11/trends-of-transformation/) and [Mapping Every Detail](http://www.missingmaps.org/blog/2016/08/02/mapping-every-detail/)
 
 Check out some of the analysis already done with the data we collected: [Mapping OpenSignal Data](http://www.missingmaps.org/blog/2017/01/06/opensignal-data/) and [Visualizing GPX tracks](http://www.missingmaps.org/blog/2017/01/07/gps-tracks/)
