@@ -13,6 +13,8 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
+<p style="text-align: center;"> <i>The final report for the West Africa Mapping Hub is available for download <a href="https://arcmaps.s3.amazonaws.com/share/West%20Africa%20Mapping%20Hub/West_africa_final_report_public.pdf">here</a> (37 MB) </i></p>
+
 2016 was a busy year for the the American Red Cross and the Missing Maps project. Community-led mapping projects took place in [Colombia](http://www.missingmaps.org/blog/2015/03/29/riohacha-colombia/), Ecuador, and [Zimbabwe](http://www.missingmaps.org/blog/2016/06/07/zimbabwe/). Our largest undertaking since the start of the Missing Maps project was in West Africa. Covering an area the size of Switzerland, volunteers in Liberia, Guinea, and Sierra Leone visited over 7,000 communities in an area that experienced the worst of the Ebola crisis in 2014 and 2015. Here's a snapshot of what the volunteers accomplished:
 
 <figure>
