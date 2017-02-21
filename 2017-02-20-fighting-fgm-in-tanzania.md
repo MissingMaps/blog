@@ -3,7 +3,7 @@ layout: post
 title: Fighting FGM in Tanzania
 postID: fighting-fgm-in-tanzania
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160220_banner.png
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_banner.png
 date: 2017-02-20
 author: Janet Chapman
 excerpt: “I first met Rhobi in a building site in Mugumu, Serengeti,  Tanzania, in September 2014 where she was desperately trying to get a Safe House for girls refusing Female Genital Mutilation finished before the \“cutting season\” started in December.  In the week we spent together I accompanied her and her team as they visited the surrounding villages, telling the villagers the dangers of FGM through debates, drama and dance.  Rhobi almost bled to death from FGM in one of these villages as a 13 year old and has been a passionate advocate for womens’ rights ever since."
