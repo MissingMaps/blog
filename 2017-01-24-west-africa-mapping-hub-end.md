@@ -13,6 +13,11 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
+<<<<<<< HEAD
+=======
+<p style="text-align: center;"> <i>The final report for the West Africa Mapping Hub is available for download <a href="https://arcmaps.s3.amazonaws.com/share/West%20Africa%20Mapping%20Hub/RedCross_WestAfrica_FinalReport_public.pdf">here</a> (6 MB) </i></p>
+
+>>>>>>> 78b49549b3b4d6c305290133ba797e681473f62a
 2016 was a busy year for the the American Red Cross and the Missing Maps project. Community-led mapping projects took place in [Colombia](http://www.missingmaps.org/blog/2015/03/29/riohacha-colombia/), Ecuador, and [Zimbabwe](http://www.missingmaps.org/blog/2016/06/07/zimbabwe/). Our largest undertaking since the start of the Missing Maps project was in West Africa. Covering an area the size of Switzerland, volunteers in Liberia, Guinea, and Sierra Leone visited over 7,000 communities in an area that experienced the worst of the Ebola crisis in 2014 and 2015. Here's a snapshot of what the volunteers accomplished:
 
 <figure>
@@ -22,7 +27,11 @@ lang: en
 
 First and foremost, this project could not have been possible without the dedication of the Red Cross volunteers in Liberia, Guinea, and Sierra Leone. Over 120 volunteers plus an additional 109 motorbike drivers [traveled 72,000 km](http://www.missingmaps.org/blog/2017/01/07/gps-tracks/) visiting some of the most vulnerable communities in West Africa.
 
+<<<<<<< HEAD
 We started the West Africa project in response because information gaps made it more difficult to combat Ebola. Accurate maps play a critical role in understanding human communities, especially for populations at risk. The lack of detailed maps for West Africa posed a problem during the 2014 Ebola crisis; contact tracing was much more difficult without accurate names and locations for all of the villages, particularly in the border areas.
+=======
+We started the West Africa project because information gaps in available data made it more difficult to combat Ebola. Accurate maps play a critical role in understanding human communities, especially for populations at risk. The lack of detailed maps for West Africa posed a problem during the 2014 Ebola crisis; contact tracing was much more difficult without accurate names and locations for all of the villages, particularly in the border areas.
+>>>>>>> 78b49549b3b4d6c305290133ba797e681473f62a
 
 The mapping project involved five processes, which consisted of tech development, a mapping hub, a rapid assessment survey, detailed community mapping, and community engagement.
 
@@ -79,9 +88,16 @@ Based on the data collected and the communities visited, roughly 800 `fixme` loc
 All of the data we collected is available for use on the [Humanitarian Data Exchange](https://data.humdata.org/dataset/american-red-cross-west-africa-project) and on OpenStreetMap.
 
 For more background on the West Africa Project check out some of our earlier blog posts:
+<<<<<<< HEAD
 	1. [Field Mapping at Scale in West Africa](http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/)
 	2. [Without Frontiers in Border Country](http://www.missingmaps.org/blog/2016/06/28/border-country/) - A post by Rupert Allan with Missing Maps partner MSF, who helped train volunteers in Sierra Leone
 	3. Reflections from our Mapping Hub Lead David Luswata [Trends of Transformation by Mapping in West Africa](http://www.missingmaps.org/blog/2016/07/11/trends-of-transformation/) and [Mapping Every Detail](http://www.missingmaps.org/blog/2016/08/02/mapping-every-detail/)
+=======
+
+ 1. [Field Mapping at Scale in West Africa](http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/)
+ 2. [Without Frontiers in Border Country](http://www.missingmaps.org/blog/2016/06/28/border-country/) - A post by Rupert Allan with Missing Maps partner MSF, who helped train volunteers in Sierra Leone
+ 3. Reflections from our Mapping Hub Lead David Luswata [Trends of Transformation by Mapping in West Africa](http://www.missingmaps.org/blog/2016/07/11/trends-of-transformation/) and [Mapping Every Detail](http://www.missingmaps.org/blog/2016/08/02/mapping-every-detail/)
+>>>>>>> 78b49549b3b4d6c305290133ba797e681473f62a
 
 Check out some of the analysis already done with the data we collected: [Mapping OpenSignal Data](http://www.missingmaps.org/blog/2017/01/06/opensignal-data/) and [Visualizing GPX tracks](http://www.missingmaps.org/blog/2017/01/07/gps-tracks/)
 
