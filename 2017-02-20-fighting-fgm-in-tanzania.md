@@ -67,7 +67,7 @@ Local mappers are continuing to improve the map by adding the names of missing v
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_map.png" alt="">
-<p class="caption">CC BY-SA Janet Chapman: Map can be found [here](https://jachapman82.carto.com/builder/4324bc10-f250-11e6-9d00-0ee66e2c9693/embed)</p>
+<p class="caption">CC BY-SA Janet Chapman: Map can be found here: https://jachapman82.carto.com/builder/4324bc10-f250-11e6-9d00-0ee66e2c9693/embed</p>
 </figure>
   
 
