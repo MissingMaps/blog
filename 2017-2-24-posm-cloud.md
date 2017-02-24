@@ -67,8 +67,8 @@ Now configure the DNS. Create an @ record and point it to the IP address that yo
 Sample DNS records:
 
 ```
-my-posm.example.org     A     1.2.3.4
-osm.my-posm.example.org CNAME posm.example.org
+example.org     A     1.2.3.4
+osm.example.org CNAME example.org
 ```
 <br />
 
