@@ -21,13 +21,12 @@ This is the first of several post that we will be releasing in the next few week
 
 Interested in running POSM in the cloud? This type of setup is great for semi-connected instances when you want the integration of OpenMapKit/Field Papers/OSM but have more regular connectivity with your surveyors.
 
-First, this guide will walk through how to set things up in Amazon Web Services, specifically EC2. If you like another flavor or cloud services such as Azure, this process will still work but may look slightly different. This guide will also *not* show you how to get an AWS account, they already have great [documentation](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html). 
+First, this guide will walk through how to set things up in Amazon Web Services, specifically EC2. If you like another flavor or cloud services such as Azure, this process will still work but may look slightly different. This guide will also *not* show you how to get an AWS account, they already have great [documentation](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html).
 
 ### Get a Fully Qualified Domain Name
 Before installation, you should choose a domain name and host to use to access your new POSM and configure it with your DNS provider. If you don't do this, you won't be able to access the OpenStreetMap interface.
 
 Create the subdomain ``osm.example.org`` . You'll configure the DNS later.
-
 
 ### Instance Setup
 
@@ -37,7 +36,6 @@ The first thing you will need to do is start a new instance. In your AWS EC2 Das
 <img src="https://i.imgur.com/i7i2ogE.png" alt="">
 <p class="caption">Be sure the chose Ubuntu 14.04 LTS</p>
 </figure>
-
 
 After selecting your instance type you'll need to fill out a couple more things. Below are the recommended specs.
 
@@ -60,7 +58,7 @@ Recomended specs for your intance are:
 
 ### Configure DNS
 
-After the instance is created, also create an elastic IP and assign it to the instance you just created. AWS has a [great guide](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html#working-with-eips) for this. 
+After the instance is created, also create an elastic IP and assign it to the instance you just created. AWS has a [great guide](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html#working-with-eips) for this.
 
 Now configure the DNS. Create an @ record and point it to the IP address that you just created and assigned to your instance.
 
@@ -74,7 +72,6 @@ osm.my-posm.example.org CNAME posm.example.org
 ### Install POSM
 
 POSM Cloud uses posm-build to install because the live ubuntu instance for physical devices doesn't work. The process take a little longer and requires a little bit of command line knowledge.
-
 
 To configure POSM on your cloud host, [connect to it](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html) using `ssh` and run the following commands.
 
@@ -100,12 +97,10 @@ The important things to edit are *posm_hostname* and *posm_domain*. Set these eq
 
 If you are not comfortable with editing files via command line here is a quick guide to using [vi](https://www.cs.colostate.edu/helpdocs/vi.html). The important thing is to hit ``i`` to edit and then after making changes hit ``ESC`` and then ``:`` and type ``wq`` to "write and quit"
 
-
 <figure>
 <img src="https://i.imgur.com/uSo3ZCU.png" alt="">
 <p class="caption">Adjust posm_hostname and posm_domain</p>
 </figure>
-
 
 The last thing is to install everything. This will take a while; go get a snack and come back.
 
