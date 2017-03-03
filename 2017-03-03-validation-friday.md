@@ -3,7 +3,7 @@ layout: post
 title: "#ValidationFriday"
 postID: validation-friday
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/validation_style.png
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170303_validation-style.png
 date: 2017-03-03
 author: Matt Gibb
 excerpt: Validating tasks is an important part in the Missing Maps process, learn how you can improve your mapping and contribute to validation! \#ValidationFriday
@@ -44,7 +44,7 @@ If you're a validator and you see a mapper doing a great job, reach out to them!
 Remember all those great badges you can earn on your [Missing Maps User Profile](http://www.missingmaps.org/users/#/)? We're going to start reaching out to those users who have soared to great heights and have been earning their `Task Champion` badges, so that we can encourage users to start validating. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/validation-badges.png" alt="Earn your Task Champion and Scrutinizer Badges!">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170303_validation-badges.png" alt="Earn your Task Champion and Scrutinizer Badges!">
 <p class="caption">Earn your Task Champion and Scrutinizer Badges!</p>
 </figure>
 
@@ -84,6 +84,6 @@ Find a simple `buildings only` task, read the instructions, square buildings, al
 There's a great community of Missing Map-ers who are ready to help you learn to validate. We all have the goal of improving maps for vulnerable communities, and we all come to the greater OSM community with different levels of experience. Let's start validating and remember the wise words of Uncle Ben, "With great tasks, comes great validation."
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/KeepCalm_small.png" alt="Validate">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170303_keep-calm-small.png" alt="Validate">
 <p class="caption">Don't forget to Keep Calm and Validate!</p>
 </figure>
