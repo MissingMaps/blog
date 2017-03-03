@@ -6,7 +6,7 @@ category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170303_validation-style.png
 date: 2017-03-03
 author: Matt Gibb
-excerpt: "Validating tasks is an important part in the Missing Maps process, learn how you can improve your mapping and contribute to validation! #ValidationFriday"
+excerpt: "Validating tasks is an important part in the Missing Maps process, and we encourage everyone to take part. Learn how you can improve your mapping and contribute to validation! #ValidationFriday"
 published: true
 tags: [HOT, task, Validation]
 permalink: /blog/:year/:month/:day/:title/
