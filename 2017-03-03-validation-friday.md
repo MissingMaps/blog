@@ -6,14 +6,14 @@ category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170303_validation-style.png
 date: 2017-03-03
 author: Matt Gibb
-excerpt: Validating tasks is an important part in the Missing Maps process, learn how you can improve your mapping and contribute to validation! \#ValidationFriday
+excerpt: "Validating tasks is an important part in the Missing Maps process, learn how you can improve your mapping and contribute to validation! #ValidationFriday"
 published: true
 tags: [HOT, task, Validation]
 permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-##\#ValidationFriday
+## #ValidationFriday
 
 Since the start of the Missing Maps Project in 2014, there have been over 20,000 remote contributors mapping some of the most vulnerable communities in the world. All of the data created as part of this process is extremely valuable to the organizations who have requested it. One question commonly asked however, is about data quality.
 
@@ -27,7 +27,7 @@ I've also seen some negative messages and feedback. Everyone was once a new mapp
 
 Currently there are nearly 500 Missing Maps projects. The tasks within them are, on average, 90% percent marked as done, yet the validation average comes in at just under 50%. **We can do better.** 
 
-##What can we do?
+## What can we do?
 
 **Ask questions**
 
@@ -59,9 +59,7 @@ In the coming weeks and months, a number of resources will be released by member
 
 How to Validate in iD Editor:
 
-<iframe width="420" height="315"
-src="https://youtu.be/2h12CKnvK38">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2h12CKnvK38" frameborder="0"> </iframe>
 
 We've also created a [validation style for JOSM](https://github.com/MissingMaps/josm_styles) that you can download and apply to your downloaded area; it highlights some common issues to look out for when validating. Follow the instructions on the GitHub link to get started.
 
@@ -73,13 +71,13 @@ And on that note...
 
 There is a fantastic walkthrough at [LearnOSM](http://learnosm.org/en/josm/) about learning JOSM. Spend a couple hours this weekend getting to know it!
 
-**\#ValidationFriday**
+**#ValidationFriday**
 
 Finally, make time to validate. Earlier this year, we started \#ValidationFriday. We use it as a reminder on every Friday to set aside some time to help validate a handful of tasks, giving positive and timely feedback to users. There are any number of great projects to choose from on the [Tasking Manager](http://tasks.hotosm.org).
 
 Find a simple `buildings only` task, read the instructions, square buildings, align them with imagery and ask for feedback on your validation. I've seen several instances of users starting to validate, and then asking another user either on the mailing list or Slack channel to check their work. That's okay, in fact, I encourage that.
 
-##Don't Be Afraid to Say "Hi"
+## Don't Be Afraid to Say "Hi"
 
 There's a great community of Missing Map-ers who are ready to help you learn to validate. We all have the goal of improving maps for vulnerable communities, and we all come to the greater OSM community with different levels of experience. Let's start validating and remember the wise words of Uncle Ben, "With great tasks, comes great validation."
 
