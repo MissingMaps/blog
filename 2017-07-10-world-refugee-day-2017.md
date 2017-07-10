@@ -13,11 +13,11 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-What connects Kampala and Istanbul? You might be thinking that Kampala and Istanbul are worlds apart, but volunteers in both cities rallied around a common cause for World Refugee Day - working together to map priority areas in Uganda that require urgent humanitarian assistance. 
+What connects Kampala and Istanbul? You might be thinking that Kampala and Istanbul are worlds apart, but volunteers in both cities rallied around a common cause for World Refugee Day - working together to map priority areas in Uganda that require urgent humanitarian assistance.
 
 With the protracted conflicts in Syria and South Sudan, displaced civilians continue to seek safety in neighboring countries and beyond. Turkey and Uganda have gained prominence on the world stage for opening their borders to receive refugees, particularly those fleeing from respective conflicts in Syria and South Sudan. More broadly, Turkey hosts the largest number of refugees in the world, with the UN High Commissioner for Refugees (UNHCR) citing an [estimated 2.9 million people in country in 2016](http://www.unhcr.org/statistics/unhcrstats/5943e8a34/global-trends-forced-displacement-2016.html). Uganda hosts the largest number of refugees in Africa, with over [1.2 million](http://www.un.org/apps/news/story.asp?NewsID=57050#.WVEh0ROGOgQ) refugees and asylum seekers in country today. And these numbers continue to rise.
 
-About 2,000 people a day are crossing the border into Northern Uganda, with little more than they can carry. This has sparked a humanitarian emergency that the United Nations Secretary-General described as the “biggest refugee exodus since the genocide in Rwanda.”
+About 2,000 people a day are crossing the border into Northern Uganda, with little more than they can carry. This has sparked a humanitarian emergency that the United Nations Secretary-General described as the "biggest refugee exodus since the genocide in Rwanda."
 
 ## Background on Humanitarian OpenStreetMap Team and the Refugee Crisis in Uganda
 
@@ -26,7 +26,7 @@ Empowering refugees and host communities are key elements of the Ugandan nationa
 The Humanitarian OpenStreetMap Team (HOT) in Uganda works in tandem with the local organization MapUganda to provide OpenStreetMap (OSM) tools, training, information management products and advisory services to humanitarian organizations working with refugees. HOT provides OSM tools to international organizations, local government and refugee communities, along with training, information management support and advisory services. Several volunteers are periodically trained to use OSM tools, and ready to support the humanitarian community with extensive data collection.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_map.jpg" alt=“map”>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_map.jpg" alt="map">
 <p class="caption">Distribution of volunteers trained in using OSM tools</p>
 </figure>
 
@@ -39,26 +39,26 @@ To respond to the situation in Uganda, HOT and [Médecins Sans Frontières Turke
 Participants in Istanbul mapped 2,550 buildings in the Boroli, Olua and Ayilo Refugee Settlements, and completed 75% of the targeted region. They learned about Missing Maps, and HOT and MSF’s work. The majority of participants were new mappers, and were excited to learn about OSM and discover how they could contribute.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic1.jpg" alt=“All in a Day’s Work!”>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic1.jpg" alt="All in a Day’s Work!">
 <p class="caption">All in a Day’s Work: Volunteers show solidarity with refugees during Istanbul’s First Missing Maps Mapathon</p>
 </figure>
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic2.jpg" alt=“People Live There!”>
-<p class="caption">People Live There! Istanbul Missing Maps Mapathon participants fill in “blank spots” on the map in the Boroli, Olua and Ayilo Refugee Settlements to facilitate humanitarian aid</p>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic2.jpg" alt="People Live There!">
+<p class="caption">People Live There! Istanbul Missing Maps Mapathon participants fill in "blank spots" on the map in the Boroli, Olua and Ayilo Refugee Settlements to facilitate humanitarian aid</p>
 </figure>
 
 ## From Istanbul to Kampala: HOT Uganda Organizes Mapathon on World Refugee Day
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic3.jpg" alt=“Mapathon in Kampala”>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic3.jpg" alt="Mapathon in Kampala">
 <p class="caption">Mapathon in Kampala</p>
 </figure>
 
 On June 20, the HOT team in Uganda organized a mapathon in Kampala, with remote connection from MSF’s office in Yumbe, to contribute to the provisioning of up-to-date information on refugee settlements and hosting communities. The mapathon gathered several volunteers, humanitarian workers and representatives from UNHCR and WFP, and targeted mapping of shelters, main roads, boundaries for Maji Refugee Settlement and Adjumani Town.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic4.jpg" alt=“Opening of the Mapathon”>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic4.jpg" alt="Opening of the Mapathon">
 <p class="caption">Opening of the Mapathon in Kampala, HOT Country Manager with MapUganda colleagues</p>
 </figure>
 
