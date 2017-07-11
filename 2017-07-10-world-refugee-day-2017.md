@@ -13,6 +13,10 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
+## What connects Kampala and Istanbul?
+
+_(originally posted to the Humanitarian OpenSteetMap Team [blog](https://www.hotosm.org/updates/2017-07-03_volunteers_in_uganda_and_turkey_rally_to_support_refugees_on_world_refugee_day) on July 3, 2017)_
+
 What connects Kampala and Istanbul? You might be thinking that Kampala and Istanbul are worlds apart, but volunteers in both cities rallied around a common cause for World Refugee Day - working together to map priority areas in Uganda that require urgent humanitarian assistance.
 
 With the protracted conflicts in Syria and South Sudan, displaced civilians continue to seek safety in neighboring countries and beyond. Turkey and Uganda have gained prominence on the world stage for opening their borders to receive refugees, particularly those fleeing from respective conflicts in Syria and South Sudan. More broadly, Turkey hosts the largest number of refugees in the world, with the UN High Commissioner for Refugees (UNHCR) citing an [estimated 2.9 million people in country in 2016](http://www.unhcr.org/statistics/unhcrstats/5943e8a34/global-trends-forced-displacement-2016.html). Uganda hosts the largest number of refugees in Africa, with over [1.2 million](http://www.un.org/apps/news/story.asp?NewsID=57050#.WVEh0ROGOgQ) refugees and asylum seekers in country today. And these numbers continue to rise.
