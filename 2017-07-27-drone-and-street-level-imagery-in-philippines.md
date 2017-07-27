@@ -3,11 +3,11 @@ layout: post
 title: Detailed drone and street-level imagery for mapping in the Philippines
 postID: drone-and-street-level-imagery-in-philippines
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160425_banner.jpg
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_banner.jpg
 date: 2017-07-27
 author: Dan Joseph
 excerpt: ""
-published: false
+published: true
 tags: [Red Cross, imagery]
 permalink: /blog/:year/:month/:day/:title/
 lang: en
@@ -32,7 +32,7 @@ Unmanned Aerial Vehicles (UAVs), also known as Remotely Piloted Aircraft Systems
 
 **Coordination and legal aspects**
 
-When flying drones, it is important to comply with regulations, conduct activities professionally, and operate safely. Failing to do so could result in backlash against the future utilization of the technology. An FAA certified remote pilot from the American Red Cross GIS team as well as a volunteer that is certified were present for the project activities. After talking through the planned activities with the Philippine Red Cross we communicated with all the local authorities to obtain their approvals. We then obtained all necessary authorizations from the Civil Aviation Authority of the Philippines (CAAP).
+When flying drones, it is important to comply with regulations, conduct activities professionally, and operate safely. Failing to do so could result in backlash against the future utilization of the technology. An FAA certified remote pilot from the American Red Cross GIS team as well as a volunteer that is certified were present for the project activities. During planning stages, we talked through the activities with the Philippine Red Cross. Then we communicated with all the local authorities to obtain their approvals. We then obtained all necessary authorizations from the Civil Aviation Authority of the Philippines (CAAP). Preparation for the trip was a several month process!
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_slingshot.jpg" alt="POSM">
@@ -41,7 +41,7 @@ When flying drones, it is important to comply with regulations, conduct activiti
 
 **Drones**
 
-We took two fixed-wing drones, an [Event 38](https://twitter.com/Event38) E384 and a [Tuffwing](https://twitter.com/TuffWing) UAV Mapper, as well as a small quadcopter, a [DJI](https://twitter.com/djiglobal) Mavic Pro. Due to some technical challenges, and difficulties finding suitably large and clear areas for landing the fixed wing drones, almost all our mapping ended up being with the Mavic. Because we had two pilots we ended up procuring a second Mavic after the first week to double our coverage speed.
+We took two fixed-wing drones, an [Event 38](https://twitter.com/Event38) E384 and a [Tuffwing](https://twitter.com/TuffWing) UAV Mapper, as well as a small quadcopter, a [DJI](https://twitter.com/djiglobal) Mavic Pro. Due to some technical challenges, and difficulties finding suitably large and clear areas for landing the fixed-wing drones, almost all our mapping ended up being with the Mavic. Because we had two pilots we ended up procuring a second Mavic after the first week to double our coverage speed.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_mavics.jpg" alt="flying the Mavics">
@@ -84,7 +84,7 @@ We tested using ground controls points (GCPs) in Barangay Marasbaras. We had 12 
 As we travelled between barangays and walked around the areas, we used a variety of cameras to collect street-level imagery. The geotagged images collected with Sony action cameras, 360<sup>o</sup> cameras, and smart-phones were then uploaded to [Mapillary](https://www.mapillary.com/) where they became part of an ever-growing, community built collection of openly licensed street-level images for the world. The images can provide valuable insights; it is possible to observe signage, the condition of buildings, and other aspects of the environment not visible in vertical aerial/satellite imagery. They allow anyone to [#MapillaryExplore](https://twitter.com/mapillary/status/874978591678791681).
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_gcp3.jpg" alt="collecting mapillary">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_mapillary.jpg" alt="collecting mapillary">
 <p class="caption">Hiding from the sun while <a href="https://www.mapillary.com/app/?lat=10.859070004872933&lng=124.98645779947196&z=17&pKey=61GREpTo2sVH4BfhTSZm6A&focus=photo&x=0.3017540420440399&y=0.6072076945566833&zoom=0" target="\_blank">collecting images</a> with a 360<sup>o</sup> camera mounted on a pole</p>
 </figure>
 
@@ -125,7 +125,8 @@ There is a strong OSM-PH community and OSM is increasingly considered a useful s
 To coordinate the digital volunteers helping to trace the project areas we used the Humanitarian OpenStreetMap Team (HOT) Tasking Manager to divide each barangay up into a grid of tasks to be systematically traced and then validated by a skilled mapper.
 
 **Results**
-The drone imagery, and the Mapillary imagery as well, proved useful for detailed, up-to-date tracing of map features into OSM. The improvements over what was possible using only satellite imagery are striking!
+
+The drone imagery, and the Mapillary images as well, proved useful for detailed, up-to-date tracing of map features into OSM. The improvements over what was possible using only satellite imagery are striking!
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_palanog-before.jpg" alt="before">
@@ -139,9 +140,9 @@ The drone imagery, and the Mapillary imagery as well, proved useful for detailed
 
 ## Next steps
 We made all the imagery outputs available through [OAM](https://map.openaerialmap.org/#/125.32379150390624,10.875116370134366,9?_k=xfrwrc) and [Mapillary](https://www.mapillary.com/app/?lat=11.061160979894737&lng=125.00135879610951&z=10).
-We've also made the raw datasets of aerial imagery [available](https://docs.google.com/spreadsheets/d/1vX1C0k1TM0op9qQ0m8cXMUsMcUnzw3o7SE5dasOXbf8/edit?usp=sharing) with the intent that they can be used for purposes such as test datasets for the development of tools like ODM. The outputs will be shared with the communities and local government. The American Red Cross will continue to work with the Philippines Red Cross to utilize the data and think about future use of drones. We will continue to share and progress with our learning and hopefully fly again soon!
+We've also made the raw datasets of aerial imagery [available](https://docs.google.com/spreadsheets/d/1vX1C0k1TM0op9qQ0m8cXMUsMcUnzw3o7SE5dasOXbf8/edit?usp=sharing) with the intent that they can be used for purposes such as test datasets for the development of tools like ODM. You can check out the imagery in this [web viewer](https://americanredcross.github.io/ttl-imagery/). The outputs will be shared with the communities and local government. The American Red Cross will continue to work with the Philippines Red Cross to utilize the data and think about future use of drones. We will continue to share and progress with our learning, and hopefully fly again soon!
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_mavics.jpg" alt="flying the Mavics">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_kids.jpg" alt="flying the Mavics">
 <p class="caption">Interested kids crowd around to see the screen displaying the status of one of the Mavics as it maps, CC-BY Ylla De Ocampo</p>
 </figure>
