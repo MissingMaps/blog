@@ -6,7 +6,7 @@ category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_banner.jpg
 date: 2017-07-27
 author: Dan Joseph
-excerpt: "Earlier this year, the American Red Cross and Philippine Red Cross collected detailed imagery "
+excerpt: "Earlier this year, the American Red Cross and Philippine Red Cross collected detailed aerial and street-level imagery of areas that have been part of a 3-year Typhoon Haiyan (Yolanda) recovery program."
 published: true
 tags: [Red Cross, imagery]
 permalink: /blog/:year/:month/:day/:title/
