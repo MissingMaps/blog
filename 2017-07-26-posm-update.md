@@ -1,6 +1,6 @@
 ---
 layout: post
-title: POSM 0.7: Faster and better than ever!
+title: "POSM 0.7: Faster and better than ever!"
 postID: posm-update
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170726_banner.jpg
