@@ -13,11 +13,11 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-## POSM 0.7.1: Faster and better than ever!
+## POSM 0.7: Faster and better than ever!
 
 We are pleased to announce a new and improved version of POSM – now faster and slicker than ever!
 
-Based on our experiences in the field, we made a number of improvements and fixes to help it meet our mapping needs more effectively. We’ve just released the updated system as POSM 0.7.1 (codename: natural blowfish)
+Based on our experiences in the field, we made a number of improvements and fixes to help it meet our mapping needs more effectively. We’ve just released the updated system as POSM ~0.7.1 (codename: natural blowfish)~ 0.7.2 (codename: clear hen).
 
 Additions and improvements include:
 
@@ -42,6 +42,6 @@ Additions and improvements include:
 
 POSM is ready for your offline enumeration, mapping, and imagery needs with its integration of OpenDataKit, OpenMapKit, Field Papers, OpenStreetMap, OpenDroneMap, and the POSM Imagery API.
 
-The build is available [here](https://github.com/posm/posm-build/releases/tag/v0.7.1) and we encourage everyone using POSM to update their device(s) with this version.
+The build is available [here](https://github.com/posm/posm-build/releases) and we encourage everyone using POSM to update their device(s) with this version.
 
 We’re excited about these improvements and hope you are, too!
