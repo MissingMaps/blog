@@ -6,7 +6,7 @@ category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170905_banner.jpg
 date: 2017-09-05
 author: Rachel Levine
-excerpt: “Share your chapters' lessons learned with the wider Missing Maps community by filming a short 5 minute video on Tips and Tricks for Hosting a Mapathon.  Winning video will be featured on the Missing Maps website."
+excerpt: "Share your chapters' lessons learned with the wider Missing Maps community by filming a short 5 minute video on Tips and Tricks for Hosting a Mapathon.  Winning video will be featured on the Missing Maps website."
 published: true
 tags: [YouthMappers]
 permalink: /blog/:year/:month/:day/:title/
