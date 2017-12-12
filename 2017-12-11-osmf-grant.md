@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “$25,000 Grant to OpenStreetMap”
+title: $25,000 Grant to OpenStreetMap
 postID: osmf-grant
 category: blog
 banner: http://arcmaps.s3.amazonaws.com/share/blog-pictures/matt_philippines.jpeg
