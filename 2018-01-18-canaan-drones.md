@@ -4,7 +4,7 @@ title: Drones over Canaan, Haiti
 postID: canaan-drones
 category: blog
 banner:
-date: 2018-01-XX
+date: 2018-01-18
 author: Matthew Gibb and Dan Joseph
 excerpt:  In what has become the second largest populated area in Haiti, Canaan continues to evolve and grow. The American Red Cross recently covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and for updating OpenStreetMap.
 Published: false
