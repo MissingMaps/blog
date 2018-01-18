@@ -13,7 +13,10 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-(EMBED VIDEO OF CANAAN APPROACH?)
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YopoEuwLf2Y" frameborder="0" allowfullscreen></iframe>
+<p class="caption">Approach to Canaan</p>
+</figure>
 
 Eight years after the devastating earthquake in January 2010, the landscape in Haiti is continuously changing. For organizations working in Haiti, recovery programs slowly transitions to preparedness and disaster risk reduction. More importantly, for over 250,000 people north of Port-au-Prince a blank slate, a patch of land, transitions into a future. The resourcefulness of this community has been [well documented](http://www.redcross.org/news/article/In-Canaan-Haiti-residents-guide-the-citys-development). Since 2014, the American Red Cross has been supporting residents of this community through [health, infrastructure, and livelihoods programs](http://www.redcross.org/news/article/Haiti-Canaan-residents-join-together-to-overcome-economic-challenges).
 Canaan has grown so rapidly, that keeping a map of the area up to date is extremely difficult, and some communities within the area are becoming so dense that satellite imagery is becoming more difficult to interpret. To provide new imagery for the community and partner organizations working there, the American Red Cross has collected, processed, and made available imagery for the entire 35 square kilometer area.
