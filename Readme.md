@@ -2,6 +2,8 @@
 
 Blog post are added to the [missingmaps](http://missingmaps.org) site by adding a new file here.
 
+Copy an early blog post as a template. Follow the image file naming conventions and talk to us about putting the image files in the same AWS S3 bucket as all the other images.
+
 First create a file with the following naming conventions YYYY-MM-DD-[title-of-post].md For instance the first blog post is named 2016-05-05-intro-to-missing-maps.md
 
 Next add the following to the top of your new file. This 'front matter' is important for the page meta data and so that it will build correctly.
