@@ -3,10 +3,10 @@ layout: post
 title: Drones over Canaan, Haiti
 postID: canaan-drones
 category: blog
-banner:
-date: 2018-01-28
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/canaan-drones_banner.jpg
+date: 2018-02-16
 author: Matthew Gibb and Dan Joseph
-excerpt:  In what has become the second largest populated area in Haiti, Canaan continues to evolve and grow. The American Red Cross recently covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and for updating OpenStreetMap.
+excerpt:  In what has become one of the largest populated areas in Haiti, Canaan continues to evolve and grow. The American Red Cross recently covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and for updating OpenStreetMap.
 published: false
 tags: [Haiti, Canaan, drones, OpenDroneMap]
 permalink: /blog/:year/:month/:day/:title/
@@ -27,7 +27,7 @@ Canaan lies in rolling foothills about 10km north of Port-au-Prince. The growing
 
 Given the Mavic Pro’s size and sensor capabilities, it takes more flights and many more pictures than a fixed wing drone to cover the large areas needed for this mission, To account for this, we included 20 batteries and utilized power converters that could charge batteries in our vehicle while flights continued.
 
-To improve accuracy of our orthomosaic, at each launch point, ground control points (GCPs) were used. (DAN TO ADD SOMETHING HERE)
+To improve accuracy of our orthomosaic, at each launch point, ground control points (GCPs) were used. GPS coordinates are taken at the center of the GCP and when the orthomosaic is created, it can be georectified in QGIS by manually changing the latitude and longitude of the GCP in the image.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/canaan-drones_GCP-placed.jpg">
@@ -71,14 +71,20 @@ Over 6 flying days (with excessive wind having grounded us for 2 days), a total 
 
 # Processing
 
-At the American Red Cross, we support the use of open source software, and have contributed to the OpenDroneMap project. Due to the magnitude of images that were collected, we processed the images in 66 separate groups, each less 1000 images, making sure that there was significant overlap of these areas for continuity of processing. This process took ONE MILLION HOURS
+At the American Red Cross, we support the use of open source software, and have contributed to the OpenDroneMap project. Due to the magnitude of images that were collected, we processed the images in 66 separate groups, each less 1000 images, making sure that there was significant overlap of these areas for continuity of processing. This process took hundreds of computing hours (DAN CAN YOU WORD THIS BETTER). It took several attempts and and multiple methodologies to identify a process that resulted in a quality orthoimage to be shared.
 
-(PICTURE OF PROCESSING AREAS)
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/canaan-drones_processing.png">
+<p class="caption">Collected imagery and the processing areas, CC-BY American Red Cross</p>
+</figure>
 
 Following the processing, the scenes were merged using GDAL. Once the merged orthomosaic was complete, we georeferenced the mosaic using the ground control points that were laid out at each launch site.
 
-(PICTURE OF GCP FROM DRONE)
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/canaan-drones_gcp-flight.png">
+<p class="caption">Ground control point highlighted in an image from the DJI Mavic Pro, CC-BY American Red Cross</p>
+</figure>
 
-The orthomosaic has been added to OpenAerialMap. New mapping projects have been created on the HOT Tasking manager. Due to the density of the area and presence of existing data, these projects are available to advanced mappers only.
+The orthomosaic has been added to and can be downloaded from [OpenAerialMap](LINK TO OAM). New mapping projects have been created on the HOT Tasking manager. Due to the density of the area and presence of existing data, these projects are available to advanced mappers only.
 
 The imagery has been shared with American Red Cross staff as well as partners and organizations working in Canaan to improve population estimates, plan DRR activities, and assist with community planning.
