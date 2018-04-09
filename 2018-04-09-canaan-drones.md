@@ -69,7 +69,9 @@ In addition to flights, we used two Sony Action Cameras to capture street level 
 <p class="caption">Camera collecting street level imagery for Mapillary and OpenStreetCam, CC-BY American Red Cross</p>
 </figure>
 
+<figure>
 <iframe width="640" height="320" src="https://embed-v1.mapillary.com/embed?version=1&filter=%5B%22all%22%5D&map_filter=%5B%22all%22%5D&map_style=mapbox_streets&image_key=qesHt-3rIoVgYZaYtguNsQ&x=0.5&y=0.5&client_id=MFpjMU5abGRUMmxoQjEzdUNUMFRjdzo3NmEwODNjYzdkNGQ5OWE5&style=split" frameborder="0"></iframe>
+</figure>
 
 Over 6 days of flying (with excessive wind grounding us for 2 additional days), we launched and landed the Mavics enough times to collect 28,232 nadir (downward-facing) images. While driving between launch sites we collected 133,109 street level images.
 
