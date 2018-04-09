@@ -4,10 +4,10 @@ title: Drones over Canaan, Haiti
 postID: canaan-drones
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/canaan-drones_banner.jpg
-date: 2018-02-16
+date: 2018-04-09
 author: Matthew Gibb and Dan Joseph
 excerpt:  Canaan, one of the most populated areas in Haiti, continues to evolve and grow. The American Red Cross recently covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and updating OpenStreetMap.
-published: false
+published: true
 tags: [Haiti, Canaan, drones, OpenDroneMap]
 permalink: /blog/:year/:month/:day/:title/
 lang: en
