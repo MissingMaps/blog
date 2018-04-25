@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learnings from 4 weeks in the field in Madagascar with OSM-Mada & PHF/PHM - Disaster Risk Reduction project
+title: 4 weeks in Madagascar with OSM-Mada & PHF/PHM - Disaster Risk Reduction project
 postID: cartong-madagascar-field-mapping
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_banner.jpg
