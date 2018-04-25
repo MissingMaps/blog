@@ -6,7 +6,7 @@ category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_banner.jpg
 date: 2018-04-24
 author: Martin Noblecourt
-excerpt: As part of a new natural Disaster Risk Reduction project launched in partnership with the French NGO <a href="http://pohf.org/">Pompiers Humanitaires Français (PHF)</a> and the <a href="https://www.facebook.com/OpenStreetMap.Madagascar/">local OpenStreetMap community</a>, Missing Maps member CartONG implemented a 4-week mission in Madagascar in March 2018. The objectives: raising awareness on data sharing, collecting data in the field and producing maps!
+excerpt: "As part of a new natural Disaster Risk Reduction project launched in partnership with the French NGO <a href='http://pohf.org/'>Pompiers Humanitaires Français (PHF)</a> and the <a href='https://www.facebook.com/OpenStreetMap.Madagascar/'>local OpenStreetMap community</a>, Missing Maps member CartONG implemented a 4-week mission in Madagascar in March 2018. The objectives: raising awareness on data sharing, collecting data in the field and producing maps!"
 published: true
 tags: [field mapping, project update]
 permalink: /blog/:year/:month/:day/:title/
