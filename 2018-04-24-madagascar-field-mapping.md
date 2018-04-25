@@ -57,6 +57,4 @@ During this mission, we once again noted the considerable lack of data collectio
 
 We now hope to launch the second phase of the project in order to go deeper in the use of the data produced by local actors, both for disaster risk reduction purposes and for the implementation of other development projects. We also intend to continue supporting and collaborating with the Malagasy OSM community in order to provide mapping and information management tools adapted to the needs of field workers.
 
-***
-
 Don't hesitate to [get in touch with CartONG](http://cartong.org/fr/contact-us) if you know of any organization working in Madagascar which might be interested in maps & open data! 
