@@ -4,7 +4,7 @@ Blog post are added to the [missingmaps](http://missingmaps.org) site by adding 
 
 Images go in the `arcmaps/share/blog-pictures/` S3 bucket, should be named following `missingmaps-blog_YYYYMMDD_my-file-name.extension`, and should be resized to an appropriately small size. Banner images should have the hue/saturation reduced.
 
-Copy an early blog post as a template. Follow the image file naming conventions and talk to us about putting the image files in the same AWS S3 bucket as all the other images.
+Copy an early blog post as a template. Follow the image file naming conventions and talk to us about putting the image files in the same AWS S3 bucket as all the other images (talk to daniel.joseph@redcross.org if you need support).
 
 First create a file with the following naming conventions YYYY-MM-DD-[title-of-post].md For instance the first blog post is named 2016-05-05-intro-to-missing-maps.md
 
