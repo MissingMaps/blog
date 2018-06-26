@@ -19,7 +19,7 @@ Nearly two years after the launch of the [MapSwipe app](http://mapswipe.org/inde
 
 MapSwipers are a truly international bunch, hailing as much from Tanzania, Denmark, Singapore or the Czech Republic as from the US and UK.
 
-The app is being maintained by an equally international bunch of volunteers and staff from the [Missing Maps](http://www.missingmaps.org/)/[HOT](http://www.missingmaps.org/) community. And thanks to the hard work of volunteers, the MapSwipe app is now open source, so anyone with the relevant coding skills can access the code on Github and help to improve the app. [Get in touch](https://docs.google.com/forms/d/e/1FAIpQLSe5-LIScH0URlymhTzXAyrbTJUEMmfBvWfBVuW38Zw9PnxPzA/viewform) if you’re interested - particularly if you have React Native, Python, Firebase or general mobile app development skills!
+The app is being maintained by an equally international bunch of volunteers and staff from the [Missing Maps](http://www.missingmaps.org/) / [HOT](https://www.hotosm.org/) community. And thanks to the hard work of volunteers, the MapSwipe app is now open source, so anyone with the relevant coding skills can access the code on Github and help to improve the app. [Get in touch](https://docs.google.com/forms/d/e/1FAIpQLSe5-LIScH0URlymhTzXAyrbTJUEMmfBvWfBVuW38Zw9PnxPzA/viewform) if you’re interested - particularly if you have React Native, Python, Firebase or general mobile app development skills!
 
 ## So what happens to MapSwipe data?
 
