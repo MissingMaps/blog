@@ -3,7 +3,7 @@ layout: post
 title: MapSwipe - the story continues
 postID: mapswipe-story
 category: blog
-BANNER: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180625_banner.jpg
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180625_banner.jpg
 date: 2018-06-25
 author: Jess Cahill
 excerpt: MapSwipe volunteer Jess Cahill looks at current MapSwipe developments and how the crowdmapping app is helping survivors of sexual violence in Haiti.
