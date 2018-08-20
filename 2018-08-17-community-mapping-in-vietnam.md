@@ -13,7 +13,7 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-# Community Mapping in Viet Nam
+## Community Mapping in Viet Nam
 
 In June, members of the American Red Cross GIS team traveled to Hoi An, Viet Nam for a Missing Maps training with the Viet Nam Red Cross Society (VNRC) and the American Red Cross Viet Nam Delegation. The purpose of the training was twofold: (1) to train Red Cross staff on how to conduct community mapping, with a focus on mobile data collection, and (2) to demonstrate how to use open-source GIS platforms to produce maps, with the objective of improving preparedness for natural disasters. Using a training of trainers model, participants – and future trainers – learn best practices for conducting community mapping projects in medium- to large-scale teams and how to help their mappers succeed. 
 
