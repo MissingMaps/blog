@@ -17,6 +17,11 @@ lang: en
 
 The American Red Cross has been working collaboratively with the Myanmar Red Cross, to better understand where critical infrastructure and roads are to inform decision making during major disasters like floods and cyclones. 
 
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_1.png">
+<p class="caption">Planning Mawlamyine City mapping, CC-BY Kyawzayar Linn</p>
+</figure>
+
 Nearly all of our experiences have shown us that detailed and accurate map data help the Red Cross Movement to better understand where people live in relation to potential hazards so that we can help them be prepared, respond, and recover from disasters. Armed with quality information, response teams and decision-makers have the ability to better serve their communities in a timely manner and more effectively allocate resources to those who need it most.
 
 In May 2018, the American Red Cross GIS team trained members of [One Map Myanmar (OMM)](https://portal.onemapmyanmar.info/omm/home/) and [Phandeeyar](https://phandeeyar.org/) in a weeklong data collection training (a training-of-trainers) in Yangon. After this, these trainers trained Red Cross volunteers in Mawlamyine, and then, they went to collect data for this project.
@@ -30,7 +35,7 @@ In May 2018, the American Red Cross GIS team trained members of [One Map Myanmar
 Below, is a snapshot of how the city of Mawlamyine was divided into mapping tasks and the smaller squares demonstrate areas of higher urban density. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_1.png">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_2.png">
 <p class="caption">Tasking Manager project squares</p>
 </figure>
 
@@ -89,12 +94,20 @@ This animation, produced from HOT’s [Visualize Change Tool](http://visualize-c
 <p class="caption">Mapping progress visualized</p>
 </figure>
 
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_6.png">
+<p class="caption">Mapping statistics</p>
+</figure>
+
 ## Partners for this collaboration
 
 We want to thank our partners [One Map Myanmar](https://portal.onemapmyanmar.info/omm/home/) and [Phandeeyar](https://phandeeyar.org/) for collaborating with us and for their time. 
 
 If you would like to get involved with Missing Maps and our projects in Myanmar, please consider helping us with our efforts to map the Ayeyarwady Delta. Tasks and their priority levels can be found here: https://tasks.hotosm.org/contribute?difficulty=ALL&text=Ayeyarwady 
 
-
-
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_7.png">
+<p class="caption">Training participants, CC-BY Rachel Levine / American Red Cross</p>
+</figure>
+
 
