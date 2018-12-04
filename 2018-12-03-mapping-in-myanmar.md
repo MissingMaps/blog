@@ -28,9 +28,9 @@ In May 2018, the American Red Cross GIS team trained members of [One Map Myanmar
 
 **Two key objectives for data collection in Myanmar:**
 
-1. The mapping teams collected points-of-interests (this list can be viewed in the next paragraph) that were not already in OSM, cleaned and validated the data, and then uploaded it
+1. The mapping teams collected points-of-interests that were not already in OSM, cleaned and validated the data, and then uploaded the data.
 
-2. To form collaborations with local city authorities, disaster management agencies and volunteers to inform decision-makers about the OSM community and open source tools and communities
+2. To form collaborations with local city authorities, disaster management agencies and volunteers to inform decision-makers about the OSM community and open source tools and communities.
 
 Below, is a snapshot of how the city of Mawlamyine was divided into mapping tasks and the smaller squares demonstrate areas of higher urban density. 
 
@@ -38,7 +38,7 @@ Below, is a snapshot of how the city of Mawlamyine was divided into mapping task
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_2.png">
 <p class="caption">Tasking Manager project squares</p>
 </figure>
-
+
 The data layers or points-of-interest (POIs) that were collected by teams include:
 
 - Accommodations
@@ -77,8 +77,8 @@ OpenStreetMap and other forms of open data (i.e. Humanitarian Data Exchange) are
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_3.png">
 <p class="caption">Discussing open data, CC-BY Kyawzayar Linn</p>
 </figure>
-
-Before this activity took place, there were about 113 POIs on the map for the city of Mawlamyine in OSM. After this team collected their datasets, cleaned the data and uploaded, nearly **60,000 new POIs** were added into OSM! These new data layers can help disaster managers and planners identify key places they can distribute resources at before or after a disaster strikes. 
+
+Before this activity took place, there were about 113 POIs on the map for the city of Mawlamyine in OSM. After this team collected their datasets, cleaned the data and uploaded, nearly **60,000 new POIs** were added into OSM! These new data layers can help disaster managers and planners identify key places they can distribute resources before or after a disaster strikes. 
 
 Using the [OSM Analytics Tool](https://osm-analytics.org/) we can see how many buildings were in this area before and after the new data were brought into OSM.
 
@@ -87,7 +87,7 @@ Using the [OSM Analytics Tool](https://osm-analytics.org/) we can see how many b
 <p class="caption">OSM before and after</p>
 </figure>
 
-This animation, produced from HOT’s [Visualize Change Tool](http://visualize-change.hotosm.org/) also shows the progress of the features added in OSM over time for the entire area,
+The below animation, produced from HOT’s [Visualize Change Tool](http://visualize-change.hotosm.org/) also shows the progress of the features added in OSM over time for the entire area.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_5.gif">
@@ -109,5 +109,4 @@ If you would like to get involved with Missing Maps and our projects in Myanmar,
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_7.png">
 <p class="caption">Training participants, CC-BY Rachel Levine / American Red Cross</p>
 </figure>
-
 
