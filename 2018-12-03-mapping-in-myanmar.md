@@ -15,14 +15,14 @@ lang: en
 
 ## Overview
 
-The American Red Cross has been working collaboratively with the Myanmar Red Cross, to better understand where critical infrastructure and roads are to inform decision making during major disasters like floods and cyclones. 
+The American Red Cross has been working alongside the Myanmar Red Cross to better understand where critical infrastructure and roads are to inform decision making during major disasters, like floods and cyclones. 
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_1.png">
 <p class="caption">Planning Mawlamyine City mapping, CC-BY Kyawzayar Linn</p>
 </figure>
 
-Nearly all of our experiences have shown us that detailed and accurate map data help the Red Cross Movement to better understand where people live in relation to potential hazards so that we can help them be prepared, respond, and recover from disasters. Armed with quality information, response teams and decision-makers have the ability to better serve their communities in a timely manner and more effectively allocate resources to those who need it most.
+Nearly all of our experiences have shown us that detailed and accurate map data help the global Red Cross and Red Crescent network to better understand where people live in relation to potential hazards so that we can help them prepare, respond, and recover from disasters. Armed with quality information, emergency response teams and decision-makers have the ability to better serve their communities in a timely manner and more effectively allocate resources to those who need it most.
 
 In May 2018, the American Red Cross GIS team trained members of [One Map Myanmar (OMM)](https://portal.onemapmyanmar.info/omm/home/) and [Phandeeyar](https://phandeeyar.org/) in a weeklong data collection training (a training-of-trainers) in Yangon. After this, these trainers trained Red Cross volunteers in Mawlamyine, and then, they went to collect data for this project.
 
@@ -48,26 +48,26 @@ The data layers or points-of-interest (POIs) that were collected by teams includ
 - Financial institutions
 - Offices
 - Public spaces
-- Transportations
+- Transportation infrastructure
 - Markets
 - Places of worship
 - Restaurants
 - Stadiums
 
 
-## From data collection training to providing data that can better facilitate collaborations
+## From data collection training to improved collaboration
 
 ### Identifying priority datasets and data collection
 
-This process looks at what kind of data currently exists and what points-of-interests are needed to fill in data gaps in OSM for this region. Then, the trained data collectors were split into teams and collected the data using OpenMapKit (OMK).
+This process looked at what kind of data currently exists and what points-of-interests are needed to fill in data gaps in OSM for this region. Then, the trained data collectors were split into teams and collected the data using OpenMapKit (OMK).
 
 ### Cleaning and validating the data
 
-The collected points-of-interests were then downloaded and divided between teams for data quality checks and validation. Specifically two main things were flagged for quality control: (1) whether the language tags in English and in the Myanmar language are both correct and (2) if the geographic placements of the points are where they should be.
+The collected points-of-interest were then downloaded and divided between teams for data quality checks and validation. Specifically two main things were flagged for quality control: (1) whether the language tags in English and in the Myanmar language are both correct and (2) if the geographic placement of the points are where they should be.
 
 ### Uploading the data into OSM
 
-In Myanmar, the Red Cross among other organizations are interested in seeing the data put to practical use - to create either a large city map or a large-scale ward map for Mawlamyine with the new buildings recently added.
+In Myanmar, the Red Cross and other organizations are interested in seeing the data put to practical use to create either a large city map or a large-scale ward map for Mawlamyine with the new buildings recently added.
 
 ### Sharing datasets for improved collaboration
 
