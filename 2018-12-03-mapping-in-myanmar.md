@@ -28,9 +28,9 @@ In May 2018, the American Red Cross GIS team trained members of [One Map Myanmar
 
 **Two key objectives for data collection in Myanmar:**
 
-1. The mapping teams collected points-of-interests that were not already in OSM, cleaned and validated the data, and then uploaded the data.
+1. To break into organized teams and collect points-of-interests that were not already in OSM; clean and validate the data, and  upload the data
 
-2. To form collaborations with local city authorities, disaster management agencies and volunteers to inform decision-makers about the OSM community and open source tools and communities.
+2. To form collaborations with local city authorities, disaster management agencies and volunteers to inform decision-makers about the OSM community and open source tools and communities
 
 Below, is a snapshot of how the city of Mawlamyine was divided into mapping tasks and the smaller squares demonstrate areas of higher urban density. 
 
