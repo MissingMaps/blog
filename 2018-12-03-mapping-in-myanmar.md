@@ -4,7 +4,7 @@ title: "One Map Myanmar and Phandeeyar"
 postID: mapping-in-myanmar
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_banner.png
-date: 2018-12-03
+date: 2018-09-24
 author: Jennifer Duong
 excerpt: "In May 2018, the American Red Cross GIS team trained members of One Map Myanmar and Phandeeyar in a weeklong data collection training (a training-of-trainers) in Yangon. After this, these trainers trained Red Cross volunteers in Mawlamyine, and then, they went to collect data for this project."
 published: true
