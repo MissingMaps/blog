@@ -52,6 +52,9 @@ We look forward to hearing about how the participants are able to incorporate th
 </figure>
 
 Some additional coverage:
-- http://edition.channel5belize.com/archives/178715
-- https://twitter.com/BZgeo/status/1086046887764000773
-- http://lovefm.com/redcross-helps-nemo-technology-training/ 
+- [http://edition.channel5belize.com/archives/178715](http://edition.channel5belize.com/archives/178715)
+- [http://lovefm.com/redcross-helps-nemo-technology-training/](http://lovefm.com/redcross-helps-nemo-technology-training/)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The <a href="https://twitter.com/openstreetmap?ref_src=twsrc%5Etfw">@OpenStreetMap</a> made the local news last night, w/ a story featuring a collaboration between the Belize Red Cross and the [American] <a href="https://twitter.com/RedCross?ref_src=twsrc%5Etfw">@RedCross</a>. The feature was by reporter <a href="https://twitter.com/HipolitoNovelo?ref_src=twsrc%5Etfw">@HipolitoNovelo</a> of <a href="https://twitter.com/channel5belize?ref_src=twsrc%5Etfw">@Channel5Belize</a>.<a href="https://t.co/sKVruA5kQe">https://t.co/sKVruA5kQe</a> <a href="https://t.co/YXjOEBKo9B">pic.twitter.com/YXjOEBKo9B</a></p>&mdash; 🇧🇿 Belize GEO 🛰️ (@BZgeo) <a href="https://twitter.com/BZgeo/status/1086046887764000773?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
