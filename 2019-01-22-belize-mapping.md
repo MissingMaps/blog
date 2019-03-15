@@ -50,3 +50,8 @@ We look forward to hearing about how the participants are able to incorporate th
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190122_rain.jpg">
 <p class="caption">A little rain didn’t stop us! Participants were well prepared with plastic sheet protectors and umbrellas.  CC-BY American Red Cross</p>
 </figure>
+
+Some additional coverage:
+- http://edition.channel5belize.com/archives/178715
+- https://twitter.com/BZgeo/status/1086046887764000773
+- http://lovefm.com/redcross-helps-nemo-technology-training/ 
