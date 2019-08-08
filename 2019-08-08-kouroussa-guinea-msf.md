@@ -16,7 +16,8 @@ lang: en
 ## Introduction
 Through the Missing Maps project, Médecins Sans Frontières (MSF) supports initiatives like the 2-week mapathon that took place in Conakry, Guinea from May 8-22, 2019. This event was able to bring together up to 25 young people that with their volunteering work, helped MSF to get important geographical data in order to run operations on a massive area as the Kouroussa Prefecture in Guinea-Conakry. 
 
-This is a translation of the Blog of Emmanuel Kourouma from GeoSynapse* in Guinea, he writes about their collaboration with MSF. [His original blog post in French.](https://cartognfishing.wordpress.com/2019/05/21/session-de-production-de-donnees-open-data-pour-la-resilience-face-aux-paludismes-severes-des-enfants-de-0-a-5-ans-organisee-par-msf/)
+This is a translation of the [blog (in French) of Emmanuel Kourouma from GeoSynapse*](https://cartognfishing.wordpress.com/2019/05/21/session-de-production-de-donnees-open-data-pour-la-resilience-face-aux-paludismes-severes-des-enfants-de-0-a-5-ans-organisee-par-msf/) in Guinea, he writes about their collaboration with MSF. 
+
 _\*GeoSynapse is a national association promoting the use of GIS and Open Source to build decision making support tools in Guinea and in Africa._
 
 ## Blog by Emmanuel Kourouma
@@ -38,7 +39,7 @@ According to his needs, MSF organized a two-week Mapathon session by bringing to
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190808_kouroussa_guinea_msf_3.jpg">
 </figure>
 
-This capacity building allowed the mappers to achieve the objective set by being efficient in the digitization of the entities of the various tasks created on the HOT tasking manager (https://tasks.hotosm.org/project/6004) of which in total six (6) and two (2) others on the Francophonelibre tasking manager (http://taches.francophonelibre.org/project/306) over the area of intervention where children from 0 to 5 are facing severe malaria. It was a real success for the whole of the team to help MSF to produce geographical data of the area of intervention while having mapped and completed 100% of the created tasks needed for the project. 
+This capacity building allowed the mappers to achieve the objective set by being efficient in the digitization of the entities of the various tasks created on the [HOT tasking manager](https://tasks.hotosm.org/project/6004) of which in total six (6) and two (2) others on the [Francophonelibre tasking manager](http://taches.francophonelibre.org/project/306) over the area of intervention where children from 0 to 5 are facing severe malaria. It was a real success for the whole of the team to help MSF to produce geographical data of the area of intervention while having mapped and completed 100% of the created tasks needed for the project. 
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190808_kouroussa_guinea_msf_4.jpg">
