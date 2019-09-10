@@ -25,8 +25,11 @@ Why invest in open source? American Red Cross could have purchased many years of
 * The maintainers of ODM have done significant amounts of unpaid work improving tools that are available for free and helping people leverage the technology. The tools and accompanying support has helped us on our drone mapping journey. It has also benefited other organizations and individuals and helps to level the innovation field, making it easier for a more diverse group to improve their programs with new technologies. Our investment supports the developers and enables them to spend focused time on improving ODM.
 * This American Red Cross investment makes the tools better for everyone, not just license holders. A ripple effect means our humanitarian colleagues already mapping with drones in the Belize Red Cross and Indonesian Red Cross benefit, as well as any other Red Cross or Red Crescent National Society that wants to include ODM in a drones for mapping workflow.
 
-![the WebODM interface](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190807_culasi.png)
-<br><span class="post-caption">The WebODM interface on a POSM showing a completed processing task</span>
+
+<figure>
+<img alt="the WebODM interface" src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190807_culasi.png">
+<p class="caption">The WebODM interface on a POSM showing a completed processing task</p>
+</figure>
 
 We also continue to make small improvements that resolve bugs users have identified and improve the stability of the platform. See the [v0.9.0](https://github.com/posm/posm-build/releases/tag/v0.9.0) and [v0.9.1 release descriptions](https://github.com/posm/posm-build/releases/tag/v0.9.1) for a complete list of notable changes. 
 
