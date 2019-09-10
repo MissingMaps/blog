@@ -13,6 +13,8 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
+_**This was originally posted on on the [American Red Cross International Services Department](https://www.redcross.org/about-us/our-work/international-services.html) Data Team [blog](https://americanredcross.github.io/2019/01/08/odk-collect-improvements/).**_
+
 ## Open Data Kit and the benefits of open source
 
 The [Open Data Kit](http://opendatakit.org) (ODK) community produces free and open-source software for collecting, managing, and using data in resource-constrained environments. The various ODK tools enable cost effective, scalable, and user-friendly implementation of mobile data activities.

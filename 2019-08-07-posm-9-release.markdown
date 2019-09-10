@@ -13,6 +13,8 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
+_**This was originally posted on on the [American Red Cross International Services Department](https://www.redcross.org/about-us/our-work/international-services.html) Data Team [blog](https://americanredcross.github.io/2019/08/07/posm-9-release/).**_
+
 OpenDroneMap (ODM) is an open ecosystem of solutions for collecting, processing, analyzing and displaying aerial data. American Red Cross has used it when conducting drone mapping and trainings with the Philippines Red Cross, Haitian Red Cross, and Belize Red Cross. We’re excited to have been able to fund some recent improvements that create exciting opportunities when running ODM with POSM, while also benefiting the overall ODM project. The changes to ODM included: extension and modifications to ODM's split-merge code to support local and distributed workflows, and changes to the NodeODM API/proxy. What this means for you, is that it’s now possible to process large datasets on a cluster of machines faster by distributing the dataset over multiple nodes.
 
 The newest POSM release brings in the ODM updates and lets you distribute the processing of large image sets across a passel of POSMs. We were ready to make the release available; however, please note that we are still running some tests, updating [documentation](http://posm.io/docs/posm/passel/), and working to establish some benchmarks. You can expect more guidance on the new functionality and at least one minor POSM release in the near future.
