@@ -1,0 +1,43 @@
+---
+layout: post
+title: "MapSwipe 2.0: Reimagining how a mobile app can support humanitarian response worldwide"
+postID: mapswipe-2.0
+category: blog
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191001_mapsipe-grid_banner.jpg
+date: 2019-10-01
+author: Jessica Bergmann
+excerpt: "Launch of MapSwipe 2.0."
+published: true
+tags: [MapSwipe]
+permalink: /blog/:year/:month/:day/:title/
+lang: en
+---
+
+*In 2015, MapSwipe began as a solution to a complex question: how do we better identify where communities and populations are, allowing mapping to be more efficient and effective?*
+
+Using a simple mobile app, volunteers are able to swipe through a series of satellite images, tapping in areas where they find features. MapSwipe can be used anywhere, at any time, which provides an easy access point for individuals to contribute to the Missing Maps project without being restricted to their laptop.
+
+**That was MapSwipe then – this is MapSwipe now.**
+
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191001_screenshot-new-project-types.jpg">
+<p class="caption">The two new project types available in MapSwipe 2.0</p>
+</figure>
+
+Two new project types have been introduced on MapSwipe, transforming the way that volunteers can contribute to humanitarian response globally with just a few simple taps on their phone.
+
+- **Building Footprint project:** As machine-learning and AI continue to forge a new path for mapping, this project allows volunteers to indicate where building traces are inaccurate or of low-quality, signaling where improvements need to be made.
+- **Change Detection project:** Map data should constantly evolve to reflect the changes happening within a community. Volunteers use satellite imagery to indicate when change is detected in an image, signaling the need to revisit mapped areas and update data where needed. 
+
+Our team of volunteers contributing to MapSwipe have been working to redesign the user experience, ensuring that the mobile app functions on any mobile device in any geography. The new in-app tutorials coach MapSwipe volunteers on how to successfully and accurately contribute to projects.
+
+To date, over 29,000 volunteers have covered an area totaling more than 600,000 sq. km. (that’s larger than the entire country of France!) using MapSwipe. 
+
+**And we are just getting started.**
+
+If you want to learn more about MapSwipe, are interested in submitting a project, or want to get involved on the team that develops and maintains the app, visit [www.mapswipe.org](www.mapswipe.org) for more information and to download the app.
+
+
+*Thank you to the following individuals and organizations who have dedicated a number of hours and resources to make MapSwipe possible: Laurent Savaete, Benni Herfort (Heidelberg Institute for Geoinformation Technology), Johnny Henshall (British Red Cross), Andrew Braye (British Red Cross), Eric Boucher (Ovio), and Jorieke Vyncke (Médecins Sans Frontières). A special thanks to the British Red Cross for hosting the application.*
+
+
