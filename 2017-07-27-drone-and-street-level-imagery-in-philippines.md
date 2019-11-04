@@ -6,7 +6,7 @@ category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_banner.jpg
 date: 2017-07-27
 author: Dan Joseph
-excerpt: "Earlier this year, the American Red Cross and Philippine Red Cross collected detailed aerial and street-level imagery of areas that have been part of a 3-year Typhoon Haiyan (Yolanda) recovery program."
+excerpt: "In May 2017, the American Red Cross and Philippine Red Cross collected detailed aerial and street-level imagery of areas that have been part of a 3-year Typhoon Haiyan (Yolanda) recovery program."
 published: true
 tags: [Red Cross, imagery]
 permalink: /blog/:year/:month/:day/:title/
@@ -22,7 +22,7 @@ As part of the response to the disaster caused by Typhoon Haiyan (Yolanda), the 
 
 **Background**
 
-Unmanned Aerial Vehicles (UAVs), also known as Remotely Piloted Aircraft Systems (RPAS) or drones, are increasingly used for [humanitarian purposes](http://drones.fsd.ch/en/drones-in-humanitarian-action/). Earlier this year, we leveraged drones for comprehensive aerial imagery collection to support the recovery program. High-resolution aerial imagery is a valuable resource when creating value-add information products for response, planning, monitoring, and resilience building activities.
+Unmanned Aerial Vehicles (UAVs), also known as Remotely Piloted Aircraft Systems (RPAS) or drones, are increasingly used for [humanitarian purposes](http://drones.fsd.ch/en/drones-in-humanitarian-action/). In May 2017, we leveraged drones for comprehensive aerial imagery collection to support the recovery program. High-resolution aerial imagery is a valuable resource when creating value-add information products for response, planning, monitoring, and resilience building activities.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170727_compare.jpg" alt="satellite vs drone imagery">
