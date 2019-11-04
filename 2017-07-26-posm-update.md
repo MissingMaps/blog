@@ -23,7 +23,7 @@ Additions and improvements include:
 
 * Updates to the admin interface to make the user experience simpler and more straightforward, even as we add functionality
 * Built-in instruction manual. We wrote user-friendly documentation for the set-up and use of [POSM](http://posm.io/) and included it in the installer so that it’s available offline
-* Added support for OpenDataKit’s data encryption features. Users can add a private key to their ODK form, upload the form to OpenMapKitServer on POSM, then download and decrypt the data using [ODK Briefcase](https://opendatakit.org/use/briefcase/). This is part of our commitment to protecting sensitive information in the field. Getting started with ODK Briefcase can be a little confusing so we've added instructions [here](http://posm.io/in-the-field/)
+* Added support for OpenDataKit’s data encryption features. Users can add a private key to their ODK form, upload the form to OpenMapKitServer on POSM, then download and decrypt the data using [ODK Briefcase](https://opendatakit.org/use/briefcase/). This is part of our commitment to protecting sensitive information in the field. Getting started with ODK Briefcase can be a little confusing so we've added instructions [here](http://posm.io/)
 * Public file share now easier to find and use – no configuration changes necessary. Users can connect to POSM’s public file share to add files, apps, and other packages that they may need to share with volunteers or staff in the field
 * Selected software components updated (OSM’s iD editor, for example)
 * POSM is now faster to install from a USB stick
