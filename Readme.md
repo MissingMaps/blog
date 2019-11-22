@@ -1,6 +1,6 @@
 ### Adding Blog Posts
 
-Blog posts are added to the [missingmaps](http://missingmaps.org) site by adding a new file here. Click on the Create new file botton on top of this page and a new file will open.
+Blog posts are added to the [Missing Maps site](http://missingmaps.org) by adding a new file here. Click on the Create new file botton on top of this page and a new file will open.
 
 First name your file with the following naming conventions YYYY-MM-DD-[title-of-post].md For instance the first blog post is named 2016-05-05-intro-to-missing-maps.md
 
@@ -49,9 +49,11 @@ After having adapted the font matter, start writing your blogpost.
 
 To format the text you will need to use Markdown. Find [here](https://guides.github.com/features/mastering-markdown/) a guide. You could also check out how other blog posts look like. 
 
-The images of your article should be named following `missingmaps-blog_YYYYMMDD_my-file-name.extension`, and should be resized to an appropriately small size. Banner images should have the hue/saturation reduced. Images go in the `arcmaps/share/blog-pictures/` S3 bucket. Talk to us about putting the image files in the same AWS S3 bucket as all the other images (talk to daniel.joseph@redcross.org).
+The images of your article should be named following `missingmaps-blog_YYYYMMDD_my-file-name.extension`, and should be resized to an appropriately small size. Banner images should have the hue/saturation reduced. 
 
-Once your images are in teh AWS S3 bucket, you will have to add a link following the below format into your text. 
+Images go in the `arcmaps/share/blog-pictures/` S3 bucket. Talk to us about putting the image files in the same AWS S3 bucket as all the other images (talk to daniel.joseph@redcross.org).
+
+Once your images are in teh AWS S3 bucket, you will have to add a link to the image into your text. Use the below formatting for this. 
 
 ````
  <figure>
@@ -59,7 +61,7 @@ Once your images are in teh AWS S3 bucket, you will have to add a link following
 <p class="caption">write here the caption of your image</p>
 </figure>
 ````
- See below an example: 
+ See below an example. 
  
  #### Sample figure
 
