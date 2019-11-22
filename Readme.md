@@ -1,14 +1,11 @@
 ### Adding Blog Posts
 
-Blog post are added to the [missingmaps](http://missingmaps.org) site by adding a new file here.
+Blog post are added to the [missingmaps](http://missingmaps.org) site by adding a new file here. Click on the Create new file botton on top of this page and a new file will open.
 
-Images go in the `arcmaps/share/blog-pictures/` S3 bucket, should be named following `missingmaps-blog_YYYYMMDD_my-file-name.extension`, and should be resized to an appropriately small size. Banner images should have the hue/saturation reduced.
+First name your file with the following naming conventions YYYY-MM-DD-[title-of-post].md For instance the first blog post is named 2016-05-05-intro-to-missing-maps.md
 
-Copy an early blog post as a template. Follow the image file naming conventions and talk to us about putting the image files in the same AWS S3 bucket as all the other images (talk to daniel.joseph@redcross.org if you need support).
+Next copy and paste the following to the top of your new file. This 'front matter' is important for the page meta data and so that it will build correctly.
 
-First create a file with the following naming conventions YYYY-MM-DD-[title-of-post].md For instance the first blog post is named 2016-05-05-intro-to-missing-maps.md
-
-Next add the following to the top of your new file. This 'front matter' is important for the page meta data and so that it will build correctly.
 
 ````
 ---
@@ -26,6 +23,8 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 ````
+
+You will need to adapt everything between the square brackets. See below for an example. 
 
 #### Sample front matter
 
@@ -45,3 +44,30 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 ````
+
+After having adapted the font matter, start writing your blogpost.
+
+To format the text you will need to use Markdown. Find [here](https://guides.github.com/features/mastering-markdown/) a guide. You could also check out how other blog posts look like. 
+
+The images of your article should be named following `missingmaps-blog_YYYYMMDD_my-file-name.extension`, and should be resized to an appropriately small size. Banner images should have the hue/saturation reduced. Images go in the `arcmaps/share/blog-pictures/` S3 bucket. Talk to us about putting the image files in the same AWS S3 bucket as all the other images (talk to daniel.joseph@redcross.org).
+
+Once your images are in teh AWS S3 bucket, you will have to add a link following the below format into your text. 
+
+````
+ <figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_YYYYMMDD_my-file-name.extension">
+<p class="caption">write here the caption of your image</p>
+</figure>
+````
+ See below an example: 
+ 
+ #### Sample figure
+
+````
+ <figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191001_screenshot-new-project-types.png">
+<p class="caption">Two new project types are available in MapSwipe 2.0</p>
+</figure>
+````
+
+Once all the edits are done, click Commit new file. The file will be reviewd by one of the administrators and will be added on the blog page of the Missing Maps website.  
