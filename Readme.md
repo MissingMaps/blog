@@ -1,6 +1,6 @@
 ### Adding Blog Posts
 
-Blog post are added to the [missingmaps](http://missingmaps.org) site by adding a new file here. Click on the Create new file botton on top of this page and a new file will open.
+Blog posts are added to the [missingmaps](http://missingmaps.org) site by adding a new file here. Click on the Create new file botton on top of this page and a new file will open.
 
 First name your file with the following naming conventions YYYY-MM-DD-[title-of-post].md For instance the first blog post is named 2016-05-05-intro-to-missing-maps.md
 
