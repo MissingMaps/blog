@@ -17,7 +17,7 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_techheaven.jpg">
-<p class="caption">Hackers in ‘their dungeon’. The hackaton was hosted and catered for by local ITNGO [TechHeaven](https://techheaven.org/) in their building by the river, around the corner from the Pilsner Urquell brewery museum.</p>
+<p class="caption">Hackers in ‘their dungeon’. The hackaton was hosted and catered for by local ITNGO in their building by the river, around the corner from the Pilsner Urquell brewery museum.</p>
 </figure>
 
 Introducing tech hackers to the way Missing Maps works is always fun. They quickly understand the idea that they can innovate, love OpenSource on the whole, and are active community members. But there are facts about our multifaceted community which aren’t so immediately obvious:
@@ -26,14 +26,14 @@ Introducing tech hackers to the way Missing Maps works is always fun. They quick
 - The physical reality of the humanitarian impact - how digital activity of mapping translates so directly on the ground into the blood, sweat and tears of life-saving.
 - How we are all taking responsibility for this, more or less without an ‘all-knowing overseer’. And, although often fun, it is not a game.
 
+Pilsen is the home of many famous technologies, and is quickly evolving into a stronghold of the digital revolution. 3000 developers are estimated to live in this small but beautiful city. From these, a small group of digital humanitarians gathered around some important technical problems, less in competition than collaboration, to see if they could make Open Source field and remote mapping easier. Czech Tech is big business here, and Hackathons often attract decent prizes, all-night red-eyed coding, and copious amounts of caffeine. 
+
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_old-school-hardware.jpg">
 <p class="caption">Some of the hackers turned up with some serious old-school hardware.</p>
 </figure>
 
-Pilsen is the home of many famous technologies, and is quickly evolving into a stronghold of the digital revolution. 3000 developers are estimated to live in this small but beautiful city. From these, a small group of digital humanitarians gathered around some important technical problems, less in competition than collaboration, to see if they could make Open Source field and remote mapping easier. Czech Tech is big business here, and Hackathons often attract decent prizes, all-night red-eyed coding, and copious amounts of caffeine. 
-
-Food and drinks were wheeled out from the start and, per our location. The fact that the prizes for hacking were not financial, but of a ‘higher order’ (and not just the 24/7 beer!), but this did not diminish absolute commitment or fantastically high spirits. In the true ethos of the development community, shared ideas circulated, personal styles showed through in the usual hacker eccentric traditions, and strong friendships were made.
+Food and drinks were wheeled out from the start by our host, the local  ITNGO [TechHeaven](https://techheaven.org/). The fact that the prizes for hacking were not financial, but of a ‘higher order’ (and not just the 24/7 beer!) did not diminish absolute commitment or fantastically high spirits. In the true ethos of the development community, shared ideas circulated, personal styles showed through in the usual hacker eccentric traditions, and strong friendships were made.
 
 We had researched some impact-related field challenges from various sources, and groups of hackers gravitated towards problems which interested them. Effective operational groups formed and then bonded around these problem-solving projects.
 
