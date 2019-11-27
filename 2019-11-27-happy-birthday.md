@@ -25,11 +25,14 @@ As of this month, over 95,000 of you have contributed to OpenStreetMap to suppor
 
 *In honor of our birthday, we asked some of our first organizers share their thoughts on this anniversary:*
 
-“Previous to Missing Maps I had seen the power of mapathons to bring people together to help. What was amazing about where Missing Maps has taken this is the scale. That scale we couldn't have anticipated when we first began.” - Kate Chapman (Former ED HOT) 
+“Previous to Missing Maps I had seen the power of mapathons to bring people together to help. What was amazing about where Missing Maps has taken this is the scale. That scale we couldn't have anticipated when we first began.” 
+- Kate Chapman (Former ED HOT) 
 
-“To be on a map is to be acknowledged, is to be known, is to be recognised, is to be counted. It is for the world to know that you are there and that you have needs, that you have rights, and that you must not be forgotten or passed over.”  - Ivan Gayton (Former Innovation Advisor MSF)
+“To be on a map is to be acknowledged, is to be known, is to be recognised, is to be counted. It is for the world to know that you are there and that you have needs, that you have rights, and that you must not be forgotten or passed over.”  
+- Ivan Gayton (Former Innovation Advisor MSF)
 
-“Missing Maps wasn’t yet another humanitarian organization but rather an idea, a creation, an alliance to help others.” - Dale Kunce (Former GIS Team Manager American Red Cross) 
+“Missing Maps wasn’t yet another humanitarian organization but rather an idea, a creation, an alliance to help others.” 
+- Dale Kunce (Former GIS Team Manager American Red Cross) 
 
 For their full quotes and messages to the mappers, please see below.
 
@@ -70,7 +73,7 @@ We want to again thank you for the amazing support throughout the years. Happy M
 
 In the early days of Missing Maps a large foundation came to me and wanted to know where Missing Maps was registered as a non-profit, they wanted to fund us. My reply shocked them, Missing Maps was pixie dust. Missing Maps wasn’t yet another humanitarian organization but rather an idea, a creation, an alliance to help others. The founders of Missing Maps are people that will be lifelong friends. Pete Masters and Ivan Gayton were amazing provocateurs and motivators to always move faster, Kate Chapman constantly grounded our language and our desires in the local, and Andrew Braye gave us structure and organization. Pixie dust and comradery still drives Missing Maps today. Still today, no one group “owns” Missing Maps. 
 
-I am proud to have played my small part in helping communities around the world better document their own world. I am enthusiastic of the next generation of leaders working more closely with communities than ever before. I am excited to see how much mapping pixie dust we can spread around the world. - Dale
+I am proud to have played my small part in helping communities around the world better document their own world. I am enthusiastic of the next generation of leaders working more closely with communities than ever before. I am excited to see how much mapping pixie dust we can spread around the world.
 - Dale Kunce (Former GIS Team Manager American Red Cross)
 
 --------------
