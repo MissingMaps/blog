@@ -13,7 +13,7 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-*This year, we are thankful for all of you!*
+**This year, we are thankful for all of you!**
 
 Happy Birthday Mappers! It seems like just yesterday that the Missing Maps Project was launched; but this November, the Missing Maps Project turns five. Time flies! When our project first started, we could only imagine what our community would accomplish. Wow, you have all surpassed our wildest dreams!
 As of this month, over 95,000 of you have contributed to OpenStreetMap to support humanitarian projects around the world. You’ve hosted thousands of volunteer events, consumed millions of slices of pizza, and produced some truly amazing [map-cakes](https://www.pinterest.co.uk/TheMissingMaps/mappy-cake/).
@@ -23,7 +23,7 @@ As of this month, over 95,000 of you have contributed to OpenStreetMap to suppor
 <p class="caption">Cakes at the 5th Birthday Mapathon in London.</p>
 </figure>
 
-*In honor of our birthday, we asked some of our first organizers share their thoughts on this anniversary:*
+**In honor of our birthday, we asked some of our first organizers share their thoughts on this anniversary:**
 
 “Previous to Missing Maps I had seen the power of mapathons to bring people together to help. What was amazing about where Missing Maps has taken this is the scale. That scale we couldn't have anticipated when we first began.” 
 - Kate Chapman (Former ED HOT) 
@@ -36,7 +36,7 @@ As of this month, over 95,000 of you have contributed to OpenStreetMap to suppor
 
 For their full quotes and messages to the mappers, please see below.
 
-*5 Year Stats Update:* 
+**5 Year Stats Update:** 
 As we reflect on these past years, we wanted to share with you some of our proudest achievements as well as announce some upcoming initiatives. 
 
 Our project has grown from 4 organizations to 18 and we are excited to announce that next year the German Red Cross will be joining our group! Their last mapathons were in conjunction with MSF Germany and Heidelberg Institute for Geoinformation Technology during the Humanitarian Congress (http://humanitarian-congress-berlin.org/2019/) and the global Dialogue Platform on Anticipatory Actions (https://www.forecast-based-financing.org/dialogue/). More mapathons will be hosted in Berlin on a regular monthly basis from January 2020 onwards. Katharina Lorenz, Advisor for Geoinformatics, says: “We are excited to become a part of the Missing Maps team. To have such a tool at our hand now, which has successfully supported so many humanitarian aid projects in the past, is a great asset for our work in the area of disaster risk reduction. We have already started to use Missing Maps in our Forecast-based Financing project in Central Asia and we are very much looking forward to involving local volunteers on the ground.”  We can’t wait to work more with this group! 
@@ -49,10 +49,10 @@ The Heidelberg Institute for Geoinformation Technology/ GIScience Research Group
 
 The team will for sure also provide further updates to help us better monitor our achievements in the future. 
 
-*A Year of Blogs*
+**A Year of Blogs**
 In celebration of our birthday, we are excited to launch A Year of Blogs.  Every month, we will be posting a new blog that provides follow-up on one of our longer-term projects. We’ll share the links on our social media channels, so please keep an eye out for those announcements. Our first post will be in December from the MapAction team. They’ll tell us more about their recent work supporting Hurricane Dorian relief efforts in the Bahamas. 
 
-*How YOU Can Participate:*
+**How YOU Can Participate:**
 The Missing Maps Project aims to put the world’s vulnerable communities on the map. Thanks to the awesome mapping contributions over the last 5 years by the Missing Maps community, we’ve gotten a lot closer to our goal of mapping these communities. During Geoweek-2019 alone, over 150 mapping events were organized by community leaders to support Missing Maps! 
 
 Interested in getting involved? Looking for an event near you?! If you are interested in joining a mapathon, please see our [events page](http://www.missingmaps.org/events/) to link up with your local organizers. What if there are no mapathons planned around you? Why not organize a mapathon yourself?! Find our list of [mapathon supporters](http://www.missingmaps.org/host/#helper-map-contents) and [related training materials and resources](http://www.missingmaps.org/host/)  that can help guide you. Remember all Missing Maps tasks are on the [Tasking Manager](https://tasks.hotosm.org/).   If you aren’t at a computer, you can also map on your mobile device with [MapSwipe](https://mapswipe.org/), available on Google Play and the App Store.
@@ -69,7 +69,7 @@ We want to again thank you for the amazing support throughout the years. Happy M
 
 
 --------------
-*Full quotes from our first organizers:*
+**Full quotes from our first organizers:**
 
 In the early days of Missing Maps a large foundation came to me and wanted to know where Missing Maps was registered as a non-profit, they wanted to fund us. My reply shocked them, Missing Maps was pixie dust. Missing Maps wasn’t yet another humanitarian organization but rather an idea, a creation, an alliance to help others. The founders of Missing Maps are people that will be lifelong friends. Pete Masters and Ivan Gayton were amazing provocateurs and motivators to always move faster, Kate Chapman constantly grounded our language and our desires in the local, and Andrew Braye gave us structure and organization. Pixie dust and comradery still drives Missing Maps today. Still today, no one group “owns” Missing Maps. 
 
