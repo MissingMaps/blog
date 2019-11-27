@@ -3,7 +3,7 @@ layout: post
 title: ‘Happy 5th Birthday!’ - Missing Maps Turns 5 & the Launch of A Year of Blogs! 
 postID: happy-birthday
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps_blog_20191127_.banner.jpg
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191127_banner.jpg
 date: 2019-11-27
 author: Rachel Levine for the Missing Maps Group
 excerpt: Reflections on 5 Years of Mapping
@@ -19,7 +19,7 @@ Happy Birthday Mappers! It seems like just yesterday that the Missing Maps Proje
 As of this month, over 95,000 of you have contributed to OpenStreetMap to support humanitarian projects around the world. You’ve hosted thousands of volunteer events, consumed millions of slices of pizza, and produced some truly amazing [map-cakes](https://www.pinterest.co.uk/TheMissingMaps/mappy-cake/).
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps_blog_20191127_cake.png">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191127_cake.png">
 <p class="caption">Cakes at the 5th Birthday Mapathon in London.</p>
 </figure>
 
@@ -46,7 +46,7 @@ Together, we’ve accomplished such amazing things.  When we first organized the
 
 The Heidelberg Institute for Geoinformation Technology/ GIScience Research Group developed a workflow to measure the impact of our Missing Maps project and to evaluate the mapping process and its quality by making use of the HOT Tasking Manager API and their [ohsome OpenStreetMap History Data Analysis Framework](http://api.ohsome.org/v0.9/swagger-ui.html). Results show that over the years, and that over 95,000 volunteers finished 2,150 buildings and landuse projects. For further information see [here](https://gitlab.gistools.geog.uni-heidelberg.de/giscience/realtime_osm/mm_poster_sotm_2019/blob/master/sotm_missing_maps_poster_v2.pdf).
 
-![alt text](https://heibox.uni-heidelberg.de/f/2407761aa5c74b558d5b/?dl=1)
+![animated GIF of 5 years of Missing Maps edits](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191127_5years.gif)
 
 The team will for sure also provide further updates to help us better monitor our achievements in the future. 
 
