@@ -96,6 +96,7 @@ The Missing Maps should be saving and improving many more lives. It can do so on
 Finally, maps themselves can in some small way contribute to human dignity. To be on a map is to be acknowledged, is to be known, is to be recognised, is to be counted. It is for the world to know that you are there and that you have needs, that you have rights, and that you must not be forgotten or passed over. This requires more than a nice map on the Web made by digital volunteers and aid agencies, it requires working together with the inhabitants of the previously neglected places in the world. 
 Five years in, the Missing Maps has seen success beyond our wildest dreams. But it turns out the work is just beginning, and we must go beyond our original digital volunteering mandate to achieve our full potential.
 Let's get to it, shall we?
+
 Onward,
 - Ivan Gayton (Former Innovation Advisor MSF)
 
