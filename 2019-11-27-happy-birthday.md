@@ -44,7 +44,7 @@ Our project has grown from 4 organizations to 18 and we are excited to announce 
 
 Together, we’ve accomplished such amazing things.  When we first organized the project, our goal was to map 20 million people. We reached that goal in our first 18 months. Our next goal was to map 200 million people by 2021. We are very excited to announce that we’ve reached our second goal over a year early!
 
-The Heidelberg Institute for Geoinformation Technology/ GIScience Research Group developed a workflow to measure the impact of our Missing Maps project and to evaluate the mapping process and its quality by making use of the HOT Tasking Manager API and their ohsome OpenStreetMap History Data Analysis Framework. Results show that over the years, and that over 95,000 volunteers finished 2,150 buildings and landuse projects. For further information see [here (https://drive.google.com/file/d/1xIiUJDrdtb5u_fpwrv7BagJFJ7u9uXQg/view).
+The Heidelberg Institute for Geoinformation Technology/ GIScience Research Group developed a workflow to measure the impact of our Missing Maps project and to evaluate the mapping process and its quality by making use of the HOT Tasking Manager API and their ohsome OpenStreetMap History Data Analysis Framework. Results show that over the years, and that over 95,000 volunteers finished 2,150 buildings and landuse projects. For further information see [here] (https://drive.google.com/file/d/1xIiUJDrdtb5u_fpwrv7BagJFJ7u9uXQg/view).
 
 ![animated GIF of 5 years of Missing Maps edits](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191127_5years.gif)
 
