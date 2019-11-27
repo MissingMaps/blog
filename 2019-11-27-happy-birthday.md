@@ -50,9 +50,11 @@ The Heidelberg Institute for Geoinformation Technology/ GIScience Research Group
 The team will for sure also provide further updates to help us better monitor our achievements in the future. 
 
 **A Year of Blogs**
+
 In celebration of our birthday, we are excited to launch A Year of Blogs.  Every month, we will be posting a new blog that provides follow-up on one of our longer-term projects. We’ll share the links on our social media channels, so please keep an eye out for those announcements. Our first post will be in December from the MapAction team. They’ll tell us more about their recent work supporting Hurricane Dorian relief efforts in the Bahamas. 
 
 **How YOU Can Participate:**
+
 The Missing Maps Project aims to put the world’s vulnerable communities on the map. Thanks to the awesome mapping contributions over the last 5 years by the Missing Maps community, we’ve gotten a lot closer to our goal of mapping these communities. During Geoweek-2019 alone, over 150 mapping events were organized by community leaders to support Missing Maps! 
 
 Interested in getting involved? Looking for an event near you?! If you are interested in joining a mapathon, please see our [events page](http://www.missingmaps.org/events/) to link up with your local organizers. What if there are no mapathons planned around you? Why not organize a mapathon yourself?! Find our list of [mapathon supporters](http://www.missingmaps.org/host/#helper-map-contents) and [related training materials and resources](http://www.missingmaps.org/host/)  that can help guide you. Remember all Missing Maps tasks are on the [Tasking Manager](https://tasks.hotosm.org/).   If you aren’t at a computer, you can also map on your mobile device with [MapSwipe](https://mapswipe.org/), available on Google Play and the App Store.
@@ -62,6 +64,7 @@ We highly encourage you to also contribute to OpenStreetMap outside of remote ma
 Are you interested rather in getting involved in tech development? There are different ways to support, ranging from development of new features to maintenance of existing code. Please reach out if interested.
 
 *Thanks Again!* 
+
 We want to again thank you for the amazing support throughout the years. Happy Mapping!
 
 
