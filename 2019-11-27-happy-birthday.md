@@ -65,7 +65,7 @@ We want to again thank you for the amazing support throughout the years. Happy M
 
 
 
-
+--------------
 *Full quotes from our first organizers:*
 
 In the early days of Missing Maps a large foundation came to me and wanted to know where Missing Maps was registered as a non-profit, they wanted to fund us. My reply shocked them, Missing Maps was pixie dust. Missing Maps wasn’t yet another humanitarian organization but rather an idea, a creation, an alliance to help others. The founders of Missing Maps are people that will be lifelong friends. Pete Masters and Ivan Gayton were amazing provocateurs and motivators to always move faster, Kate Chapman constantly grounded our language and our desires in the local, and Andrew Braye gave us structure and organization. Pixie dust and comradery still drives Missing Maps today. Still today, no one group “owns” Missing Maps. 
