@@ -34,6 +34,9 @@ As of this month, over 95,000 of you have contributed to OpenStreetMap to suppor
 “Missing Maps wasn’t yet another humanitarian organization but rather an idea, a creation, an alliance to help others.” 
 - Dale Kunce (Former GIS Team Manager American Red Cross) 
 
+"Unexpected processes, toolsa and tech have emerged from  Missing Maps overlaps. Passionate community members and humanitarian institutions all centred around a common aim and ethics are energised and changing what is possible."
+- Andrew Braye (Head of GIS, British Red Cross)
+
 For their full quotes and messages to the mappers, please see below.
 
 **5 Year Stats Update:** 
