@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ‘Open Street Map and MapAction post Hurricane Dorian’ - A Year of Blogs - December 2019
-postID: A-Year-Of-Blogs-Dec
+postID: a-year-of-blogs
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_2019129_banner.jpg
 date: 2019-11-27
