@@ -40,7 +40,7 @@ OSM data is great because it is easy to download in a uniform format across the 
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps_blog_20191209_referencewall.jpg">
-<p class="caption">Checking out the Reference Map Wall.</p>
+<p class="caption">Reference maps are checked by many organizations, including local first responders.</p>
 </figure>
 
 The basemaps from OSM are also easily recognisable and understandable for a wide range of users which means that people can quickly and easily identify what they need on the map. In The Bahamas this was useful for a variety of reasons, e.g. simply to orientate oneself in country on arrival or for more complex rapid analysis such as identifying which settlements were in the hurricane’s path.  
