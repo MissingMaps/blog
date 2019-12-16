@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘Open Street Map and MapAction post Hurricane Dorian’ - A Year of Blogs - December 2019
+title: ‘OpenStreetMap and MapAction post Hurricane Dorian’ - A Year of Blogs - December 2019
 postID: a-year-of-blogs-dec2019
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191209_banner.jpg
@@ -13,7 +13,7 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-Hurricane Dorian hit the Bahamas at the beginning of September 2019 and MapAction volunteers were on one of the first planes to land into Nassau after the devastating storm. MapAction aims to use data and maps to help aid agencies, governments and local partners to make informed decisions and deliver aid and emergency supplies to the right place at the right time. Open Street Map data plays a critical role in helping MapAction achieve these aims when responding to a natural disaster, such as Hurricane Dorian.
+Hurricane Dorian hit the Bahamas at the beginning of September 2019 and MapAction volunteers were on one of the first planes to land into Nassau after the devastating storm. MapAction aims to use data and maps to help aid agencies, governments and local partners to make informed decisions and deliver aid and emergency supplies to the right place at the right time. OpenStreetMap data plays a critical role in helping MapAction achieve these aims when responding to a natural disaster, such as Hurricane Dorian.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps_blog_20191209_point.jpg">
