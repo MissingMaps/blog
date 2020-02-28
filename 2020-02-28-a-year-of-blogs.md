@@ -1,12 +1,12 @@
 ---
 layout: post
-title: “‘MapSwipe: An Award Winner’ - A Year of Blogs - February 2020"
+title: "'MapSwipe: An Award Winner' - A Year of Blogs - February 2020"
 postID: a-year-of-blogs-feb2020
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191001_mapswipe-grid.png
 date: 2020-02-28
 author: Johnny Henshall
-excerpt: “This week MapSwipe was awarded Best Mobile Innovation Supporting Emergency or Humanitarian Situations in the Tech4Good category at GSMA’s Global Mobile (GLOMO) awards. As a volunteer-led and open-source project, built and maintained by a small but passionate team, we are extremely proud of this recognition amongst other esteemed projects in this category and the rest of the awards.“
+excerpt: "This week MapSwipe was awarded Best Mobile Innovation Supporting Emergency or Humanitarian Situations in the Tech4Good category at GSMA’s Global Mobile (GLOMO) awards. As a volunteer-led and open-source project, built and maintained by a small but passionate team, we are extremely proud of this recognition amongst other esteemed projects in this category and the rest of the awards."
 published: true
 tags: [BRC, MapSwipe, Awards, Year-of-Blogs]
 permalink: /blog/:year/:month/:day/:title/
