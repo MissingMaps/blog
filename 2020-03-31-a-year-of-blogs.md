@@ -1,12 +1,12 @@
 ---
 layout: post
-title: “‘Missing Maps in Canada? Canadian Red Cross Community Mapping’ – A Year of Blogs – March 2020”
+title: "'Missing Maps in Canada? Canadian Red Cross Community Mapping' – A Year of Blogs – March 2020"
 postID: a-year-of-blogs-mar2020
 category: blog
 banner: [https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200331_banner.jpg]
 date: 2020-03-31
 author: Melanie Chabot
-excerpt: “The Canadian Red Cross Society’s Missing Maps activities in rural, remote and Indigenous communities.”
+excerpt: "The Canadian Red Cross Society’s Missing Maps activities in rural, remote and Indigenous communities."
 published: true
 tags: [CRC, Year-of-Blogs]
 permalink: /blog/:year/:month/:day/:title/
