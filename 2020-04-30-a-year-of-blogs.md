@@ -15,7 +15,7 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image1.png">
-<p class="caption"> *[Image 1: Two participants gathering building information during the field data collection]*</p>
+<p class="caption"> [Image 1: Two participants gathering building information during the field data collection]</p>
 </figure>
 
 The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in future risks.
