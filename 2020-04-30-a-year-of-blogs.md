@@ -29,7 +29,7 @@ The ultimate goal of the [Community Epidemic and Pandemic Preparedness Program (
 
 **OSM/Missing Maps for Faranah Prefecture, Guinea**
 
-Over the past several months, the CP3 team and the Guinean Red Cross Society (GRCS) mobilized around an extensive activity in community mapping. This has been an multi-step process facilitated by key stakeholders including:
+Over the past several months, the CP3 team and the Guinean Red Cross Society (GRCS) mobilized around an intensive community mapping activity. This has been an multi-step process facilitated by key stakeholders including:
 
 * IFRC
 * Geo-Synapse/OSM community and volunteers
