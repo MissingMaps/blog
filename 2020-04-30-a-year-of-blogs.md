@@ -38,7 +38,7 @@ Over the past several months, the CP3 team and the Guinean Red Cross Society (GR
 * American Red Cross
 * Guinean Red Cross Society (GRCS)
 
-The different phases of community mapping are outlined below.
+The three phases of community mapping are outlined below followed by the takeaway points of the project:
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image3.png">
