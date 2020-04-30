@@ -103,7 +103,7 @@ _[Table 2 showing data collected during the community mapping activities in Fara
 
 **Phase 3: Community Validation of the Collected Dataset in the Sub-Prefectures**
 
-In the next phase of this work, there is a scheduled community validation session where GRCS and the CP3 team will sit down with the community to have a conversation about what may be missing and to validate the data that has been collected. Unfortunately, this last step has been delayed due to the COVID-19 pandemic crisis. After this validation process takes place, the data will be uploaded into OSM for public consumption and usage. While we wait to meet with the community for this group validation session, data from the project can be found [here](https://data.humdata.org/search?groups=gin&organization=american-red-cross&q=guinea&ext_page_size=25&sort=score%20desc%2C%20if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc).
+In the next phase of this work, there was a scheduled community validation session where GRCS and the CP3 team will sit down with the community to discuss the data collected and any gaps that may exist within them. Unfortunately, this last step has been delayed due to the COVID-19 pandemic crisis. After this validation process takes place, the data will be uploaded into OSM for public consumption and usage. While we wait to meet with the community for this group validation session, data from the project can be found [here](https://data.humdata.org/search?groups=gin&organization=american-red-cross&q=guinea&ext_page_size=25&sort=score%20desc%2C%20if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc).
 
 **West Africa Mapping Project**
 
