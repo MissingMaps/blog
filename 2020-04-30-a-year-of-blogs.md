@@ -15,7 +15,7 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image1.png">
-<p class="caption"> [Image 1: Two participants gathering building information during the field data collection]</p>
+<p class="caption"> *[Image 1: Two participants gathering building information during the field data collection]*</p>
 </figure>
 
 The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in future risks.
@@ -42,7 +42,7 @@ The different phases of community mapping are outlined below.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image3.png">
-<p class="caption"> [Image 3: Guinean Red Cross Society members and volunteers from Geo-synapses gather for a mapathon in Conakry, Guinea]</p>
+<p class="caption"> [Image 3: Guinean Red Cross Society members and volunteers from Geo-synapses gather for a mapathon in Conakry]</p>
 </figure>
 
 **Phase 1: Remote mapping**
@@ -64,11 +64,11 @@ Staff and volunteers from the various organizations (most notably from the GRCS 
 | 11    | Tiro                          | 6,445      | 391\.15       |
 |  |         Total                      | 79,764\.00 | 7,810\.96     |
 
- _Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane._
+ _[Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane.]_
 
  <figure>
  <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image4.png">
- <p class="caption">_A picture taken from the 4-day training held for the participants who were part of the data collection activity._</p>
+ <p class="caption">[Image 4: A picture taken from the 4-day field data collection training.]</p>
  </figure>
 
 **Phase 2: Training and Field Data Collection**
@@ -99,7 +99,7 @@ At the end of this field data collection activity, the following features were m
 | 16 | Social Facilities                                                 | 87                           |
 
 
-_Table 2 showing data collected during the community mapping activities in Faranah._
+_[Table 2 showing data collected during the community mapping activities in Faranah.]_
 
 **Phase 3: Community Validation of the Collected Dataset in the Sub-Prefectures**
 
