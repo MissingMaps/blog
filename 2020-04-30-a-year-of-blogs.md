@@ -115,4 +115,9 @@ With this productive collaboration between the major stakeholders, the Guinean R
 
 We hope this post demonstrates our community mapping workflow with other technical teams interested in adding a data collection or map component to their program.
 
+<iframe
+  src="http://umap.openstreetmap.fr/en/map/faranah-health-facilities_452095#"
+  style="width:100%; height:300px;"
+></iframe>
+
 Very recently, the national society has been creating contingency plans to address the COVID-19 response in Guinea. The dataset compiled and uploaded during this community mapping work allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and [health facilities for Faranah]( http://umap.openstreetmap.fr/en/map/faranah-health-facilities_452095#), information which are vital to the current emergency planning and response efforts.
