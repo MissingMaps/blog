@@ -15,7 +15,7 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image1.png">
-<p class="caption"> Data being collected in Faranah, Guinea.</p>
+<p class="caption"> Image 1: Data being collected in Faranah, Guinea.</p>
 </figure>
 
 The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in future risks.
@@ -24,7 +24,7 @@ The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a progra
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image2.png">
-<p class="caption">_Map of Faranah by David Luswata._</p>
+<p class="caption"> Image 2: Map of Faranah by David Luswata.</p>
 </figure>
 
 **OSM/Missing Maps for Faranah Prefecture, Guinea**
@@ -42,7 +42,7 @@ The different phases of community mapping are outlined below.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image3.png">
-<p class="caption">_Remote Mapping in Conakry, Guinea._</p>
+<p class="caption"> Image 3: Two participants gathering building information during the field data collection</p>
 </figure>
 
 **Phase 1: Remote mapping**
