@@ -20,16 +20,16 @@ lang: en
 
 The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in future risks.
 
-[Data Readiness](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_CP3_data_readiness_1pager.pdf) is one priority or workstream within CP3. While working through the Data Readiness lense, we want national societies to be equipped to use quality and timely map information to influence operations and planning; this is all with the goal of being able to respond effectively to disasters. CP3 relies on the methods and community engagement from the Missing Maps program to create base data for many of the communities where CP3 is active.
+[Data Readiness](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_CP3_data_readiness_1pager.pdf) is one priority and workstream within CP3. Through this workstream, we want national societies to be equipped to use quality and timely information to influence operations and planning; this is all with the goal of being able to respond effectively to disasters. CP3 relies on the methods and community engagement from the Missing Maps program to create base mapping data for many of the communities where CP3 is active.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image2.png">
-<p class="caption">Map of Faranah.</p>
+<p class="caption">_Map of Faranah by David Luswata._</p>
 </figure>
 
 **OSM/Missing Maps for Faranah Prefecture, Guinea**
 
-Over the past several months, the CP3 team and the national society mobilized around an activity in community mapping. This has been an extensive multi-step process facilitated by key stakeholders including:
+Over the past several months, the CP3 team and the Guinean Red Cross Society (GRCS) mobilized around an extensive activity in community mapping. This has been an extensive multi-step process facilitated by key stakeholders including:
 
 * IFRC
 * Geo-Synapse/OSM community and volunteers
@@ -42,7 +42,7 @@ The different phases of community mapping are outlined below.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image3.png">
-<p class="caption">Remote Mapping in Conakry, Guinea.</p>
+<p class="caption">_Remote Mapping in Conakry, Guinea._</p>
 </figure>
 
 **Phase 1: Remote mapping**
@@ -64,11 +64,11 @@ Staff and volunteers from the various organizations (most notably from the GRCS 
 | 11    | Tiro                          | 6,445      | 391\.15       |
 |  |         Total                      | 79,764\.00 | 7,810\.96     |
 
- _Table showing remote mapping statistics in Faranah prefecture._
+ _Table showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane._
 
  <figure>
  <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image4.png">
- <p class="caption">A picture taken from the 4-day training held for the participants who were part of the data collection activity.</p>
+ <p class="caption">_A picture taken from the 4-day training held for the participants who were part of the data collection activity._</p>
  </figure>
 
 **Phase 2: Training and Field Data Collection**
@@ -111,8 +111,8 @@ This is not the first time a Missing Maps activity has taken place in Guinea. Mi
 
 **The Takeaway**
 
-With this successful pilot, we hope to share this workflow with other technical teams interested in adding community mapping to their program.
+With this productive collaboration between the major stakeholders, the Guinean Red Cross Society and the Guinea/CP3 staff and volunteers learned how to create their own data in OSM both remotely and via training/data collection. The processes that teams learned in remote mapping, training and field data collection, allowed them to have insight into how mapping data was produced, uploaded, and downloaded from OSM (and other open-data platforms like HDX). 
 
-The national society and the CP3 staff and volunteers learned how to create their own data in OSM both remotely and via training/data collection. The processes that members learned from the training allowed them to have insight into how the data was compiled, uploaded, and downloaded from OSM and open data platforms.
+We hope this post demonstrates our community mapping workflow with other technical teams interested in adding a data collection or map component to their program.
 
 In recent weeks, the national society staff have been creating contingency plans for COVID-19. The dataset compiled during this community mapping exercise allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and health facilities for Faranah, both of which are relevant to the current emergency planning and response efforts.
