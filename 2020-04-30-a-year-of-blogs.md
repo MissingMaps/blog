@@ -18,7 +18,7 @@ lang: en
 <p class="caption"> [Image 1: Two participants gathering building information during the field data collection]</p>
 </figure>
 
-The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in future risks.
+The goal of the [Community Epidemic and Pandemic Preparedness Program (CP3)](https://media.ifrc.org/ifrc/community-epidemic-pandemic-preparedness), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in future risks.
 
 [Data Readiness](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_CP3_data_readiness_1pager.pdf) is one priority and workstream within CP3. Through this workstream, we want national societies to be equipped to use quality and timely information to influence operations and planning; this is all with the goal of being able to respond effectively to disasters. CP3 relies on the methods and community engagement from the Missing Maps program to create base mapping data for many of the communities where CP3 is active.
 
