@@ -18,7 +18,7 @@ lang: en
 <p class="caption"> [Image 1: Two participants gathering building information during field data collection]</p>
 </figure>
 
-The goal of the [Community Epidemic and Pandemic Preparedness Program (CP3)](https://media.ifrc.org/ifrc/community-epidemic-pandemic-preparedness), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in assessing future risks.
+The ultimate goal of the [Community Epidemic and Pandemic Preparedness Program (CP3)](https://media.ifrc.org/ifrc/community-epidemic-pandemic-preparedness), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in assessing future risks.
 
 [Data Readiness](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_CP3_data_readiness_1pager.pdf) is one priority and workstream within CP3. Through this workstream, we want national societies to be equipped to use quality and timely information to influence operations and planning; this is all with the goal of being able to respond effectively to disasters. CP3 relies on the methods and community engagement from the Missing Maps program to create base mapping data for many of the communities where CP3 is active.
 
@@ -115,4 +115,4 @@ With this productive collaboration between the major stakeholders, the Guinean R
 
 We hope this post demonstrates our community mapping workflow with other technical teams interested in adding a data collection or map component to their program.
 
-In recent weeks, the national society staff have been creating contingency plans for COVID-19. The dataset compiled during this community mapping exercise allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and health facilities for Faranah, both of which are relevant to the current emergency planning and response efforts.
+Very recently, the national society has been creating contingency plans to address the COVID-19 response in Guinea. The dataset compiled and uploaded during this community mapping work allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and health facilities for Faranah, both of which are relevant to the current emergency planning and response efforts.
