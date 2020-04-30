@@ -15,7 +15,7 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image1.png">
-<p class="caption"> Image 1: Data being collected in Faranah, Guinea.</p>
+<p class="caption"> [Image 1: Data being collected in Faranah, Guinea.]</p>
 </figure>
 
 The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in future risks.
@@ -24,7 +24,7 @@ The goal of Community Epidemic and Pandemic Preparedness Program (CP3), a progra
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image2.png">
-<p class="caption"> Image 2: Map of Faranah by David Luswata.</p>
+<p class="caption"> [Image 2: Map of Faranah by David Luswata.]</p>
 </figure>
 
 **OSM/Missing Maps for Faranah Prefecture, Guinea**
@@ -42,7 +42,7 @@ The different phases of community mapping are outlined below.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image3.png">
-<p class="caption"> Image 3: Two participants gathering building information during the field data collection</p>
+<p class="caption"> [Image 3: Two participants gathering building information during the field data collection]</p>
 </figure>
 
 **Phase 1: Remote mapping**
@@ -64,7 +64,7 @@ Staff and volunteers from the various organizations (most notably from the GRCS 
 | 11    | Tiro                          | 6,445      | 391\.15       |
 |  |         Total                      | 79,764\.00 | 7,810\.96     |
 
- _Table showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane._
+ _Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane._
 
  <figure>
  <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image4.png">
@@ -99,7 +99,7 @@ At the end of this field data collection activity, the following features were m
 | 16 | Social Facilities                                                 | 87                           |
 
 
-_Table showing data collected during the community mapping activities in Faranah._
+_Table 2 showing data collected during the community mapping activities in Faranah._
 
 **Phase 3: Community Validation of the Collected Dataset in the Sub-Prefectures**
 
