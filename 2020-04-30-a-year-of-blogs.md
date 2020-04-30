@@ -24,7 +24,7 @@ The goal of the [Community Epidemic and Pandemic Preparedness Program (CP3)](htt
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image2.png">
-<p class="caption"> [Image 2: Map of Faranah by David Luswata.]</p>
+<p class="caption"> [Image 2: Map of Faranah by David Luswata]</p>
 </figure>
 
 **OSM/Missing Maps for Faranah Prefecture, Guinea**
@@ -64,16 +64,16 @@ Staff and volunteers from the various organizations (most notably from the GRCS 
 | 11    | Tiro                          | 6,445      | 391\.15       |
 |  |         Total                      | 79,764\.00 | 7,810\.96     |
 
- _[Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane.]_
+ _[Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane]_
 
  <figure>
  <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image4.png">
- <p class="caption">[Image 4: A picture taken from the 4-day field data collection training.]</p>
+ <p class="caption">[Image 4: A picture of the participants taken from the 4-day field data collection training.]</p>
  </figure>
 
 **Phase 2: Training and Field Data Collection**
 
-After the remote mapping activity was complete, CP3, GRCS, IFRC, and American Red Cross put together a four-day training for the field data collection activities. The goal of this training was to equip CP3 and GRCS volunteers and staff members with technical skills necessary for a comprehensive data collection process to take place.
+After the remote mapping activity was complete, the American Red Cross, IFRC, and CP3 teams led a four-day training for the field data collection participants. The goal of this training was to equip CP3 and GRCS team members with technical skills necessary for a comprehensive data collection through data management workshops and data collection demo sessions.
 
 During the training, participants were introduced to the [Data Model](https://docs.google.com/document/d/1SGc0y1N0BoCCgYV5qSmtjOtJxpYVOHYD0Ayb-ZF9c24/edit?usp=sharing) that was structured for the collected points of interest to be brought into OSM.
 
@@ -99,7 +99,7 @@ At the end of this field data collection activity, the following features were m
 | 16 | Social Facilities                                                 | 87                           |
 
 
-_[Table 2 showing data collected during the community mapping activities in Faranah.]_
+_[Table 2 showing data collected during the community mapping activities in Faranah]_
 
 **Phase 3: Community Validation of the Collected Dataset in the Sub-Prefectures**
 
