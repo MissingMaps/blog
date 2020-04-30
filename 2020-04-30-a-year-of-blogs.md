@@ -116,3 +116,5 @@ With this productive collaboration between the major stakeholders, the Guinean R
 We hope this post demonstrates our community mapping workflow with other technical teams interested in adding a data collection or map component to their program.
 
 Very recently, the [GRCS offices](http://umap.openstreetmap.fr/en/map/guinea-red-cross-branches_447688#7/9.801/-9.844) have been creating contingency plans to address the COVID-19 response in Guinea. The dataset compiled and uploaded during this community mapping work allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and [health facilities for Faranah]( http://umap.openstreetmap.fr/en/map/faranah-health-facilities_452095#), information which are vital to the current emergency planning and response efforts.
+
+Guinea Red Cross, with all her 38 branches, continues to serve humanity in the territorial boundaries of the Republic of Guinea, and we are all very glad to support these efforts.
