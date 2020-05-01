@@ -53,10 +53,10 @@ The images of your article should be named following `missingmaps-blog_YYYYMMDD_
 
 Images go in the `arcmaps/share/blog-pictures/` S3 bucket. Talk to us about putting the image files in the same AWS S3 bucket as all the other images (talk to daniel.joseph@redcross.org).
 
-Once your images are in teh AWS S3 bucket, you will have to add a link to the image into your text. Use the below formatting for this. 
+Once your images are in the AWS S3 bucket, you will have to add a link to the image into your text. Use the below formatting for this. 
 
 ````
- <figure>
+<figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_YYYYMMDD_my-file-name.extension">
 <p class="caption">write here the caption of your image</p>
 </figure>
@@ -72,4 +72,4 @@ Once your images are in teh AWS S3 bucket, you will have to add a link to the im
 </figure>
 ````
 
-Once all the edits are done, click Commit new file. The file will be reviewd by one of the administrators and will be added on the blog page of the Missing Maps website.  
+Once all the edits are done, click Commit new file. The file will be reviewed by one of the administrators and will be added on the blog page of the Missing Maps website.  

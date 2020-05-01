@@ -27,7 +27,7 @@ The ultimate goal of the [Community Epidemic and Pandemic Preparedness Program (
 <p class="caption"> [Image 2: Map of Faranah by David Luswata]</p>
 </figure>
 
-**OSM/Missing Maps for Faranah Prefecture, Guinea**
+## OSM/Missing Maps for Faranah Prefecture, Guinea
 
 Over the past several months, the CP3 team and the Guinean Red Cross Society (GRCS) mobilized around an intensive community mapping activity. This has been an multi-step process facilitated by key stakeholders including:
 
@@ -45,7 +45,7 @@ The three phases of community mapping are outlined below followed by the takeawa
 <p class="caption"> [Image 3: Guinean Red Cross Society members and volunteers from Geo-synapses gather for a mapathon in Conakry]</p>
 </figure>
 
-**Phase 1: Remote mapping**
+## Phase 1: Remote mapping
 
 Staff and volunteers from the various organizations (most notably from the GRCS and Geo-Synapses) came together and took part in mapathons and worked remotely to populate [buildings and roads](http://taches.francophonelibre.org/?sort_by=priority&direction=asc&search=faranah) in Faranah, Guinea.
 
@@ -64,14 +64,15 @@ Staff and volunteers from the various organizations (most notably from the GRCS 
 | 11    | Tiro                          | 6,445      | 391\.15       |
 |  |         Total                      | 79,764\.00 | 7,810\.96     |
 
- _[Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane]_
 
- <figure>
- <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image4.png">
- <p class="caption">[Image 4: A picture of the participants taken from the 4-day field data collection training.]</p>
- </figure>
+<span class="caption">[Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane]</span>
 
-**Phase 2: Training and Field Data Collection**
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image4.png">
+<p class="caption">[Image 4: A picture of the participants taken from the 4-day field data collection training.]</p>
+</figure>
+
+## Phase 2: Training and Field Data Collection
 
 After the remote mapping activity was complete, the American Red Cross, IFRC, and CP3 teams led a four-day training for the field data collection participants. The goal of this training was to equip CP3 and GRCS team members with technical skills necessary for a comprehensive data collection through data management workshops and data collection demo sessions.
 
@@ -98,23 +99,25 @@ At the end of this field data collection activity, the following features were m
 | 15 | Community Radios                                                  | 4                            |
 | 16 | Social Facilities                                                 | 87                           |
 
+<span class="caption">[Table 2 showing data collected during the community mapping activities in Faranah]</span>
 
-_[Table 2 showing data collected during the community mapping activities in Faranah]_
-
-**Phase 3: Community Validation of the Collected Dataset in the Sub-Prefectures**
+## Phase 3: Community Validation of the Collected Dataset in the Sub-Prefectures
 
 In the next phase of this work, there was a scheduled community validation session where GRCS and the CP3 team will sit down with the community to discuss the data collected and any gaps that may exist within them. Unfortunately, this last step has been delayed due to the COVID-19 pandemic crisis. After this validation process takes place, the data will be uploaded into OSM for public consumption and usage. While we wait to meet with the community for this group validation session, data from the project can be found [here](https://data.humdata.org/search?groups=gin&organization=american-red-cross&q=guinea&ext_page_size=25&sort=score%20desc%2C%20if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc).
 
-**West Africa Mapping Project**
+## West Africa Mapping Project
 
 This is not the first time a Missing Maps activity has taken place in Guinea. Missing Maps was involved with the West Africa Mapping Project that took place in 2016, after the Ebola crisis. [Here](https://www.missingmaps.org/blog/2017/01/24/west-africa-mapping-hub-end/) in this post are some valuable lessons learned from that previous community mapping work in the country.
 
-**The Takeaway**
+## The Takeaway
 
 With this productive collaboration between the major stakeholders, the Guinean Red Cross Society and the Guinea/CP3 staff and volunteers learned how to create their own data in OSM both remotely and via training/data collection. The processes that teams learned in remote mapping, training and field data collection, allowed them to have insight into how mapping data was produced, uploaded, and downloaded from OSM (and other open-data platforms like HDX). 
 
 We hope this post demonstrates our community mapping workflow with other technical teams interested in adding a data collection or map component to their program.
 
-Very recently, the [GRCS offices](http://umap.openstreetmap.fr/en/map/guinea-red-cross-branches_447688#7/9.801/-9.844) have been creating contingency plans to address the COVID-19 response in Guinea. The dataset compiled and uploaded during this community mapping work allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and [health facilities for Faranah]( http://umap.openstreetmap.fr/en/map/faranah-health-facilities_452095#), information which are vital to the current emergency planning and response efforts.
+Very recently, the GRCS offices have been creating contingency plans to address the COVID-19 response in Guinea. The dataset compiled and uploaded during this community mapping work allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and [health facilities for Faranah](https://umap.openstreetmap.fr/en/map/faranah-health-facilities_452095#), information which are vital to the current emergency planning and response efforts.
+
+<iframe width="100%" height="450px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/guinea-red-cross-branches_447688?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
+<p class="caption">Map of GRCS offices.</p>
 
 Guinea Red Cross, with all her 38 branches, continues to serve humanity in the territorial boundaries of the Republic of Guinea, and we are all very glad to support these efforts.
