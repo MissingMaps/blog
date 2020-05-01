@@ -118,6 +118,6 @@ We hope this post demonstrates our community mapping workflow with other technic
 Very recently, the GRCS offices have been creating contingency plans to address the COVID-19 response in Guinea. The dataset compiled and uploaded during this community mapping work allowed the headquarters teams to have a more up-to-date list of border crossing points (including international travel areas) and [health facilities for Faranah](https://umap.openstreetmap.fr/en/map/faranah-health-facilities_452095#), information which are vital to the current emergency planning and response efforts.
 
 <iframe width="100%" height="450px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/guinea-red-cross-branches_447688?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
-<p class="caption">Map of GRCS offices.</p>
+<p class="caption">[Image 5: A map of GRCS offices across Guinea]</p>
 
 Guinea Red Cross, with all her 38 branches, continues to serve humanity in the territorial boundaries of the Republic of Guinea, and we are all very glad to support these efforts.
