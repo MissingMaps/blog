@@ -80,7 +80,7 @@ During the training, participants were introduced to the [Data Model](https://do
 
 At the end of this field data collection activity, the following features were mapped across all of Faranah prefecture.
 
-|    | Feature Mapped                                                    | Total feature count in Farah |
+|    | Feature Mapped                                                    | Total feature count in Faranah |
 |----|-------------------------------------------------------------------|------------------------------|
 | 1  | Number of sub\-prefectures mapped                                 | 11                           |
 | 2  | Communities mapped                                                | 399                          |
@@ -107,7 +107,7 @@ In the next phase of this work, there was a scheduled community validation sessi
 
 ## West Africa Mapping Project
 
-This is not the first time a Missing Maps activity has taken place in Guinea. Missing Maps was involved with the West Africa Mapping Project that took place in 2016, after the Ebola crisis. [Here](https://www.missingmaps.org/blog/2017/01/24/west-africa-mapping-hub-end/) in this post are some valuable lessons learned from that previous community mapping work in the country.
+This is not the first time a Missing Maps activity has taken place in Guinea. Missing Maps was involved with the West Africa Mapping Project that took place in 2016, after the Ebola crisis in the country. [Here](https://www.missingmaps.org/blog/2017/01/24/west-africa-mapping-hub-end/) in this post are some valuable lessons learned from that previous community mapping work.
 
 ## The Takeaway
 
