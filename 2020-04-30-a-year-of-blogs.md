@@ -32,7 +32,7 @@ The ultimate goal of the [Community Epidemic and Pandemic Preparedness Program (
 Over the past several months, the CP3 team and the Guinean Red Cross Society (GRCS) mobilized around an intensive community mapping activity. This has been an multi-step process facilitated by key stakeholders including:
 
 * IFRC
-* Geo-Synapse/OSM community and volunteers
+* GeoSynapse Guinée
 * Youth Mappers
 * Missing Maps
 * American Red Cross
@@ -47,7 +47,7 @@ The three phases of community mapping are outlined below followed by the takeawa
 
 ## Phase 1: Remote mapping
 
-Staff and volunteers from the various organizations (most notably from the GRCS and Geo-Synapses) came together and took part in mapathons and worked remotely to populate [buildings and roads](http://taches.francophonelibre.org/?sort_by=priority&direction=asc&search=faranah) in Faranah, Guinea.
+Staff and volunteers from the various organizations (most notably from the GRCS and GeoSynapse Guinée) came together and took part in mapathons and worked remotely to populate [buildings and roads](http://taches.francophonelibre.org/?sort_by=priority&direction=asc&search=faranah) in Faranah, Guinea.
 
 | \#    | Sub Prefectures Remote Mapped | Buildings  | Roads \(Kms\) |
 |-------|-------------------------------|------------|---------------|
