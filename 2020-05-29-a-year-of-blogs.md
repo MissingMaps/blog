@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "'Human Centered Design to drive the development of baseline health facility data with Healthsites – A Year of Blogs – May 2020"
+title: "'Developing baseline health facility data with Healthsites' – A Year of Blogs – May 2020"
 postID: a-year-of-blogs-may2020
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200529_photo1.png
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200529_banner.jpg
 date: 2020-05-29
 author: Mark Herringer
-excerpt: "Gathering an open, global dataset for healthcare data is something that healthsites.io is passionate about."
+excerpt: "In this article we concentrate on Human Centered Design and how you can help us to build a platform that meets the needs of the people using it."
 published: true
 tags: [healthsites, Year-of-Blogs]
 permalink: /blog/:year/:month/:day/:title/
@@ -18,7 +18,9 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200529_photo1.png">
-<p class="caption"> [Lamine Ndiaye](https://twitter.com/lamineyasey/) Mapping health facilities in Saint Louis, Senegal</p>
+
+[@lamineyasey](https://twitter.com/lamineyasey/) Mapping health facilities in Saint Louis, Senegal
+
 </figure>
 
 Gathering an open, global dataset for healthcare data is something that healthsites.io is passionate about. Deciding how and what to gather for such a global dataset is a challenge. There are many stakeholders and many aspects of a given facility that could be collected. Healthsites is embarking on this with a user centered design approach. Our goal is to build a platform that collates data that is relevant to the questions that healthcare facility users need answered. In this article we concentrate on Human Centered Design and how it will help us to build a platform that meets the needs of the people using it.
@@ -29,17 +31,15 @@ We want you to share user stories.
 
 A Human Centered Design approach to design drives the requirements and functionality of a platform based on the direct needs expressed by its users. We can express these needs in simple sentences that share a common structure : 
 
-### As a <..........> I would to <..........> so that I can <..........>
+### As a <..........> I would like to <..........> so that I can <..........>
 
 Let’s look at some tangible examples, one from chatting with an expectant mother and one from a conversation with a civil servant working for a health ministry:
 
-As a pregnant mom expecting twins I would like to know where the nearest **emergency care facility** is so that I can  plan for potential complications during childbirth.
-
-As a ministry of health data administrator, I want to know **how long it takes** citizens to get to health facilities so that I can optimize access to health care.
-
-As a ministry of health data administrator, I want to know the geographic **coordinates of health facilities** so that I can perform a spatial analysis.
-
-As a PATH health data administrator, I want to know where the **operational clinics** are so that I can plan a vaccination rollout campaign.
+1. **As a** pregnant mom expecting twins **I would like to** know where the nearest emergency care facility is **so that I can**  plan for potential complications during childbirth.
+1. **As a** pregnant mom **I would like to** know where the nearest birthing center is **so that I can** plan for the birth of my child.
+1. **As a** ministry of health data administrator, **I want to** know how long it takes citizens to get to health facilities **so that I can** optimize access to health care.
+1. **As a** ministry of health data administrator, **I want to** know the geographic coordinates of health facilities **so that I can** perform a spatial analysis.
+1. **As a** PATH health data administrator, **I want to** know where the operational clinics are **so that I can** plan a vaccination rollout campaign.
 
 
 Collating these stories from users of the platform for different persona’s in the healthcare environment provides us with an understanding  of what problems need to be solved and what data are needed to solve them.
@@ -50,52 +50,26 @@ When we deconstruct user stories, we can understand what kind of information is 
 
 **Who | What | Why**
 ------------ | ------------- | -------------
-Expectant mother | Emergency care | plan for potential complications during childbirth
+Pregnant mom | Emergency care | plan for potential complications during childbirth
+Pregnant mom | know where the nearest birthing center is | plan for the birth of my child
 Ministry of Health data administrator | how long it takes citizens to get to health facilities | optimize access to health care
 Ministry of Health data administrator | know the geographic coordinates of health facilities | perform a spatial analysis
 PATH health data administrator | know where the operational clinics are | plan a vaccination rollout campaign
 
-In 2018 the Healthsites project decided to switch to a data model built almost entirely upon the OpenStreetMap.org (OSM) platform. As well as leveraging the power of the world’s most amazing open data project, this approach also introduces constraints in the design of our platform and how we can mobilise data to meet the needs of our users that emerge through their stories. The constraints are the normative guidelines that the OSM project places on the capture of data for any feature (healthcare or otherwise). For example, it is difficult to introduce new concepts on the platform which is shy of ‘concept proliferation’, and considerable effort needs to be made to understand the existing concepts within the OSM tagging system. So, to meet the needs of people interested in healthcare data, we need to ‘map’ concepts. Taking the ‘what’ column from the above table, we can identify which attributes in the Healthistes schema are the most important to focus on.
+In 2018 the Healthsites project decided to switch to a data model built almost entirely upon the OpenStreetMap.org (OSM) platform. As well as leveraging the power of the world’s most amazing open data project, this approach also introduces constraints in the design of our platform and how we can mobilise data to meet the needs of our users that emerge through their stories. The constraints are the normative guidelines that the OSM project places on the capture of data for any feature (healthcare or otherwise). For example, it is difficult to introduce new concepts on the platform which is shy of ‘concept proliferation’, and considerable effort needs to be made to understand the existing concepts within the OSM tagging system. So, to meet the needs of people interested in healthcare data, we need to ‘map’ concepts. Taking the ‘what’ column from the above table, we can identify which attributes in the Healthsites schema are the most important to focus on.
 
-**No. | Key | Value | Description**
------------- | ------------- | ------------- | -------------
-1|amenity|clinic, doctors, hospital, dentist, pharmacy|For describing useful and important facilities for visitors and residents
-2|healthcare|doctor, pharmacy, hospital, clinic, dentist, physiotherapist, alternative, laboratory, optometrist, rehabilitation, blood_donation, birthing_center|A key to tag all places that provide healthcare (are part of the healthcare sector) 
-3|healthcare:speciality|biology, blood_check, clinical_pathology, diagnostic_radiology, medical_physics, medical_engineering, radiology|A key to detail the special services provided by a healthcare facility. To be used in conjunction with the 'healthcare=*' tag. For example 'healthcare=laboratory', and 'healthcare:speciality=blood_check'
-4|name|name of health facility|The primary tag used for naming an element
-5|operator|name of operator|The operator tag is used to name a company, corporation, person or any other entity who is directly in charge of the current operation of a map object
-6|source|source of data|Used to indicate the source of information (i.e. meta data) added to OpenStreetMap
-
-
-# Complete
-
+The user stories above tell us the following baseline health facility attributes are important: 
 
 No|Key|Value|Description
 ------------ | ------------- | ------------- | -------------
-1|amenity|clinic, doctors, hospital, dentist, pharmacy|For describing useful and important facilities for visitors and residents
-2|healthcare|doctor, pharmacy, hospital, clinic, dentist, physiotherapist, alternative, laboratory, optometrist, rehabilitation, blood_donation, birthing_center|A key to tag all places that provide healthcare (are part of the healthcare sector)
+1|amenity|clinic, **doctors**, hospital, dentist, pharmacy|For describing useful and important facilities for visitors and residents
+2|healthcare|doctor, pharmacy, hospital, clinic, dentist, physiotherapist, alternative, laboratory, optometrist, rehabilitation, blood_donation, **birthing_center**|A key to tag all places that provide healthcare (are part of the healthcare sector)
 3|healthcare:speciality|biology, blood_check, clinical_pathology, diagnostic_radiology, medical_physics, medical_engineering, radiology|A key to detail the special services provided by a healthcare facility. To be used in conjunction with the 'healthcare=*' tag. For example 'healthcare=laboratory', and 'healthcare:speciality=blood_check'
-4|name|name of health facility|The primary tag used for naming an element
-5|operator|name of operator|The operator tag is used to name a company, corporation, person or any other entity who is directly in charge of the current operation of a map object
-6|operator:type|public, private, community, religious, government, ngo, combination|This tag is used to give more information about the type of operator for a feature
-7|addr:full|full address|Used for a full-text, often multi-line, address for buildings and facilities
-8|contact:phone|phone number|The contact tag is the prefix for several contact:* keys to describe contacts
-9|operational_status|operational, non_operational, unknown|Used to document an observation of the current functional status of a mapped feature
-10|opening_hours|days/times of opening|Describes when something is open or closed. There is a specific standard format for this data https://wiki.openstreetmap.org/wiki/Key:opening_hours/specification
-11|beds|number of beds|Indicates the number of beds in a hotel or hospital
-12|staff_count:doctors|number of doctors|Indicates the number of doctors in a health facility
-13|staff_count:nurses|number of nurses|Indicates the number of nurses in a health facility
-14|healthcare:equipment|ultrasound, mri, x_ray, dialysis, operating_theater, laboratory, imaging_equipment, intensive_care_unit, emergency_department|Indicates what type of speciality medical equipment is available at the health facility
-15|dispensing|yes, no|Whether a pharmacy dispenses prescription drugs or not. Used to add information to something that is already tagged as amenity=pharmacy
-16|wheelchair|yes, no|Used to mark places or ways that are suitable to be used with a wheelchair and a person with a disability who uses another mobility device (like a walker)
-17|emergency|yes, no|This key describes various emergency services
-18|insurance:health|none, public, private, unknown|This key describes the type of health insurance accepted at the healthsite
-19|water_source|well, water_works, manual_pump, powered_pump, groundwater, rain|Used to indicate the source of the water for features that provide or use water
-20|electricity|grid, generator, solar, other, none|Used to indicate the source of the power generated
-21|url|url of source data|Specifying a url related to a feature, in this case the wiki page if it is linked to an organised mapping effort, both through surveying and importing
-22|source|source of data|Used to indicate the source of information (i.e. meta data) added to OpenStreetMap
+9|**operational_status**|operational, non_operational, unknown|Used to document an observation of the current functional status of a mapped feature
+14|healthcare:equipment|ultrasound, mri, x_ray, dialysis, operating_theater, laboratory, imaging_equipment, intensive_care_unit, **emergency_department**|Indicates what type of speciality medical equipment is available at the health facility
+17|**emergency**|yes, no|This key describes various emergency services
 
-https://wiki.openstreetmap.org/wiki/Global_Healthsites_Mapping_Project
+Healthsites schema - https://wiki.openstreetmap.org/wiki/Global_Healthsites_Mapping_Project#Complete
 
 # Open data policy development
 In this context stakeholders in the health cluster can define open data policies that support these user stories and improve base line health facility data.
@@ -116,6 +90,7 @@ As both TB and COVID-19 share similar clinical presentation (cough, fever, short
 
 ## Healthsites invites local practitioners to [make contact](https://healthsites.io/contact/) and help define user stories that drive the development of baseline health facility data where it is needed most.
 
+
 The Healthsites team  
 [https://healthsites.io/](https://healthsites.io/)  
-[https://twitter.com/sharehealthdata](https://healthsites.io/)
+[@sharehealthdata](https://twitter.com/sharehealthdata)
