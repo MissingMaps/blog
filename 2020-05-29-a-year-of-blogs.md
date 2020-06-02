@@ -18,9 +18,7 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200529_photo1.png">
-
-[@lamineyasey](https://twitter.com/lamineyasey/) Mapping health facilities in Saint Louis, Senegal
-
+<p class="caption"> [@lamineyasey](https://twitter.com/lamineyasey/) Mapping health facilities in Saint Louis, Senegal </p>
 </figure>
 
 Gathering an open, global dataset for healthcare data is something that healthsites.io is passionate about. Deciding how and what to gather for such a global dataset is a challenge. There are many stakeholders and many aspects of a given facility that could be collected. Healthsites is embarking on this with a user centered design approach. Our goal is to build a platform that collates data that is relevant to the questions that healthcare facility users need answered. In this article we concentrate on Human Centered Design and how it will help us to build a platform that meets the needs of the people using it.
@@ -69,7 +67,7 @@ No|Key|Value|Description
 14|healthcare:equipment|ultrasound, mri, x_ray, dialysis, operating_theater, laboratory, imaging_equipment, intensive_care_unit, **emergency_department**|Indicates what type of speciality medical equipment is available at the health facility
 17|**emergency**|yes, no|This key describes various emergency services
 
-Healthsites schema - https://wiki.openstreetmap.org/wiki/Global_Healthsites_Mapping_Project#Complete
+[Healthsites schema](https://wiki.openstreetmap.org/wiki/Global_Healthsites_Mapping_Project#Complete)
 
 # Open data policy development
 In this context stakeholders in the health cluster can define open data policies that support these user stories and improve base line health facility data.
