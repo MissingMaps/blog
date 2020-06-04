@@ -18,7 +18,7 @@ lang: en
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200529_photo1.png">
-<p class="caption"> [@lamineyasey](https://twitter.com/lamineyasey/) Mapping health facilities in Saint Louis, Senegal </p>
+<p class="caption"> Mapping health facilities in Saint Louis, Senegal  <a href="https://twitter.com/lamineyasey/" target="\_blank">@lamineyasey</a> </p>
 </figure>
 
 Gathering an open, global dataset for healthcare data is something that healthsites.io is passionate about. Deciding how and what to gather for such a global dataset is a challenge. There are many stakeholders and many aspects of a given facility that could be collected. Healthsites is embarking on this with a user centered design approach. Our goal is to build a platform that collates data that is relevant to the questions that healthcare facility users need answered. In this article we concentrate on Human Centered Design and how it will help us to build a platform that meets the needs of the people using it.
@@ -84,7 +84,7 @@ You can read more about the workshops findings here [A joint way forward in deve
 
 The COVID-19 pandemic is generating new user stories. These need to be understood and communicated.
 
-As both TB and COVID-19 share similar clinical presentation (cough, fever, shortness of breath etc.) and are transmitted through respiratory droplets and aerosols, a combined strategy needs to be applied. This would utilise resources effectively while providing both short term and long term benefits. - [Impact of COVID-19 intervention on TB testing in South Africa.](https://www.nicd.ac.za/wp-content/uploads/2020/05/Impact-of-Covid-19-interventions-on-TB-testing-in-South-Africa-10-May-2020.pdf)
+*As both TB and COVID-19 share similar clinical presentation (cough, fever, shortness of breath etc.) and are transmitted through respiratory droplets and aerosols, a combined strategy needs to be applied. This would utilise resources effectively while providing both short term and long term benefits. - [Impact of COVID-19 intervention on TB testing in South Africa.](https://www.nicd.ac.za/wp-content/uploads/2020/05/Impact-of-Covid-19-interventions-on-TB-testing-in-South-Africa-10-May-2020.pdf)*
 
 ## Healthsites invites local practitioners to [make contact](https://healthsites.io/contact/) and help define user stories that drive the development of baseline health facility data where it is needed most.
 
