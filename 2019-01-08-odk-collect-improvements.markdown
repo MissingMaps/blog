@@ -54,7 +54,7 @@ The American Red Cross funded a data export option that allows the user to get t
 
 <figure>
 <img alt="a tweet from @OpenDataKit about the Briefcase release" src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190108_supporting-odk-tweet-briefcase.png">
-<p class="caption">A tweet from [@OpenDataKit](https://twitter.com/i/web/status/1066995088511897600) about the Briefcase release</p>
+<p class="caption">A tweet from <a href="https://twitter.com/i/web/status/1066995088511897600" target="_blank">@OpenDataKit about the Briefcase release</a></p>
 </figure>
 
 ### Collect GPS coordinates for audit purposes
@@ -63,7 +63,7 @@ We funded an optional feature to occasionally collect GPS coordinates in the bac
 
 <figure>
 <img alt="a tweet from @OpenDataKit about the ODK Collect release" src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190108_supporting-odk-tweet-odk-audit.png">
-<p class="caption">A tweet from [@OpenDataKit](https://twitter.com/arphp/status/1100019065882583041) about the Collect release</p>
+  <p class="caption">A tweet from <a href="https://twitter.com/arphp/status/1100019065882583041" target="_blank">@OpenDataKit about the Collect release</a></p>
 </figure>
 
 ### Standardize on ISO8601 when exporting `dateTime` from Aggregate and Briefcase
