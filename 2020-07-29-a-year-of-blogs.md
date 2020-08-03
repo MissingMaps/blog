@@ -12,7 +12,7 @@ permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
 
-##Virtual mapathons: a social activity during trying times
+**Virtual mapathons: a social activity during trying times**
 “I realized right after the French lockdown that online mapathons were very important to me during this isolation period. At first, it was a dedicated time during which I could talk with a lot of people. I especially appreciated the fact that we weren't just talking about COVID-19. It allowed me to connect with new people with shared interests such as cartography or GIS, which represents a proper treat for me since such topics are quite specific. We discussed other topics, such as biodiversity and cooking; it was a precious time to think about something else and relax.” - Feedback from a volunteer at a mapathon with [CartONG](https://www.cartong.org/) For full quote, see below.
 
 <figure>
@@ -20,17 +20,16 @@ lang: en
 <p class="caption"> [The Missing Maps team wishes you a happy virtual mapathon!]</p>
 </figure>
 
-
-##Hosting a Virtual Mapathon
+**Hosting a Virtual Mapathon**
 Virtual mapathons are all the rage right now. Over the last couple months we’ve learnt that a few simple recommendations can drastically improve the quality of an online mapathon. If you are planning on hosting a virtual event, please see the below for our best practices and additional resources.
 
-##Considerations Before Planning
+**Considerations Before Planning**
 1) Event Size:
 These days, most online video platforms can accommodate very large groups and almost all include a chat and mute function which are key. We recommend you size your mapathon based on support options and experience. If you are new to mapathon facilitation, consider hosting an event with 20 mappers max. Once you are more comfortable with your facilitation skills, we recommend scaling up your event based on your helper capacity.  Most new mappers will have a question or two, so you’ll want to make sure a system is in place to answer questions quickly. Remind your helpers that they can and should interrupt you if needed.
 
 One way to break down your helper support is to assign them types of questions to answer:
-*1 helper to answer all questions for a small group
-*4 helpers to answer specific questions for a large group:
+1 helper to answer all questions for a small group
+4 helpers to answer specific questions for a large group:
 - Platform Support
 - Account Support
 - New Mapper Questions
@@ -52,7 +51,7 @@ Remember to be patient. Many of your mappers might be learning a new skill durin
 5) Materials to Send Ahead of Time:
 To get started with success, make sure to have your participants sign up for an OpenStreetMap (OSM) account ahead of time. One option is to have them watch this video as part of their pre-event prep. It can’t hurt to remind them again the day before and mention it again at the start of your event while people are getting situated. 
 
-##Tips for during your event
+**Tips for during your event**
 1) Introduce yourself and your fellow mappers: Spend a few minutes at the beginning to humanize yourself and break the ice with other participants. Turn on your camera when you introduce yourself, encourage your mappers to do the same. Consider doing a short ice breaker. It’s helpful to have a shared background / naming convention with your helpers so you are easy to identify if someone wasn’t paying 100% attention during these introductions. 
 
 2) Screen Share: During the event screen sharing is going to be the best tool in your toolbelt.  When demonstrating a skill, consider practicing twice or three times instead of just the once. If you have a question that comes in over the chat feature and there is a break in the conversation, consider doing a live demonstration with a screen share instead of typing out the answer. Remember, if one mapper has the question, chances are more are wondering the same thing. 
@@ -62,11 +61,11 @@ To get started with success, make sure to have your participants sign up for an 
 4) Wrap Up: Don’t forget to send a thank you note and remind people how they can keep up with their mapping. Now that most of our events are online, we are no longer limited by our location. Consider sharing a link to a recurring event in another city! 
 
 The Red Cross and Missing Maps groups have written longer piece, so consider checking out [this guide](https://docs.google.com/document/d/1Shy05ZnRJp5xSbZWcUH_41caBNaV2yzazECbN5ngwOU/edit) for more details. 
-##Thanks again for hosting a mapathon to support Missing Maps! Happy Mapping! 
+**Thanks again for hosting a mapathon to support Missing Maps! Happy Mapping!**
 
 
 
-##Full Feedback from volunteers on attending remote mapathons during lockdown:
+**Full Feedback from volunteers on attending remote mapathons during lockdown:**
 I realized right after the French lockdown that online mapathons were very important to me during this isolation period.
 At first, it was a dedicated time during which I could talk with a lot of people. I especially appreciated the fact that we weren't just talking about COVID-19. It allowed me to connect with new people with shared interests such as cartography or GIS, which represents a proper treat for me since such topics are quite specific. We discussed other topics, such as biodiversity and cooking ; it was a precious time to think about something else and relax. Sometimes people didn't come back, in a way it was similar to a carpool ride : we exchanged, we talked, told where we came from, it was a nice small window into each other’s life.
 Getting people to come and do a short presentation about the past Missing Maps projects and the way data gathered through remote mapping events helped them in their projects was a nice addition and a very enlightening part for us that are remote mappers. I greatly appreciated the feedback.
