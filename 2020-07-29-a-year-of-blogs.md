@@ -49,7 +49,7 @@ Remote mapathons run about the same amount of time as an in-person event.  Ninet
 Remember to be patient. Many of your mappers might be learning a new skill during a particularly complicated time in their lives. Set expectations with your helpers that they might answer similar or even the same questions multiple times. Mappers are juggling a lot these days, so make sure to celebrate the wins, both small and large!
 
 5) Materials to Send Ahead of Time:
-To get started with success, make sure to have your participants sign up for an OpenStreetMap (OSM) account ahead of time. One option is to have them watch this video as part of their pre-event prep. It can’t hurt to remind them again the day before and mention it again at the start of your event while people are getting situated. 
+To get started with success, make sure to have your participants sign up for an OpenStreetMap (OSM) account ahead of time. One option is to have them watch this [video](https://www.youtube.com/watch?v=wqQdDgjBOvY&feature=emb_title) as part of their pre-event prep. It can’t hurt to remind them again the day before and mention it again at the start of your event while people are getting situated. 
 
 **Tips for during your event**
 1) Introduce yourself and your fellow mappers: Spend a few minutes at the beginning to humanize yourself and break the ice with other participants. Turn on your camera when you introduce yourself, encourage your mappers to do the same. Consider doing a short ice breaker. It’s helpful to have a shared background / naming convention with your helpers so you are easy to identify if someone wasn’t paying 100% attention during these introductions. 
