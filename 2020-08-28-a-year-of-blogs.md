@@ -63,7 +63,7 @@ It is also interesting to note that there is no uniform leadership structure. On
  
 For countries that have a leadership structure in place, they have chosen a range of options for their structure. Some have governing boards, others have a president and other officers, and still others build their structure around a country coordinator and project coordinators. Some communities eschew a formal structure and instead are built around an ad hoc core group.  For the communities that are built around YouthMappers chapters, they adopted that organization’s leadership structure.
  
-# What sparkes communities?
+# What sparks communities?
  
 For the countries where there are existing OSM communities, we look at some of the factors behind their existence that were pointed out in the survey. Depending on how long the community has been in place, each community defined success in a different way. Some have focused on running mapping projects with support of a HOT Microgrant or participation in the Open Cities Project, and others aimed for organizing regular meetups for training and mapathons. Others looked at long term sustainability through registration as a non-profit organization, establishing YouthMappers chapters, and growing partnerships with government and other players to make open data available for humanitarian response and development.
  
@@ -73,7 +73,7 @@ For the countries where there are existing OSM communities, we look at some of t
  
 ## Humanitarian OpenStreetMap Team in Africa
  
-Since 2015, HOT[https://www.hotosm.org/](https://www.hotosm.org/) has run country programs in eight countries in Africa and also supported OSM communities with devices and Microgrants in 19 countries in Africa. In most of the countries where HOT has worked, they have engaged the local communities in different projects, and have helped start up communities.
+Since 2015, [HOTOSM](https://www.hotosm.org/) has run country programs in eight countries in Africa and also supported OSM communities with devices and Microgrants in 19 countries in Africa. In most of the countries where HOT has worked, they have engaged the local communities in different projects, and have helped start up communities.
  
 ## Open Cities Africa
  
