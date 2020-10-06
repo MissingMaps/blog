@@ -3,7 +3,7 @@ layout: post
 title: "'Anticipating and addressing epidemics' – A Year of Blogs – Sept 2020"
 postID: 2020-09-24-a-year-of-blogs
 category: blog
-banner:https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200924_banner.JPG
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200924_banner.JPG
 date: 2020-09-24
 author: Katharina Lorenz
 excerpt: "In order for FbF to work, we need to decide quickly, when and where to act."
