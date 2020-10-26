@@ -3,7 +3,7 @@ layout: post
 title: "Missing Maps Project awarded at the Red Cross Humanitarian Technology Awards"
 postID: 2020-10-26-rc-innovation-award
 category: blog
-banner: [url of banner image]
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201026_photo2.png
 date: 2020-10-26
 author: Paul Knight
 excerpt: "Back in February, the Missing Maps Project was awarded the Cruz Roja Award at the Red Cross Humanitarian Technology Awards (IV Edition)"
