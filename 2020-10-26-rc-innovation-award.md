@@ -16,7 +16,7 @@ lang: en
 Back in February, the Missing Maps Project was awarded the Cruz Roja Award at the [Red Cross Humanitarian Technology Awards (IV Edition)](https://www2.cruzroja.es/premios-tecnologia-humanitaria).
 
 <figure>
-<img src="">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201026_photo2.png">
 </figure>
 
 The Red Cross Humanitarian Technology Awards (IV Edition) are awards that promote the humanitarian use of technology to build a better world and are awarded to developments which promote the humanitarian use of technology.
@@ -24,7 +24,7 @@ The Red Cross Humanitarian Technology Awards (IV Edition) are awards that promot
 The Missing Maps Project members are delighted to have been awarded the Cruz Roja Award, and are proud to stand alongside the other award winners, whose projects, ideas and prototypes demonstrate the power of emerging technology for humanitarian action.
 
 <figure>
-<img src="">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201026_photo1.jpg">
 </figure>
 
 We are incredibly honoured to be part of a passionate, humanitarian network of mappers who have created to this technology and community. This award belongs to all the volunteers, community groups and contributors who make the objectives and ethics that the Missing Maps Project stands for come to life.
@@ -32,6 +32,10 @@ We are incredibly honoured to be part of a passionate, humanitarian network of m
 **OpenStreetMap GeoWeek 2020 #osmgeoweek**
 
 *Get involved in OpenStreetMap GeoWeek with the Red Cross Red Crescent network and map for preparedness programmes!*
+
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201026_banner.png">
+</figure>
 
 This 15th — 21st November is [OpenStreetMap GeoWeek](https://osmgeoweek.org/index.html), bringing together community groups, map enthusiasts, humanitarians and others to celebrate geography. During the week we’ll create maps with OpenStreetMap (OSM), the free, open source map of the world that the Missing Maps Project contributes to and uses to build maps for programmes and preparedness.
 
