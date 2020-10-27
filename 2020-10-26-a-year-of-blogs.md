@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Missing Maps Project awarded at the Red Cross Humanitarian Technology Awards"
-postID: 2020-10-26-rc-innovation-award
+title: "Missing Maps Project awarded at the Red Cross Humanitarian Technology Awards – A Year of Blogs – Oct 2020"
+postID: 2020-10-26-a-year-of-blogs
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201026_photo2.png
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201027_banner.jpg
 date: 2020-10-26
 author: Paul Knight
 excerpt: "Back in February, the Missing Maps Project was awarded the Cruz Roja Award at the Red Cross Humanitarian Technology Awards (IV Edition)"
@@ -34,7 +34,7 @@ We are incredibly honoured to be part of a passionate, humanitarian network of m
 *Get involved in OpenStreetMap GeoWeek with the Red Cross Red Crescent network and map for preparedness programmes!*
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201026_banner.png">
+<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201026_photo.png">
 </figure>
 
 This 15th — 21st November is [OpenStreetMap GeoWeek](https://osmgeoweek.org/index.html), bringing together community groups, map enthusiasts, humanitarians and others to celebrate geography. During the week we’ll create maps with OpenStreetMap (OSM), the free, open source map of the world that the Missing Maps Project contributes to and uses to build maps for programmes and preparedness.
