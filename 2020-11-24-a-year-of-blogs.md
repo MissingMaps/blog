@@ -3,7 +3,7 @@ layout: post
 title: "Missing Maps Project awarded at the Red Cross Humanitarian Technology Awards – A Year of Blogs – Oct 2020"
 postID: 2020-10-26-a-year-of-blogs
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_?_banner.jpg
+banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201124_photo.png
 date: 2020-11-24
 author: Laurent Savaëte
 excerpt: "MapSwipe: Why we're setting up a collective..."
