@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Missing Maps Project awarded at the Red Cross Humanitarian Technology Awards – A Year of Blogs – Oct 2020"
+title: "Help to Grow MapSwipe by Joining the Collective – A Year of Blogs – Nov 2020"
 postID: 2020-10-26-a-year-of-blogs
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201124_photo.png
 date: 2020-11-24
 author: Laurent Savaëte
-excerpt: "MapSwipe: Why we're setting up a collective..."
+excerpt: "Why we're setting up a collective to support MapSwipe"
 published: true
 tags: [MapSwipe, Volunteers, Fundraising]
 permalink: /blog/:year/:month/:day/:title/
