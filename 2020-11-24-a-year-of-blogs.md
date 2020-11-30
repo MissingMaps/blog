@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help to Grow MapSwipe by Joining the Collective – A Year of Blogs – Nov 2020"
-postID: 2020-10-26-a-year-of-blogs
+postID: 2020-11-24-a-year-of-blogs
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201124_photo.png
 date: 2020-11-24
