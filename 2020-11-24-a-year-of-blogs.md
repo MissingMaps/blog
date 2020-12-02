@@ -26,7 +26,7 @@ Today, I want to ask for your help with a small donation to our brand new [OpenC
 
 But more importantly, the entire core team (excluding translators) is made up of Western Europeans and Americans, all white, and mostly male (I'm one of them). I find it a bit sad, especially considering that the focus of the project is the "Global South". I believe the reasons for this are complex, but a key one is opportunity. As I wrote at the start of this post, the main reason I could join the team was because I had a bit of free time. I could afford to work for a few days without pay. There are tons of very talented people out there who unfortunately do not have this luxury. So when we rely on volunteers to run the project, we are also limiting the talent pool, and skewing it very strongly towards people like me. And while I think we've done an ok job so far, I'm convinced we could do so much better with a more diverse team.
 
-Join us today, make a donation on our OpenCollective page, [join our Slack group](https://mapswipe.slack.com/join/shared_invite/zt-8plrc8j9-4Y7kvxyOqIB0zbow13t3pw) to say hi, or [drop us an email](mailto:info@mapswipe.org), and help us shape the future of MapSwipe!
+Join us today, make a donation on our [OpenCollective page](https://opencollective.com/mapswipe#section-contribute), [join our Slack group](https://mapswipe.slack.com/join/shared_invite/zt-8plrc8j9-4Y7kvxyOqIB0zbow13t3pw) to say hi, or [drop us an email](mailto:info@mapswipe.org), and help us shape the future of MapSwipe!
 
 Thank you for your support!
 
