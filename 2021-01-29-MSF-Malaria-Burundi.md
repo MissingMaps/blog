@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mobile Methods Minimizing Malaria Cases in Eastern Burundi"
-postID: 2021-1-29-MSF-Malaria-Burundi
+postID: 2021-01-29-MSF-Malaria-Burundi
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210129_banner.png
-date: 2021-1-29
+date: 2021-01-29
 author: Jana Bauerova
 excerpt: "Building on the first year of pilot Indoor Residual Spraying campaign, the Médecins Sans Frontières (MSF) recently conducted a second round. Lessons learned could be incorporated during the repeated exercise and results are encouraging."
 published: true
