@@ -23,14 +23,14 @@ As humanitarian mapping and other major geospatial projects continue in Moana Oc
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201228_photo1.png">
-<p class="caption"> Figure 1. The Austronesian migration <a href="https://www.researchgate.net/figure/Map-outlining-migratory-paths-of-Austronesian-speaking-populations-including-estimated_fig1_224709266" target="\_blank">credit</a> </p> </p>
+<p class="caption"> Figure 1. The Austronesian migration <a href="https://www.researchgate.net/figure/Map-outlining-migratory-paths-of-Austronesian-speaking-populations-including-estimated_fig1_224709266" target="\_blank">credit</a></p>
 </figure>
 
 Hence before you proceed, please be aware that my way of reasoning and aspiring may seem tautological and mundane. But the reader must recognise that I descend from and tap into an oceanic wayfinding culture that regards spacetime as cyclical, recursive, and highly relational. This means that the past is in front of us while the future is behind us in an ever-living present. In international buzzwords, it is called “iteration” and “networking”. This also means that I draw from an intergenerational body of geographic knowledge that is not limited by shapefiles or map tiles. For example, our relatives in what was called Micronesia, which is in fact a group of large ocean states, have been making maps about the relationships between seas of islands for a very long time.
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201228_photo2.png">
-<p class="caption"> Figure 2. An ocean chart by Indigenous wayfinders of Micronesia <a href="https://www.nationalgeographic.org/media/micronesian-stick-chart/" target="\_blank">credit</a> </p> </p>
+<p class="caption"> Figure 2. An ocean chart by Indigenous wayfinders of Micronesia <a href="https://www.nationalgeographic.org/media/micronesian-stick-chart/" target="\_blank">credit</a></p>
 </figure>
 
 We know where we are going because we know where we came from. This means that our intergenerational geographical knowledges are with us and should be respected, while we have been under threat by colonialism, imperialism, capitalism, patriarchy, and many other systems of oppression for hundreds of years.
@@ -39,7 +39,7 @@ If you look at history and geography with a deep sense of time and space, then y
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201228_photo3.png">
-<p class="caption"> Figure 3. A racialised and segregated 1832 map of Oceania, made by the cartographer, explorer, and coloniser Dumont d’Urville </p> </p>
+<p class="caption"> Figure 3. A racialised and segregated 1832 map of Oceania, made by the cartographer, explorer, and coloniser Dumont d’Urville </p>
 </figure>
 
 “[First, do no harm](https://en.wikipedia.org/wiki/Primum_non_nocere)”, say many manuals in the humanitarian sector. Truth be told, cartography and geospatial technologies, which are intertwined with colonial projects, have been harmful and traumatic for the vast majority of the peoples of the world. The extractive methods of producing geographic knowledge are a core part of the painful construction of international systems that belittle, misunderstand, disrespect, and exploit us peoples of the ocean and our other living relatives. For example, the US military, as it was mapping the Philippines, hosted the largest overseas US military base in our town and left toxic waste that has been making the children suffer. The experience has been [the same across the Pacific](https://www.theguardian.com/world/2020/oct/11/poisoning-the-pacific-new-book-details-us-military-contamination-of-islands-and-ocean). This trend towards extinction continues today, as colonial powers remain present in many seas of islands such as Guåhan, Ryukyu, West Papua, Australia, Kanaky, Hawaiʻi, Tahiti, Aotearoa. The list goes on. Hence, remember that the context of our mapping is that we do not live in a postcolonial age; instead, we are inside a recolonising milieu. Remember that colonialism is an ongoing disaster, and we must confront it, too, to alleviate suffering, uphold human rights, and redefine development.
@@ -56,7 +56,7 @@ Last year, we hosted a mapathon here in Aotearoa, also known as New Zealand, for
 
 <figure>
 <img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201228_photo5.png">
-<p class="caption"> Figure 4 and 5. Participants in the Missing Maps mapathon in Wellington, Aotearoa (New Zealand) last November 2019. Photos by conference organisers </p> </p>
+<p class="caption"> Figure 4 and 5. Participants in the Missing Maps mapathon in Wellington, Aotearoa (New Zealand) last November 2019. Photos by conference organisers</p>
 </figure>
 
 Remember that the job of the mapmaker is not just to produce visuals or provide data. Through the peoples and places they make maps with, a mapmaker creates meaning that weaves together space, knowledge, and power. Now, what will that meaning be? Will it just be about a reproduction of colonial, imperial, extractive, and patriarchal projects that devalue, traumatise, and annihilate life? Or will it help in the emancipation of marginalised peoples, abolition of oppressive structures, and regeneration of Indigenous power? If you are a mapmaker, then ask yourself, “who are you making maps for?” and “who are you making maps *with*?” More importantly, who is leading your mapping?
