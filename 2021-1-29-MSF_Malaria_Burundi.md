@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mobile Methods Minimizing Malaria Cases in Eastern Burundi"
-postID: 2021-1-29-MSF_Malaria_Burundi
+postID: 2021-1-29-MSF-Malaria-Burundi
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210129_banner.png
 date: 2021-1-29
