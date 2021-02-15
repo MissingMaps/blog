@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Leveraging MapSwipe to improve solid waste management in Mali: Sustaining livelihoods amidst COVID-19 shutdowns."
-postID: 2021-2-15-MapSwipe-WB
+postID: 2021-02-15-MapSwipe-WB
 category: blog
 banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210215_banner.png
-date: 2021-2-15
+date: 2021-02-15
 Author: Jessica Bergmann
 excerpt: "Sustaining livelihoods amidst COVID-19 shutdowns using MapSwipe. In Bamako, Mali, more than 100 individuals whose livelihoods were affected due to COVID-19 participated in the pilot program."
 published: true
