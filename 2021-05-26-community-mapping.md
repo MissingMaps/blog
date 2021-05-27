@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping Your Own Backyard: Stories from Local Community Mappers
+title: "Mapping Your Own Backyard: Stories from Local Community Mappers"
 postID: 2021-05-26-community-mapping
 category: blog
 banner: [https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210526_Banner.png]
@@ -12,8 +12,9 @@ tags: Community Mapping, Volunteers
 permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
-> So far the Missing Maps mappers created a lot of data in terms of quantity, but now we need to focus on more quality. And this quality will come from the local mappers because they are the ones who know the specific places and they are the ones that are able to keep the map up-to-date. For me, as eHealth advisor, from the public health view, locations of health facilities and place names like villages are the most important to map. For others within MSF, like community outreach teams or water and sanitation specialists, it might be rather general points of interests like mosques and schools to know where to go and to meet.
- _- Raphael Brechard, eHealth advisor Médecins Sans Frontières_
+
+> So far the Missing Maps mappers created a lot of data in terms of quantity, but now we need to focus on more quality. And this quality will come from the local mappers because they are the ones who know the specific places and they are the ones that are able to keep the map up-to-date. For me, as eHealth advisor, from the public health view, locations of health facilities and place names like villages are the most important to map. For others within MSF, like community outreach teams or water and sanitation specialists, it might be rather general points of interests like mosques and schools to know where to go and to meet.  
+_- Raphael Brechard, eHealth advisor Médecins Sans Frontières_
 
 
 
