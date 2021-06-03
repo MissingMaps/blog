@@ -3,7 +3,7 @@ layout: post
 title: "Mapping Your Own Backyard: Stories from Local Community Mappers"
 postID: 2021-05-26-community-mapping
 category: blog
-banner: [https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210526_Banner.png]
+banner: "https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210526_Banner.png"
 date: 2021-05-26
 author: Melanie Chabot, Rachel Levine & Jorieke Vyncke
 excerpt: We have collected the stories of several enthusiastic OSM-ers who have mastered the art of mapping their own backyards. They have offered their advice for those who are first starting out and shared the reasons why they have become so passionate about local mapping.
