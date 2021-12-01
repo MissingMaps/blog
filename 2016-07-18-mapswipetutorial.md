@@ -3,7 +3,7 @@ layout: post
 title: MapSwipe Tutorial
 postID: mapswipe-tutorial
 category: [MapSwipe]
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160714_mapswipe.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20160714_mapswipe.jpg
 date: 2016-07-18
 author: Pete Masters
 excerpt: MapSwipe relies on users being able to interpret what they see in the satellite imagery provided. This tutorial gives some guidance on how best to do that.

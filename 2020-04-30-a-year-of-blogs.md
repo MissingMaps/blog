@@ -3,7 +3,7 @@ layout: post
 title: "'Leveraging Missing Maps for The Community Epidemic and Pandemic Preparedness Program (CP3) in Guinea' – A Year of Blogs – April 2020"
 postID: a-year-of-blogs-apr2020
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_longerbanner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20200430_longerbanner.jpg
 date: 2020-04-30
 author: Jennifer Duong, David Luswata, and Tino Toupane
 excerpt: "In recent months, the Guinean Red Cross Society and the Community Epidemic and Pandemic Preparedness Program (CP3) teams created their own map data, tracing remotely in OSM and via field data collection. The staff and volunteers involved gained valuable insight in how information is compiled and shared from OSM and other open source platforms."
@@ -14,16 +14,16 @@ lang: en
 ---
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image1.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20200430_Image1.png">
 <p class="caption"> [Image 1: Two participants gathering building information during field data collection]</p>
 </figure>
 
 The ultimate goal of the [Community Epidemic and Pandemic Preparedness Program (CP3)](https://media.ifrc.org/ifrc/community-epidemic-pandemic-preparedness), a program led by the International Federation of the Red Cross (IFRC), is to strengthen the ability of communities and civil society groups to prevent, detect, and respond to disease threats and play a central and significant role in assessing future risks.
 
-[Data Readiness](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_CP3_data_readiness_1pager.pdf) is one priority and workstream within CP3. Through this workstream, we want national societies to be equipped to use quality and timely information to influence operations and planning; this is all with the goal of being able to respond effectively to disasters. CP3 relies on the methods and community engagement from the Missing Maps program to create base mapping data for many of the communities where CP3 is active.
+[Data Readiness](https://www.missingmaps.org/img/images/missingmaps-blog_CP3_data_readiness_1pager.pdf) is one priority and workstream within CP3. Through this workstream, we want national societies to be equipped to use quality and timely information to influence operations and planning; this is all with the goal of being able to respond effectively to disasters. CP3 relies on the methods and community engagement from the Missing Maps program to create base mapping data for many of the communities where CP3 is active.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image2.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20200430_Image2.png">
 <p class="caption"> [Image 2: Map of Faranah by David Luswata]</p>
 </figure>
 
@@ -41,7 +41,7 @@ Over the past several months, the CP3 team and the Guinean Red Cross Society (GR
 The three phases of community mapping are outlined below followed by the takeaway points of the project:
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image3.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20200430_Image3.png">
 <p class="caption"> [Image 3: Guinean Red Cross Society members and volunteers from Geo-synapses gather for a mapathon in Conakry]</p>
 </figure>
 
@@ -68,7 +68,7 @@ Staff and volunteers from the various organizations (most notably from the GRCS 
 <span class="caption">[Table 1 showing remote mapping statistics in Faranah prefecture courtesy of Tino Toupane]</span>
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200430_Image4.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20200430_Image4.png">
 <p class="caption">[Image 4: A picture of the participants taken from the 4-day field data collection training.]</p>
 </figure>
 

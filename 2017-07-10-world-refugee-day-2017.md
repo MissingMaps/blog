@@ -3,7 +3,7 @@ layout: post
 title: Volunteers in Uganda and Turkey Rally to Support Refugees on World Refugee Day
 postID: world-refugee-day-2017
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_banner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20170710_banner.jpg
 date: 2017-07-10
 author: Geoffrey Kateregga
 excerpt: "What connects Kampala and Istanbul? You might be thinking that Kampala and Istanbul are worlds apart, but volunteers in both cities rallied around a common cause for World Refugee Day - working together to map priority areas in Uganda that require urgent humanitarian assistance."
@@ -30,7 +30,7 @@ Empowering refugees and host communities are key elements of the Ugandan nationa
 The Humanitarian OpenStreetMap Team (HOT) in Uganda works in tandem with the local organization MapUganda to provide OpenStreetMap (OSM) tools, training, information management products and advisory services to humanitarian organizations working with refugees. HOT provides OSM tools to international organizations, local government and refugee communities, along with training, information management support and advisory services. Several volunteers are periodically trained to use OSM tools, and ready to support the humanitarian community with extensive data collection.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_map.jpg" alt="map">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20170710_map.jpg" alt="map">
 <p class="caption">Distribution of volunteers trained in using OSM tools</p>
 </figure>
 
@@ -43,26 +43,26 @@ To respond to the situation in Uganda, HOT and [Médecins Sans Frontières Turke
 Participants in Istanbul mapped 2,550 buildings in the Boroli, Olua and Ayilo Refugee Settlements, and completed 75% of the targeted region. They learned about Missing Maps, and HOT and MSF’s work. The majority of participants were new mappers, and were excited to learn about OSM and discover how they could contribute.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic1.jpg" alt="All in a Day’s Work!">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20170710_pic1.jpg" alt="All in a Day’s Work!">
 <p class="caption">All in a Day’s Work: Volunteers show solidarity with refugees during Istanbul’s First Missing Maps Mapathon</p>
 </figure>
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic2.jpg" alt="People Live There!">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20170710_pic2.jpg" alt="People Live There!">
 <p class="caption">People Live There! Istanbul Missing Maps Mapathon participants fill in "blank spots" on the map in the Boroli, Olua and Ayilo Refugee Settlements to facilitate humanitarian aid</p>
 </figure>
 
 ## From Istanbul to Kampala: HOT Uganda Organizes Mapathon on World Refugee Day
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic3.jpg" alt="Mapathon in Kampala">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20170710_pic3.jpg" alt="Mapathon in Kampala">
 <p class="caption">Mapathon in Kampala</p>
 </figure>
 
 On June 20, the HOT team in Uganda organized a mapathon in Kampala, with remote connection from MSF’s office in Yumbe, to contribute to the provisioning of up-to-date information on refugee settlements and hosting communities. The mapathon gathered several volunteers, humanitarian workers and representatives from UNHCR and WFP, and targeted mapping of shelters, main roads, boundaries for Maji Refugee Settlement and Adjumani Town.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170710_pic4.jpg" alt="Opening of the Mapathon">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20170710_pic4.jpg" alt="Opening of the Mapathon">
 <p class="caption">Opening of the Mapathon in Kampala, HOT Country Manager with MapUganda colleagues</p>
 </figure>
 

@@ -3,7 +3,7 @@ layout: post
 title: "One Map Myanmar and Phandeeyar"
 postID: mapping-in-myanmar
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_banner.png
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20181203_banner.png
 date: 2018-09-24
 author: Jennifer Duong
 excerpt: "In May 2018, the American Red Cross GIS team trained members of One Map Myanmar and Phandeeyar in a weeklong data collection training (a training-of-trainers) in Yangon. After this, these trainers trained Red Cross volunteers in Mawlamyine, and then, they went to collect data for this project."
@@ -18,7 +18,7 @@ lang: en
 The American Red Cross has been working alongside the Myanmar Red Cross to better understand where critical infrastructure and roads are to inform decision making during major disasters, like floods and cyclones. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_1.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20181203_1.png">
 <p class="caption">Planning Mawlamyine City mapping, CC-BY Kyawzayar Linn</p>
 </figure>
 
@@ -35,7 +35,7 @@ In May 2018, the American Red Cross GIS team trained members of [One Map Myanmar
 Below, is a snapshot of how the city of Mawlamyine was divided into mapping tasks and the smaller squares demonstrate areas of higher urban density. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_2.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20181203_2.png">
 <p class="caption">Tasking Manager project squares</p>
 </figure>
 
@@ -74,7 +74,7 @@ In Myanmar, the Red Cross and other organizations are interested in seeing the d
 OpenStreetMap and other forms of open data (i.e. Humanitarian Data Exchange) are great examples of open-source platforms that allow ministries, planning agencies, and humanitarian teams to share common data sets needed for disaster planning and mitigation.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_3.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20181203_3.png">
 <p class="caption">Discussing open data, CC-BY Kyawzayar Linn</p>
 </figure>
 
@@ -83,19 +83,19 @@ Before this activity took place, there were about 113 POIs on the map for the ci
 Using the [OSM Analytics Tool](https://osm-analytics.org/) we can see how many buildings were in this area before and after the new data were brought into OSM.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_4.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20181203_4.png">
 <p class="caption">OSM before and after</p>
 </figure>
 
 The below animation, produced from HOT’s [Visualize Change Tool](http://visualize-change.hotosm.org/) also shows the progress of the features added in OSM over time for the entire area.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_5.gif">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20181203_5.gif">
 <p class="caption">Mapping progress visualized</p>
 </figure>
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_6.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20181203_6.png">
 <p class="caption">Mapping statistics</p>
 </figure>
 
@@ -106,7 +106,7 @@ We want to thank our partners [One Map Myanmar](https://portal.onemapmyanmar.inf
 If you would like to get involved with Missing Maps and our projects in Myanmar, please consider helping us with our efforts to map the Ayeyarwady Delta. Tasks and their priority levels can be found here: https://tasks.hotosm.org/contribute?difficulty=ALL&text=Ayeyarwady 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20181203_7.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20181203_7.png">
 <p class="caption">Training participants, CC-BY Rachel Levine / American Red Cross</p>
 </figure>
 

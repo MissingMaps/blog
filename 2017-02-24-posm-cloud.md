@@ -3,7 +3,7 @@ layout: post
 title: POSM Cloud
 postID: posm-cloud
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/posmcloud.jpg
+banner: https://www.missingmaps.org/img/images/posmcloud.jpg
 date: 2017-02-24
 author: Dale Kunce
 excerpt: "Portable OpenStreetMap (POSM) can run in the cloud. This walkthrough will help you get your own POSM up and running on Amazon EC2."

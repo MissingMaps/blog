@@ -3,7 +3,7 @@ layout: post
 title: 4 weeks in Madagascar with OSM-Mada & PHF/PHM - Disaster Risk Reduction project
 postID: cartong-madagascar-field-mapping
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_banner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20180424_banner.jpg
 date: 2018-04-24
 author: Martin Noblecourt
 excerpt: "As part of a new natural Disaster Risk Reduction project launched in partnership with the French NGO <a href='http://pohf.org/'>Pompiers Humanitaires Français (PHF)</a> and the <a href='https://www.facebook.com/OpenStreetMap.Madagascar/'>local OpenStreetMap community</a>, Missing Maps member CartONG implemented a 4-week mission in Madagascar in March 2018. The objectives: raising awareness on data sharing, collecting data in the field and producing maps!"
@@ -14,7 +14,7 @@ lang: en
 ---
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_atsinanana.jpg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180424_atsinanana.jpg">
 </figure>
 
 As part of a new natural Disaster Risk Reduction project launched in partnership with the French NGO Pompiers Humanitaires Français (PHF) and the local OpenStreetMap community, Missing Maps' member CartONG implemented a 4-week mission in Madagascar in March 2018. The objectives: raising awareness on data sharing, collecting data in the field and producing maps!
@@ -26,7 +26,7 @@ For several years, CartONG has developed and maintained friendly relations with 
 ## Launch of a Disaster Risk Reduction Project with PHF
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_workgroup1.jpg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180424_workgroup1.jpg">
 </figure>
 
 In 2017, we started a new project in partnership with the NGO Pompiers Humanitaires Français (PHF) – French Humanitarian Firefighters, which has been operating in eastern Madagascar (Atsinanana region) since 2010. In particular, PHF initiated the creation of an emergency and civil protection centre in Vatomandry in 2013.
@@ -38,7 +38,7 @@ To this end, we organized several Missing Maps mapathons between October 2017 an
 ## 4 weeks in the field
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_workgroup2.jpg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180424_workgroup2.jpg">
 </figure>
 
 This preparatory phase led to a mission in Madagascar organized from March 3rd to 27th 2018, thanks to the decisive support of the [CNES](http://cnes.fr/en) (the French Space Agency). After a preliminary phase in Antananarivo with the Malagasy OSM community – during which a data sharing workshop, similar to [the one organized in January 2018 in the DRC](http://www.cartong.org/activity/building-data-collaborative-support-sdgs-health-and-wash-malawi-and-drc), was organized – the combined CartONG & OSM-Mg team then left for the Atsinanana region to collect data in the field for 3 weeks.
@@ -48,7 +48,7 @@ The mission was disrupted by the passage of the [tropical storm Eliakim](http://
 ## A mission offering a wealth of learning opportunities
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_fieldwork.jpg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180424_fieldwork.jpg">
 </figure>
 
 This mission was a rich human and technical experience. It was also one of the first missions organized in full autonomy by CartONG, that is to say without the support of an international NGO in the field.

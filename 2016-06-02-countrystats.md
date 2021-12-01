@@ -3,7 +3,7 @@ layout: post
 title: OpenStreetMap Country Stats
 postID: countrystats
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160602_banner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20160602_banner.jpg
 date: 2016-06-02
 author: Dale Kunce
 excerpt: Building an understanding of gaps left to be mapped means understanding what and how local OSM communities have been able to map. Working with some partners we created a simple Tableau visualization that shows the growth of road data in OSM over the past eight years.
@@ -21,7 +21,7 @@ I've highlighted three countries that peaked my interest below.
 When I first looked at the stats the first thing that jumped out at me was the rapid increase of mapping data in the US. I wasn't part of the project back then so I did a little research and found out that the increase is do the [TIGER Import](http://wiki.openstreetmap.org/wiki/TIGER). Seeing these types of massive data increases helps to understand how the mapping community has grown. These changes the way that we engage local mappers and community groups.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/TIGERImportAnimation.gif" alt="TIGER Import">
+<img src="https://www.missingmaps.org/img/images/TIGERImportAnimation.gif" alt="TIGER Import">
 <p class="caption">TIGER Import progress CC-BY-SA OSM</p>
 </figure>
 
@@ -29,7 +29,7 @@ When I first looked at the stats the first thing that jumped out at me was the r
 My first real experience with HOT and OSM was Typhoon Haiyan in the Philippines. Remote volunteers contributed over 4.5 million map edits in just 3 months. I expected a huge spike in the road data during this period. However, after reviewing the numbers the is a small uptick in edits but its right in line with the overall organic growth of OSM data in the Philippines. The Philippines mapping community is one of the strongest and most dedicated group of mappers I know. The Philippines gets hit by an average of [20 typhoons a year](https://en.wikipedia.org/wiki/Typhoons_in_the_Philippines). Having good data is very important to helping to save lives. Many groups including the local governments have switched to using OSM as the source for maps during disasters and the Philippine mapping is at the heart of this adoption and switch. How we as the Red Cross and Missing Maps work with them is drastically different than in Guinea.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/philippines.png" alt="Philippines">
+<img src="https://www.missingmaps.org/img/images/philippines.png" alt="Philippines">
 <p class="caption">Philippines Stats</p>
 </figure>
 
@@ -37,7 +37,7 @@ My first real experience with HOT and OSM was Typhoon Haiyan in the Philippines.
 Guinea has a much different history of map data. Prior to the [2013 Ebola outbreak](http://www.ifrc.org/en/news-and-media/news-stories/africa/guinea/red-cross-responds-to-ebola-outbreak-in-guinea--65316/) very little road data existed. Over the 18 or so months that HOT and others were involved you can clearly see the huge uptake in road length. The Guinea mapping community is still in its early days. We at the Red Cross are working to [grow both the map and the mapping community](http://localhost:3000/blog/2016/04/25/west-africa-mapping-hub-launch/) to help create the sustainable growth that we see in places like the Philippines.  
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/guinea_stats.jpg" alt="Guinea">
+<img src="https://www.missingmaps.org/img/images/guinea_stats.jpg" alt="Guinea">
 <p class="caption">Guinea Stats</p>
 </figure>
 

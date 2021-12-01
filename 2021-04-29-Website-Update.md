@@ -3,7 +3,7 @@ layout: post
 title: "Missing Maps Website Upgrade!"
 postID: 2021-04-29-Website-Update
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210429_banner.png
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20210429_banner.png
 date: 2021-04-29
 author: Melanie Chabot & Rachel Levine
 excerpt: "We are so excited to announce the launch of our refreshed website! Over the last year, the Missing Maps team has focused on this project to ensure that you, our wonderful mappers, have everything you need to best participate in the OSM Community."
@@ -40,5 +40,5 @@ We are so excited to share what we’ve already accomplished, but we know there 
 **Happy Mapping!**
 
 <p align="center">
-  <img width="460" height="300" src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210429_photo1.png">
+  <img width="460" height="300" src="https://www.missingmaps.org/img/images/missingmaps-blog_20210429_photo1.png">
 </p>

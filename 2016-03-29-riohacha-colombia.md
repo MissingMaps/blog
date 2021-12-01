@@ -3,7 +3,7 @@ layout: post
 title: Community mapping in Riohacha, Colombia
 postID: riohacha-mapping
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_banner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20160329_banner.jpg
 date: 2016-03-29
 author: Drishtie Patel, Matt Gibb
 excerpt: Every year in the Americas more and more people are living in conditions of vulnerability to natural hazards and climate change. To help reduce disaster risk and enhance community resilience in the region, the American Red Cross is working with Red Cross partners like the Colombian Red Cross to address local hazards and vulnerabilities in dozens of disaster-prone communities.
@@ -24,7 +24,7 @@ We were absolutely amazed at the responsiveness of the staff and volunteers and 
 Every year in the Americas more and more people are living in conditions of vulnerability to natural hazards and climate change. To help reduce disaster risk and enhance community resilience in the region, the American Red Cross is working with Red Cross partners to address local hazards and vulnerabilities in dozens of disaster-prone communities. Through research and community discussion in the chosen communities the Colombian Red Cross has identified the top priorities for building resilience: Community health, water and sanitation, risk reduction, organizational strengthening, rights and advocacy, mitigation microproject and risk reduction.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_Nuevo-Milenio.jpg" alt="Nuevo Milenio">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20160329_Nuevo-Milenio.jpg" alt="Nuevo Milenio">
 <p class="caption">Nuevo Milenio – one of the mapping locations in Riohacha. CC-BY American Red Cross.</p>
 </figure>
 
@@ -33,7 +33,7 @@ Every year in the Americas more and more people are living in conditions of vuln
 The American Red Cross team held mapathons in New York with JP Morgan Chase employees, and volunteers from Washington, DC and Bogota, Colombia using satellite imagery to remotely trace the area. With the recent imagery from Mapgive so we could have a more accurate understanding of what we were going to see in the ground.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_JPMC-mapathon.jpg" alt="JPMC mapathon">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20160329_JPMC-mapathon.jpg" alt="JPMC mapathon">
 <p class="caption"> JP Morgan Chase employees at a mapathon in New York City remotely tracing for Colombia. CC-BY American Red Cross.</p>
 </figure>
 
@@ -46,14 +46,14 @@ As we do on all our trips we used the first day to visit each of the field sites
 The RITA program managers were excited to get the training underway and have as much time for field mapping as possible. We spent two days in a hotel conference room developing the [OpenMapKit](http://openmapkit.org/) survey form and training the volunteers how to edit with [OpensStreetMap](http://www.openstreetmap.org/) and how to collect data using [Field Papers](http://fieldpapers.org/) and mobile phones. All of the volunteers and CRC staff were engaged and quick to pick up the topics we were discussing. The language barrier was one of our main challenges. The trainers did not speak Spanish and the trainees did not speak English. While Alvaro Barros, our translator was an irreplaceable asset, not being able to communicate in a manner that flowed did significantly slow the training process down. Luckily this young group of enthusiastic volunteers met us half way and we were able to work around the challenge and pick up new words as each day passed.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_community-needs.jpg" alt="Community needs discussion">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20160329_community-needs.jpg" alt="Community needs discussion">
 <p class="caption">Group discussions about community needs. Volunteer groups use large base maps of the area to start adding major points of interest and gain confidence in their map literacy. CC-BY American Red Cross.</p>
 </figure>
 
 By the second training day the group had successfully mapped the area surrounding the hotel we were training in during their practice session. Early on the third morning we met at the Red Cross office and took a big school bus over to the areas. We grouped up, got our lunch bags for the day and set out to map two districts namely Nuevo Milenio and Villa Keiner. Due to the weather conditions, we wanted to make sure the volunteers had an early start, so they would not be working during the hottest part of the day. As we go around and check on each team, the CRC staff does the same with a Garmin Virb attached to the car that is driving through every street. The camera is set to take pictures every 3 seconds which we then upload to [Mapillary](https://www.mapillary.com/map).
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_checking-location.jpg" alt="Field mapping">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20160329_checking-location.jpg" alt="Field mapping">
 <p class="caption">Checking a team's location in the field while mapping. CC-BY American Red Cross.</p>
 </figure>
 
@@ -62,7 +62,7 @@ Thanks to the amazing work being done by Cruz Roja Colombiana in these communiti
 At the end of each day in the field, we upload and check data the volunteers collected on the phones so we can address any issues the next day. We upload pictures to mapillary, charge phones and extra battery packs and prep FieldPapers for our groups.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_prep.jpg" alt="Preparation for field mapping">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20160329_prep.jpg" alt="Preparation for field mapping">
 <p class="caption">Preparation for data collection in the field. CC-BY American Red Cross.</p>
 </figure>
 
@@ -71,7 +71,7 @@ After all the data is collected in the field we regrouped at the hotel for two d
 Overall, we enjoyed making new friends in the beautiful La Guajira region of Colombia. In ten days 27 volunteers surveyed 2 350 buildings of the 20 184 that were traced by remote volunteers. We’ve uploaded more pictures from our trip [here](https://www.flickr.com/photos/126636925@N06/sets/72157664879747280).
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_group-picture.jpg" alt="Group picture">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20160329_group-picture.jpg" alt="Group picture">
 <p class="caption">The group that mapped through the weekend. CC-BY American Red Cross.</p>
 </figure>
 
@@ -80,6 +80,6 @@ Overall, we enjoyed making new friends in the beautiful La Guajira region of Col
 After we got back from Colombia we were able to analyze the data collected by the community. The validated base data was uploaded to OSM while the project-specific data was used to create maps to assist with planning and decision-making for various disaster risk reduction programs.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160329_before-after.jpg" alt="Before and after">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20160329_before-after.jpg" alt="Before and after">
 <p class="caption">Before and after.</p>
 </figure>

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging MapSwipe to improve solid waste management in Mali: Sustaining livelihoods amidst COVID-19 shutdowns."
 postID: 2021-02-15-MapSwipe-WB
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210215_banner.png
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20210215_banner.png
 date: 2022-02-15
 author: Jessica Bergmann
 excerpt: "Sustaining livelihoods amidst COVID-19 shutdowns using MapSwipe. In Bamako, Mali, more than 100 individuals whose livelihoods were affected due to COVID-19 participated in the pilot program."
@@ -24,7 +24,7 @@ And as waste continues to build in urban and peri-urban areas of Bamako, it pose
 
 So how can local authorities begin to solve a problem they cannot fully measure and characterize? We started by generating data to help visualize the problem.
 
-![animated GIF MapSwipe Demo](https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_2021128_mapswipe.gif)
+![animated GIF MapSwipe Demo](https://www.missingmaps.org/img/images/missingmaps-blog_2021128_mapswipe.gif)
 
 With high resolution aerial imagery of Bamako, community members were trained on how to identify collections of solid waste using MapSwipe on their mobile phones. Together, they spent over 1,500 hours swiping through 6,000,000 imagery tiles and indicating where solid waste in the city was without ever having to leave their home and helping to ensure their safety amidst COVID-19. All individuals received payment for completing the microtasks, helping to offset some of the economic shock they experienced because of COVID restrictions.
 
@@ -33,7 +33,7 @@ With high resolution aerial imagery of Bamako, community members were trained on
 And the data generated was a clear success. In under two weeks, users swiped an area of over 450 square kilometers, producing some of the highest quality, detailed data ever produced by MapSwipe. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210215_photo2.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20210215_photo2.png">
 </figure>
 
 The data has already been used at the city level to start visualizing where waste is being generated and dumped and to plan where to distribute facilities to collect waste before it is dumped in streets and vacant lots. A small study has also been commissioned to track small enterprises that are collecting waste in communities through door-to-door service; map layers will show routes of these waste collectors overlaid on a map of the piles of solid waste to help city officials and small enterprises improve service provision through better planning.

@@ -3,7 +3,7 @@ layout: post
 title: PADF in Guatemala
 postID: padf-in-guatemala
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170330_padf-guat-group-pic.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20170330_padf-guat-group-pic.jpg
 date: 2017-03-30
 author: George Washington University
 excerpt: Faculty and students at the George Washington University teamed up with the Pan American Development Foundation (PADF) this March to bring digital mapping tools to vulnerable communities in Guatemala.
@@ -19,7 +19,7 @@ Faculty and students at the George Washington University (GWU), including AGS Pr
 “Many urban informal communities are literally not on the map, so when emergencies happen they are hard to assist,” says Marie Price. “Mapping and surveying these areas improve our understanding of life threatening conditions and identify households that face the greatest risk.”  Price worked with colleague Dr. Nuala Cowan, who is an Assistant Professor at GWU and a leader in using open source data and tools for humanitarian purposes.
 
 <figure>
-<img style="display: block;margin:auto; " src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170330_pricecowan.jpg"/>
+<img style="display: block;margin:auto; " src="https://www.missingmaps.org/img/images/missingmaps-blog_20170330_pricecowan.jpg"/>
 <p class="caption">Dr. Nuala Cowan and Dr. Marie Price with community members</p>
 </figure>
 
@@ -29,7 +29,7 @@ Geography Masters students Andrii Berdnyk and Sudie Brown developed workshops an
 The project began with students at the George Washington University remotely tracing buildings and roads in Ciudad Satélite from satellite imagery on to Open Street Map.  When in Guatemala, the research team worked with community members to validate and correct the maps using field papers.
 
 <figure>
-<img style="display: block;margin:auto; " src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170330_communitymembers.jpg"/>
+<img style="display: block;margin:auto; " src="https://www.missingmaps.org/img/images/missingmaps-blog_20170330_communitymembers.jpg"/>
 <p class="caption">Community members field validation</p>
 </figure>
 
@@ -39,7 +39,7 @@ The maps and information were then shared with the community for planning purpos
 In addition, the research team worked with students and faculty at Rafael Landívar University to trace buildings and roads using OSM, to use mobile phone-based survey tools to collect information on household vulnerability, infrastructure and disaster preparedness.
 
 <figure>
-  <img style="display: block;margin:auto; " src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170330_unimapping.jpg"/>
+  <img style="display: block;margin:auto; " src="https://www.missingmaps.org/img/images/missingmaps-blog_20170330_unimapping.jpg"/>
   <p class="caption">Students and Faculty at Rafael Landívar University</p>
 </figure>
 

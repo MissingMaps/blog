@@ -3,7 +3,7 @@ layout: post
 title: "OSM GeoWeek Thank You!"
 postID: osmgeoweek-thankyou
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/geoweek_2016_ucla.jpg
+banner: https://www.missingmaps.org/img/images/geoweek_2016_ucla.jpg
 date: 2016-11-28
 author: Rachel Levine
 excerpt: "Thank you for your incredible efforts organizing this year's OSM GeoWeek! In total 140 public and 150 private events took place in 42 countries.  We made 1 million edits and added 861,865 buildings and 145,030 km of roads to OSM. Thanks to your hard work, almost 4,000 new mappers joined the OSM community! "
@@ -31,6 +31,6 @@ It's a great idea to follow-up with your participants (if you haven't already). 
 Again, from all of us on the OSM GeoWeek organizing team, thank you so much for your planning, mapping, and continued support!
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20161128_geoweek.jpg" alt="GeoWeek">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20161128_geoweek.jpg" alt="GeoWeek">
 <p class="caption">6th grade students participating in a geography workshop in India. Photo Credit: <a href="http://www.openstreetmap.org/user/upendrakarukonda/diary/39889" target="_blank">upendrakarukonda.</a></p>
 </figure>

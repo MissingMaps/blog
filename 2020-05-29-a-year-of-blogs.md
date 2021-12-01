@@ -3,7 +3,7 @@ layout: post
 title: "'Developing baseline health facility data with Healthsites' – A Year of Blogs – May 2020"
 postID: a-year-of-blogs-may2020
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200529_banner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20200529_banner.jpg
 date: 2020-05-29
 author: Mark Herringer
 excerpt: "In this article we concentrate on Human Centered Design and how you can help us to build a platform that meets the needs of the people using it."
@@ -17,7 +17,7 @@ lang: en
 # Human Centered Design to drive the development of baseline health facility data with Healthsites – A Year of Blogs – May 2020
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200529_photo1.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20200529_photo1.png">
 <p class="caption"> Mapping health facilities in Saint Louis, Senegal  <a href="https://twitter.com/lamineyasey/" target="\_blank">@lamineyasey</a> </p>
 </figure>
 

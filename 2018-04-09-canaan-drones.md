@@ -3,7 +3,7 @@ layout: post
 title: Drones over Canaan, Haiti
 postID: canaan-drones
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_banner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20180409_banner.jpg
 date: 2018-04-09
 author: Matthew Gibb and Dan Joseph
 excerpt:  Canaan, one of the most populated areas in Haiti, continues to evolve and grow. In December 2017, the American Red Cross recently covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and updating OpenStreetMap.
@@ -36,7 +36,7 @@ Given the Mavic Pro’s size and sensor capabilities, it took a large number of 
 To improve accuracy of our orthomosaic, at each launch point, ground control points (GCPs) were used. GPS coordinates are taken at the center of the GCP and when the orthomosaic is created, it can be georectified by adjusting the latitude and longitude of the GCP in the image to match those of the collected coordinates.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_gcp-placed.jpg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180409_gcp-placed.jpg">
 <p class="caption">Ground control point placed near launch site, CC-BY American Red Cross</p>
 </figure>
 
@@ -65,7 +65,7 @@ Once we were setting up at a launch point, the community focal point would work 
 In addition to flights, we used two Sony Action Cameras to capture street level imagery as we drove throughout Canaan. The imagery of the area can be viewed on [Mapillary](https://www.mapillary.com/app/?lat=18.652149722222248&lng=-72.29545138888886&z=17&pKey=qesHt-3rIoVgYZaYtguNsQ&focus=photo) and [OpenStreetCam](http://openstreetcam.com/details/990741/207). Both forward facing and side facing images were captured.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_mapillary.jpg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180409_mapillary.jpg">
 <p class="caption">Camera collecting street level imagery for Mapillary and OpenStreetCam, CC-BY American Red Cross</p>
 </figure>
 
@@ -80,14 +80,14 @@ Over 6 days of flying (with excessive wind grounding us for 2 additional days), 
 At the American Red Cross, we support the development and use of open source software. We are fans of the OpenDroneMap project. Due to the magnitude of images that were collected, we processed the images in 66 separate groups, each less 1000 images, making sure that there was significant overlap of these areas for continuity when later merging them. It took several attempts and and multiple methodologies to identify a process that resulted in a quality orthoimage to be shared. Things that could go wrong, did: hard drives filled up, uploads failed, GDAL installations were messed up, downloads failed, and more. OpenDroneMap has since been improved to better handle such large image sets, so it'll be a lot easier next time!
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_processing.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180409_processing.png">
 <p class="caption">Collected imagery and the processing areas, CC-BY American Red Cross</p>
 </figure>
 
 Once the merged orthomosaic was complete, we adjusted the georeferencing of the mosaic using the ground control points that had been laid out at each launch site.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_gcp-flight.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20180409_gcp-flight.png">
 <p class="caption">Ground control point flag and red marker showing corresponding collected GPS coordinates in an image from the DJI Mavic Pro, CC-BY American Red Cross</p>
 </figure>
 
