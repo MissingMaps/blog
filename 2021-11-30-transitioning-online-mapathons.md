@@ -3,7 +3,7 @@ layout: post
 title: "Transitioning from Online Mapathons to In-person: Experiences of Mapathon Organizers"
 postID: 2021-11-30-transitioning-online-mapathons
 category: blog
-banner: "https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Banner.png"
+banner: "https://www.missingmaps.org/img/images/missingmaps-blog_20211130_banner.jpg"
 date: 2021-11-30
 author: Jana Bauerová
 excerpt: Between summer and mid-Fall, several countries have experienced life almost as we knew it before the pandemic, including live events taking place again with the previous restrictions lifted. A few of us have taken the opportunity to switch from online to in-person mapathons.
@@ -18,7 +18,7 @@ Between summer and mid-Fall, several countries have experienced life almost as w
 
 ## Sebastian Blum, Germany
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Sebastian.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Sebastian.jpg">
 <p class="caption"> Sebastian (left) helps mapathon participant</p>
 </figure>
 
@@ -42,7 +42,7 @@ of experiencing another mapathon in-person soon.
 
 ## Jana Bauerova, Czech Republic
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Jana.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Jana.jpg">
 </figure>
 
 **Who are you?**
@@ -53,7 +53,7 @@ The members of the core team of the Missing Maps Czech community, who have kept 
 mapathons going over a year online, were visibly glad to meet face-to-face in August. New mappers equally enjoyed it. Some of the trainers did not hesitate to undertake a few-hour train ride from cities of Brno and Olomouc! It was the first time we saw each other in person, because before the pandemic, we used to hold mapathons in our towns. Then we started doing jointly online mapathons about once a month and saw each other only in small rectangles on zoom. When we met at last, we hugged each other like old friends. Besides, the mappers seemed to assimilate the new skills more quickly and fully in person; the quality of mapping was very good. Finally, it is part of the Czech culture and had been a habit to continue discussing over a beer. We did continue to socialize once or twice after an online event but doing it in person is much more enjoyable and relaxing, since we have had a lot of screen time lately.
 
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Prague2.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Prague2.jpg">
 </figure>
 
 **What concerns did you face when planning the mapathon?**
@@ -83,7 +83,7 @@ Since the beginning of the pandemic, CartONG has adapted by offering online sess
 compared to the online format.
 
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_CartONG2.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Cartong2.jpeg">
 </figure>
 
 **What were the advantages as compared to online mapathons you recently organized?**
