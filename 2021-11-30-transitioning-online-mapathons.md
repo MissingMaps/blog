@@ -7,7 +7,7 @@ banner: "https://www.missingmaps.org/img/images/missingmaps-blog_20211130_banner
 date: 2021-11-30
 author: Jana Bauerová
 excerpt: Between summer and mid-Fall, several countries have experienced life almost as we knew it before the pandemic, including live events taking place again with the previous restrictions lifted. A few of us have taken the opportunity to switch from online to in-person mapathons.
-published: false
+published: true
 tags: Mapathons
 permalink: /blog/:year/:month/:day/:title/
 lang: en
