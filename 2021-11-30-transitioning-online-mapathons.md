@@ -68,7 +68,7 @@ Double-check everything, when you go back to the physical events – the rooms r
 presenting, enabling chat, videos on/off etc.). Also, walk the talk when it comes to the pandemic situation, including airing the room, spacing out the seating, and sanitary measures – even if face masks are not required, acknowledging that you respect and welcome the individual decision to keep them on to protect others and themselves. The last point is not to go back to how it was before, but rather, build on how the mapathons have transformed in the last year and a half. In
 August, I received a few enquiries from the regulars not being able to come in person if they can join online. To keep it inclusive and enable them to contribute with what we could count on as quality mapping and validation, I invited them to join the Teams meeting, created originally for our expat guest speaker. It was a useful experience to do a ‘light hybrid’, before organizing a fully hybrid event as a zoom meeting in October.
 
-## Sorensa Aeschenbach in cooperation with Eliot Sotty, CartONG
+## Sorensa Eschbach, CartONG
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Sorensa.png">
