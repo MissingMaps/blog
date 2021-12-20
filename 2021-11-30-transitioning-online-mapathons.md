@@ -68,7 +68,7 @@ Double-check everything, when you go back to the physical events – the rooms r
 presenting, enabling chat, videos on/off etc.). Also, walk the talk when it comes to the pandemic situation, including airing the room, spacing out the seating, and sanitary measures – even if face masks are not required, acknowledging that you respect and welcome the individual decision to keep them on to protect others and themselves. The last point is not to go back to how it was before, but rather, build on how the mapathons have transformed in the last year and a half. In
 August, I received a few enquiries from the regulars not being able to come in person if they can join online. To keep it inclusive and enable them to contribute with what we could count on as quality mapping and validation, I invited them to join the Teams meeting, created originally for our expat guest speaker. It was a useful experience to do a ‘light hybrid’, before organizing a fully hybrid event as a zoom meeting in October.
 
-## Sorensa Eschbach, CartONG
+## Sorensa Eschbach, France
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211130_Sorensa.png">
@@ -94,3 +94,23 @@ Even if some last-minute, unforeseen events, like train delays, or Internet conn
 **Advice for mapathon organizers in these uncertain times?**
 As I don't have much experience in this field, my advice is quite basic. Plan in advance the necessary material (mouse, flyers, goodies, charger...). Also plan enough time to get to the venue if it is far from where you work. It is important to have a good communication with the partner(s) who co-organize the mapathon (location, time, number of participants, phone numbers in case of emergency). Do not forget the presentation you want to give at the time of the mapathon, and the
 knowledge of the area to be mapped, in case the participants have questions. Finally, this is not always the easiest thing to do, but try to put the different participants at ease by explaining the course of the evening. Don't forget to send them a summary email with the essential information a few days before.
+
+## Eliot Sotty, Germany
+<figure>
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20211120_Eso.jpg">
+</figure>
+
+**Who are you?**
+I am a Missing Maps’ Project Assistant for CartONG, an NGO specialized in information management, cartography and mobile data collection for the humanitarian and development sector. I joined CartONG and the OSM team 4 months ago. I’m in charge of the facilitation of mapathons and I work on Missing Maps communication with other Missing Maps members.
+
+**How was it to go back to an in-person event?**
+In September, we started a Tour of France of mapathons to meet our volunteers in person and not just through a screen. The goal is to organize a public mapathon every month in a different city. We did two in-person mapathons so far. While I hosted online mapathons since July, I’ve never done in-person mapathons. It was a first time and a real pleasure to be able to see and discuss with people properly. Looking for partners in the city, volunteers and places to host the mapathon was way more exciting than opening a laptop and sharing screens!
+
+**What concerns did you face when planning the mapathon?**
+We faced two main concerns when we started the Tour of France of mapathons. The first one was to remobilize our local networks all around France. We need a logistical support to find a place, communicate, set up and tidy the room for the mapathon, buying groceries, etc. After one year of online mapathons, we weren’t sure our former volunteers would still be involved. Finally, volunteers were present to help us to organize this Tour and it was a success in the two first cities where we did those mapathons. The second main concern was obviously the health pass and the sanitary conditions in France. There were few questions about the responsibilities of asking the health pass, if it was compulsory or not regarding the current legislation, all the concerns about the data protection of attendees, etc. Finally, asking the health pass wasn’t a big issue. People were understanding and spontaneously put their mask on and used sanitizer. 
+
+**What were the advantages you perceived as compared to online mapathons you recently organized?**
+Being able to see attendees in person made the socialization way easier. You can see their reactions; if there are fascinated or bored; if they need help but are not comfortable asking; you can guess their smile under the face mask. All those things are more obvious in face-to-face than through a screen. The interaction is also more lively. People can interrupt you more easily to ask questions. Debates can come out in-person while it’s usually less understandable online. Usually, we bring drinks and food to have a little time of discussion and sharing after the mapathon. We can learn more about attendees and talk about other topics. In the last mapathon, a colleague did a remote interview from Tajikistan to present the project of the mapathon. We faced issues to set up this interview. She couldn’t see the room and all the attendees and the sound was correct but not great. It was a nice interview, when we went back to the explanations for attendees it seemed easier and more natural though. 
+
+**Advice for mapathon organizers in these uncertain times?**
+I think keeping a time after the mapathon to discuss is a good idea. It’s an opportunity to make contact, friends and to bring people more regularly to mapathons. It’s also not just to talk about mapathons and cartography but to meet new people. Obviously, you need to clean and tidy the room after. We usually ask for the help of one of our long-term volunteers who is glad to help us. Coming early is also important to be sure everything is working well, to set up the room, to have the time to get ready, etc. Mapathons are a nice activity and people see it like that. In my experience, attendees are always lovely and no one will be upset if something goes wrong.
