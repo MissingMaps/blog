@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Changes to MapSwipe for a Changing World"
-postID: 2022-02-04-MapSwipe-Changes
+postID: 2022-01-25-changes-to-mapswipe
 category: blog
-banner: "https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191001_mapswipe-grid.png"
-date: 2022-02-04
+banner: "https://www.missingmaps.org/img/images/missingmaps-blog_20220125_mapswipe-grid.png"
+date: 2022-01-25
 author: Dan Joseph
 excerpt: American Red Cross is excited to support a new MapSwipe mission type available in the v2.1.8 release.
 published: true
@@ -12,6 +12,8 @@ tags: MapSwipe
 permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
+
+_**This was originally posted on on the [American Red Cross International Services Department](https://www.redcross.org/about-us/our-work/international-services.html) Data and Tech Team [blog](https://americanredcross.github.io/2022/01/25/changes-to-mapswipe-for-a-changing-world/).**_
 
 *American Red Cross is excited to support a new MapSwipe mission type available in the v2.1.8 release.*
 
@@ -30,7 +32,7 @@ As humanitarians expand the ways they use geospatial data to inform their action
 American Red Cross supported the MapSwipe team, through [HeiGIT](https://heigit.org/), to launch a footprint review mission type in January 2022. The new mission type is part of a quality assurance process. It enables users to review the accuracy of individual features previously traced into OSM using the most-recent available satellite imagery.
 
 <figure>
-<img src="https://americanredcross.github.io/img/posts/20220125_mapswipe-mission-types.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20220125_mapswipe-mission-types.png">
 <p class="caption"> The original build area mission type (left) and the new footprint review mission (right). </p>
 </figure>
 
