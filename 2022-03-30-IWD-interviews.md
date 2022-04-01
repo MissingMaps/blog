@@ -19,7 +19,7 @@ lang: en
 
 Missing Maps is sustained by a wonderful community of volunteer mappers. These mappers have unique and powerful stories to share about how and why they map that inspire others to follow suit. To celebrate International Women's Day, 2022, we interviewed three amazing women to highlight their accomplishments in Missing Maps and OpenStreetMap.
 
-## Jana Trtíková, Czechia, Czech Republic
+## Jana Trtíková, Olomouc, Czech Republic
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20220331_Jana.jpg">
