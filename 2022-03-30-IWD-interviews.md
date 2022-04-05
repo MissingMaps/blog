@@ -65,7 +65,7 @@ More important than the data that now exists, however, has been the commitment o
 
 On a less heartfelt note, regular mapping reminds me of how deeply weird spatial data can be and how quickly it can go 'stale'. It also reinforces my undying suspicion of hardware. These are good regular reminders for any researcher!
 
-##Jess Cahill, London, UK
+## Jess Cahill, London, UK
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20220331_Jess.jpg">
