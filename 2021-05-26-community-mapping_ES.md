@@ -6,9 +6,9 @@ category: blog
 banner: "https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20210526_Banner.png"
 date: 2021-05-26
 author: Melanie Chabot, Rachel Levine & Jorieke Vyncke
-excerpt: We have collected the stories of several enthusiastic OSM-ers who have mastered the art of mapping their own backyards. They have offered their advice for those who are first starting out and shared the reasons why they have become so passionate about local mapping.
+excerpt: Hemos recopilado las historias de varios OSM-ers entusiastas que han dominado el arte de mapear sus propios patios traseros. Han compartido sus consejos para aquellos que están empezando y las razones por las que se han vuelto tan apasionados por la cartografía local.
 published: true
-tags: Community Mapping, Volunteers
+tags: Mapeo Comunitario, Voluntarios
 permalink: /blog/:year/:month/:day/:title/
 lang: es
 ---
