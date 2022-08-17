@@ -1,23 +1,23 @@
-GitHub Version: ---
+---
 layout: post
 title: MapSwipe change detection analysis in response to Cyclone Batsirai Madagascar 2022
-postID: missing-maps
+postID: change-detection-cyclone-batsirai
 category: blog
 banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220815_MapSwipe-banner.png
 date: 2022-08-15
 author: Laurie Boobier
-excerpt: To respond to this cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new innovative MapSwipe method developed by the Heidelberg University. 
+excerpt: "To respond to this cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new innovative MapSwipe method developed by the Heidelberg University." 
 published: true
-tags: MapSwipe, partners
+tags: [MapSwipe, partners]
 permalink: /blog/:year/:month/:day/:title/
 lang: en
+---
 
-
-# MapSwipe change detection analysis in response to Cyclone Batsirai Madagascar 2022 
+## MapSwipe change detection analysis in response to Cyclone Batsirai Madagascar 2022 
 
 To respond to this cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new innovative MapSwipe method developed by the Heidelberg University. 
 
-#### Introduction  
+### Introduction  
 
 Between 5 and 22 February 2022, tropical cyclones Batsirai and Emnati hit Madagascar’s east coast, destroying, and flooding numerous medical and non-medical sites. It is estimated more than 300,000 people have been affected.  
 
@@ -33,7 +33,7 @@ One major challenge for MSF to respond to this emergency was to identify specifi
 </figure>
 
 
-#### MapSwipe 
+### MapSwipe 
 
  
 MapSwipe is an open-source mobile app to make mapping around the world more coordinated and efficient. It was created by the Heidelberg Institute of Geoinformation Technology (HeiGIT). In the original MapSwipe ‘build area’ mission type, users swipe through satellite images and tap an imagery tile once when they’ve located particular features such as buildings. 
@@ -41,7 +41,7 @@ MapSwipe is an open-source mobile app to make mapping around the world more coor
 In the spring 2021, MSF created six projects of this type to identify where buildings were in rural areas to help plan its activities in southern Madagascar. With the results, MSF set up HOT Tasking Manager projects and with Missing Maps volunteers mapped buildings and residential areas throughout the following months. 
 
 
-#### MapSwipe New Project Type (Change Detection)  
+### MapSwipe New Project Type (Change Detection)  
 
 
 A new project type allows detection of flooding and building damage to be identified remotely. 
@@ -49,7 +49,7 @@ A new project type allows detection of flooding and building damage to be identi
 This new function allows users to compare two satellite images (for this context one image before the cyclone and one after the cyclone) and indicate areas of change. For the context of this emergency users were asked if flooding and building damage could be seen. 
 
 
-#### How this new Project type was used in Madagascar 
+### How this new Project type was used in Madagascar 
 
 
 This new function allows users to compare two satellite images and indicate areas of change. For this context, one image before the cyclone and one after the cyclone were used and users were asked if flooding and building damage could be seen.   
