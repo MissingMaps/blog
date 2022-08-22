@@ -18,7 +18,7 @@ lang: en
 To respond to this cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new innovative MapSwipe method developed by the Heidelberg University. 
 
 <figure>
-<img src=https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220815_MapSwipe-banner.png>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220815_MapSwipe-banner.png">
 <p class="caption"></p>
 </figure>
 
