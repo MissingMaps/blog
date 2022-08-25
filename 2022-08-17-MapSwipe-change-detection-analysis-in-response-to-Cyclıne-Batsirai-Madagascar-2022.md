@@ -28,7 +28,7 @@ Between 5 and 22 February 2022, tropical cyclones Batsirai and Emnati hit Madaga
 
 Madagascar has faced numerous extreme weather events in recent years. Southern Madagascar before the cyclone was still recovering from the effect of an exceptionally severe drought, which caused alarming levels of malnutrition.  
 
-In response to the cyclones, MSF teams began providing healthcare to areas most affected however their challenges on the ground in identifying areas which have been affected by the cyclone through flooding and building damage.  
+In response to the cyclones, MSF teams began providing healthcare to areas most affected however their challenge on the ground was to identify areas which have been affected by the cyclone through flooding and building damage.  
 
 One major challenge for MSF to respond to this emergency was to identify specific areas which have been flooded or damaged. 
 
@@ -51,13 +51,11 @@ In the spring 2021, MSF created six projects of this type to identify where buil
 
 A new project type allows detection of flooding and building damage to be identified remotely. 
 
-This new function allows users to compare two satellite images (for this context one image before the cyclone and one after the cyclone) and indicate areas of change. For the context of this emergency users were asked if flooding and building damage could be seen. 
+This new function allows users to compare two satellite images and indicate areas of change. For this context, one image before the cyclone and one after the cyclone were used and users were asked if flooding and building damage could be seen. 
 
 
 #### How this new Project type was used in Madagascar 
-
-
-This new function allows users to compare two satellite images and indicate areas of change. For this context, one image before the cyclone and one after the cyclone were used and users were asked if flooding and building damage could be seen.   
+  
 
 This new project type was used in two areas - Mananjary and Mahanoro, East Madagascar which were heavily affected by the cyclone. The users compared two satellite images, one before the cyclone and one after the cyclone. 
 
