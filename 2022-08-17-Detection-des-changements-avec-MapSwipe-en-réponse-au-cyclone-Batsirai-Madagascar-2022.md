@@ -4,7 +4,7 @@ title: Détection des changements avec MapSwipe en réponse au cyclone Batsirai,
 postID: change-detection-cyclone-batsirai
 category: blog
 banner: "https://raw.githubusercontent.com/MissingMaps/img/4b6092e5034ec52e85e0f75522d28dda1b702754/images/missingmaps-blog_20220815_MapSwipe-banner2.jpg"
-date: 2022-08-15
+date: 2022-08-17
 author: Laurie Boobier
 excerpt: "Pour répondre à cette urgence cyclonique à Madagascar, Médecins Sans Frontières (MSF) a utilisé une nouvelle méthode innovante de MapSwipe, développée par l'Université de Heidelberg." 
 published: true
