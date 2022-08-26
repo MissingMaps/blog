@@ -24,13 +24,12 @@ To respond to this cyclone emergency in Madagascar, Médecins Sans Frontières (
 
 #### Introduction  
 
-Between 5 and 22 February 2022, tropical cyclones Batsirai and Emnati hit Madagascar’s east coast, destroying, and flooding numerous medical and non-medical sites. It is estimated more than 300,000 people have been affected.  
+Between the 5th and 22nd of February 2022, tropical cyclones Batsirai and Emnati hit Madagascar’s east coast, destroying, and flooding numerous medical and non-medical sites such as hospitals, schools and residential houses. It is estimated more than 300,000 people have been affected.  
 
 Madagascar has faced numerous extreme weather events in recent years. Southern Madagascar before the cyclone was still recovering from the effect of an exceptionally severe drought, which caused alarming levels of malnutrition.  
 
-In response to the cyclones, MSF teams began providing healthcare to areas most affected however their challenge on the ground was to identify areas which have been affected by the cyclone through flooding and building damage.  
+In response to the cyclones, MSF teams began providing healthcare to areas most affected. Their challenge on the ground was to identify the specific areas which have been flooded or damaged by the cyclone and a tool with the ability to assist MSF in this challenge was MapSwipe's new change detection project type. 
 
-One major challenge for MSF to respond to this emergency was to identify specific areas which have been flooded or damaged. 
 
 <figure>
 <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220815_MapSwipe%20(2).jpg">
@@ -46,22 +45,22 @@ MapSwipe is an open-source mobile app to make mapping around the world more coor
 In the spring 2021, MSF created six projects of this type to identify where buildings were in rural areas to help plan its activities in southern Madagascar. With the results, MSF set up HOT Tasking Manager projects and with Missing Maps volunteers mapped buildings and residential areas throughout the following months. 
 
 
-#### MapSwipe New Project Type (Change Detection)  
+#### MapSwipe new project type: Change Detection
 
 
-A new project type allows detection of flooding and building damage to be identified remotely. 
+The new project type allows detection of flooding and building damage to be identified remotely. 
 
 This new function allows users to compare two satellite images and indicate areas of change. For this context, one image before the cyclone and one after the cyclone were used and users were asked if flooding and building damage could be seen. 
 
 
-#### How this new Project type was used in Madagascar 
+#### How this new project type was used in Madagascar 
   
 
-This new project type was used in two areas - Mananjary and Mahanoro, East Madagascar which were heavily affected by the cyclone. The users compared two satellite images, one before the cyclone and one after the cyclone. 
+This new project type was used in two areas - Mananjary and Mahanoro, East Madagascar, which had been heavily affected by the cyclone. The users compared two satellite images, one before the cyclone and one after the cyclone. 
 
-Once the projects were created each task only took a couple of days to be completed which allowed a quick response to the cyclone. Once individual tasks were completed geo analysis was performed on the MapSwipe data to individual buildings and places of interest which have been affected by either flooding or damage. 
+Once the projects were created, each task only took a couple of days to be completed, which allowed a quick response to the cyclone. Once individual tasks were completed, geo analysis was performed on the MapSwipe data to individual buildings and places of interest, which have been affected by either flooding or damage. 
 
-These maps were sent to the Head of Mission of these projects to then be used to plan humanitarian assistance to the affected areas. 
+The MSF Missing Maps team sent these maps to the Head of Mission of the projects in Madagascar, where the field team then used them to plan humanitarian assistance to the affected areas. 
 
 
 <figure>
