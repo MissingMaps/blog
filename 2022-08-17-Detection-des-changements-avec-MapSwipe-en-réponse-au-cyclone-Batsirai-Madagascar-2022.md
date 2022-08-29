@@ -26,12 +26,11 @@ Pour répondre à cette urgence cyclonique à Madagascar, Médecins Sans Fronti�
 
 #### Introduction  
 
-Entre le 5 et le 22 février 2022, les cyclones tropicaux Batsirai et Emnati ont frappé la côte est de Madagascar, détruisant et inondant de nombreux sites médicaux et non médicaux. On estime que plus de 300 000 personnes ont été touchées.  
+Entre le 5 et le 22 février 2022, les cyclones tropicaux Batsirai et Emnati ont frappé la côte est de Madagascar, détruisant et inondant de nombreux sites médicaux et non médicaux tels que des hôpitaux, des écoles et des maisons. On estime que plus de 300 000 personnes ont été touchées.  
 
 Ces dernières années, Madagascar a été confronté à de nombreux événements climatiques extrêmes. Avant même le cyclone, le sud de Madagascar ne s'était pas encore entièrement rétabli  des effets d'une sécheresse exceptionnellement grave, qui a provoqué des niveaux alarmants de malnutrition.  
 
-En réponse aux cyclones, les équipes de MSF ont commencé à fournir des soins de santé aux zones les plus touchées, mais leurs défis sur le terrain fut d’identifier les zones affectées par le cyclone en raison des inondations et des dommages aux bâtiments.
-Un défi majeur pour MSF pour répondre à cette urgence était d'identifier les zones spécifiques qui ont été inondées ou endommagées.
+En réponse aux cyclones, les équipes de MSF ont commencé à fournir des soins de santé aux zones les plus touchées. Leur défi sur le terrain était d'identifier les zones spécifiques qui ont été inondées ou endommagées par le cyclone. Un outil capable d'aider MSF dans ce défi était le nouveau type de projet de détection de changement de MapSwipe.
 
 
 <figure>
@@ -48,10 +47,10 @@ MapSwipe est une application mobile open source visant à faciliter la coordinat
 Au printemps 2021, MSF a créé six projets de ce type pour identifier où se trouvaient les bâtiments dans les zones rurales afin d'aider à planifier ses activités dans le sud de Madagascar. Grâce aux résultats obtenus, MSF a mis en place des projets HOT Tasking Manager et, avec l’aide des bénévoles de Missing Maps, a cartographié des bâtiments et des zones résidentielles au cours des mois suivants. 
 
 
-#### MapSwipe Nouveau type de projet (détection des changements)  
+#### Nouveau type de projet MapSwipe (Détection des Changements)  
 
 
-Un nouveau type de projet permet de détecter à distance les inondations et les dommages aux bâtiments. 
+Le nouveau type de projet permet de détecter à distance les inondations et les dommages aux bâtiments. 
 
 Cette nouvelle fonction permet aux utilisateurs de comparer deux images satellites et d'indiquer les zones de changement. Dans ce contexte, une image avant le cyclone et une image après le cyclone ont été utilisées et il a été demandé aux utilisateurs si les inondations et les dommages aux bâtiments étaient visibles. 
 
@@ -63,7 +62,7 @@ Ce nouveau type de projet a été utilisé dans deux zones - Mananjary et Mahano
 
 Une fois les projets créés, chaque tâche n'a pris que quelques jours, ce qui a permis de réagir rapidement au cyclone. Une fois les tâches individuelles terminées, une analyse géographique a été effectuée sur les données MapSwipe pour identifier les bâtiments et les lieux d'intérêt qui ont été touchés par les inondations ou les dommages. 
 
-Ces cartes ont été envoyées au chef de mission de ces projets afin d'être utilisées pour planifier l'aide humanitaire dans les zones touchées. 
+L'équipe Missing Maps de MSF a envoyé ces cartes au Chef de mission des projets à Madagascar, où l'équipe de terrain les a ensuite utilisées pour planifier l'aide humanitaire dans les zones touchées.
 
 
 <figure>
