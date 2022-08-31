@@ -15,7 +15,7 @@ lang: en
 
 ## MapSwipe change detection analysis in response to Cyclone Batsirai Madagascar 2022 
 
-To respond to this cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new innovative MapSwipe method developed by the Heidelberg University. 
+To respond to the cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new MapSwipe method developed by the Heidelberg University and Laurent Savaete, a long-time MapSwipe software engineer. This innovative function saw the light thanks to the funding support of the Humanitarian OpenStreetMap Team and the assistance of amazing volunteers with translations.
 
 <figure>
 <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220815_MapSwipe-banner.png">
@@ -40,7 +40,7 @@ In response to the cyclones, MSF teams began providing healthcare to areas most 
 #### MapSwipe 
 
  
-MapSwipe is an open-source mobile app to make mapping around the world more coordinated and efficient. It was created by the Heidelberg Institute of Geoinformation Technology (HeiGIT). In the original MapSwipe ‘build area’ mission type, users swipe through satellite images and tap an imagery tile once when they’ve located particular features such as buildings. 
+MapSwipe is an open-source mobile app to make mapping around the world more coordinated and efficient. MSF, British Red Cross, Humanitarian OpenStreetMap Team, American Red Cross, and the Heidelberg Institute of Geoinformation Technology (HeiGIT) have contributed to its creation, development, and maintenance. In the original MapSwipe ‘build area’ mission type, users swipe through satellite images and tap an imagery tile once when they’ve located particular features such as buildings. 
 
 In the spring 2021, MSF created six projects of this type to identify where buildings were in rural areas to help plan its activities in southern Madagascar. With the results, MSF set up HOT Tasking Manager projects and with Missing Maps volunteers mapped buildings and residential areas throughout the following months. 
 
