@@ -15,7 +15,7 @@ lang: en
 
 ## MapSwipe change detection analysis in response to Cyclone Batsirai Madagascar 2022 
 
-To respond to the cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new MapSwipe method developed by the Heidelberg University and Laurent Savaete, a long-time MapSwipe software engineer. This innovative function saw the light thanks to the funding support of the Humanitarian OpenStreetMap Team and the assistance of amazing volunteers with translations.
+To respond to the cyclone emergency in Madagascar, Médecins Sans Frontières (MSF) used a new MapSwipe method developed by the Heidelberg Institute of Geoinformation Technology (HeiGIT) and Laurent Savaete, a long-time MapSwipe software engineer. This innovative function saw the light thanks to the funding support of the Humanitarian OpenStreetMap Team and the assistance of amazing volunteers with translations.
 
 <figure>
 <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220815_MapSwipe-banner.png">
