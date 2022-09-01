@@ -42,7 +42,7 @@ En réponse aux cyclones, les équipes de MSF ont commencé à fournir des soins
 #### MapSwipe 
 
  
-MapSwipe est une application mobile open source visant à faciliter la coordination et l'efficacité des projets de cartographie mondiale. Originellement, l’application n'inclut qu’un type de mission « Build area » dans laquelle les utilisateurs passent en revue plusieurs images satellites et indiquent les tuiles d'imagerie ou il y a  des éléments particuliers à cartographier, tels que des bâtiments. 
+MapSwipe est une application mobile open source visant à faciliter la coordination et l'efficacité des projets de cartographie mondiale. MSF, la Croix-Rouge Britannique, Humanitarian OpenStreetMap Team, la Croix-Rouge Américaine et l'Institut de Technologie de la Géo-Information de Heidelberg (HeiGIT) ont contribué à sa création, à son développement et à sa maintenance.Originellement, l’application n'inclut qu’un type de mission « Build area » dans laquelle les utilisateurs passent en revue plusieurs images satellites et indiquent les tuiles d'imagerie ou il y a  des éléments particuliers à cartographier, tels que des bâtiments. 
 
 Au printemps 2021, MSF a créé six projets de ce type pour identifier où se trouvaient les bâtiments dans les zones rurales afin d'aider à planifier ses activités dans le sud de Madagascar. Grâce aux résultats obtenus, MSF a mis en place des projets HOT Tasking Manager et, avec l’aide des bénévoles de Missing Maps, a cartographié des bâtiments et des zones résidentielles au cours des mois suivants. 
 
