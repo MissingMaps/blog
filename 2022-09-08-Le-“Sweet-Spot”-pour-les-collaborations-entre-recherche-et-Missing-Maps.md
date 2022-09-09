@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le “Sweet Spot” pour les collaborations entre recherche et Missing Maps
+title: "Le \"Sweet Spot\" pour les collaborations entre recherche et Missing Maps"
 postID: university-collaborations
 category: blog
 banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_Pete%20Masters.jpg
