@@ -14,8 +14,6 @@ lang: en
 
 
 
-
-
 ## The “sweet spot” for research and Missing Maps collaborations
 
 In the past years several examples highlighted how universities and research institutions can complement Missing Maps’ work. Here we want to share some lessons learned and dig into the things that can be done beyond organizing mapathons.
@@ -41,12 +39,8 @@ When offering a course you can consider inviting someone from a humanitarian org
 
 
 <figure>
-<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_Pete%20Masters.jpg">
-<p class="caption">Pete Masters at Heidelberg University </p>
-</figure>
-<figure>
-<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_IvanGayton.jpg">
-<p class="caption">Ivan Gayton presenting at Heidelberg University </p>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_IvanGayton.jpg "> <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_Pete%20Masters.jpg">
+<p class="caption">Ivan Gayton & Pete Masters <a href="https://disastermappers.wordpress.com/2015/06/">presenting </a> at Heidelberg University </p>
 </figure>
 
 
@@ -68,8 +62,8 @@ Presenting your work at the State of the Map conference or another event is a go
 
 
 <figure>
-<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_OSMCommunityEvolution.jpg">
-<p class="caption">Figure from paper - The evolution of humanitarian mapping within the OpenStreetMap community </p>
+ <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_OSMCommunityEvolution.jpg">
+<p class="caption">Figure from paper - <a href="https://www.nature.com/articles/s41598-021-82404-z">The evolution of humanitarian mapping within the OpenStreetMap community </a> </p>
 </figure>
 
 If you are stressed by the notion of preparing a twenty minute presentation, consider something more lightweight such as a Q&A session, poster or pitch at a birds-of-a-feather session. For the SotM 2019 YouthMappers created a [poster](https://wiki.openstreetmap.org/w/images/0/0f/Workforce_development_and_Youthmappers-_Understanding_perceptions_of_students_in_humanitarian_mapping.pdf) which shows how the motivation and performance of new mappers is impacted by contextual information provided about the purpose of a humanitarian mapping task.  
@@ -99,13 +93,16 @@ It is important that you set clear expectations, be demanding. Tell the research
 
 For example, Anna Lee-Steele sharing her research at a HOT Summit event: [Crisis Maps, Community, and Corporations (an Anthropologist’s perspective)](https://www.youtube.com/watch?v=_0a84F0pdNU)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_0a84F0pdNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### Further Resources
 
 We want to close this blog post with a short list of resources we hope will be useful for you:
 - YouthMappers: 
 	- [Resource Library](https://sites.google.com/view/youthmapperswiki/home?authuser=0) (including Classroom Resources)
-	-[YouthMappers Validation Hub](https://www.youthmappers.org/validation-hub) - a group of student mappers at The George Washington University implemented and organized by Faculty and Students
-	-[YouthMappers Research Fellows Panel Discussion: The Use and Applications of OSM Data in Academic Research](https://youtu.be/4INGVPpmUZY)
+	- [YouthMappers Validation Hub](https://www.youthmappers.org/validation-hub) - a group of student mappers at The George Washington University implemented and organized by Faculty and Students
+	- [YouthMappers Research Fellows Panel Discussion: The Use and Applications of OSM Data in Academic Research](https://youtu.be/4INGVPpmUZY)
 - HeiGIT & German Red Cross: 
 	- [GIS In Anticipatory Humanitarian Action](https://gitlab.gistools.geog.uni-heidelberg.de/giscience/disaster-tools/gis-in-anticipatory-humanitarian-action)
 -OpenStreetMap:

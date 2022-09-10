@@ -39,15 +39,9 @@ L'Université de Heidelberg organise un cours en étroite collaboration avec la 
 
 Lorsque vous proposez un cours, vous pouvez envisager d'inviter une personne d'une organisation humanitaire pour faire une courte présentation (exemple [virtuel](http://k1z.blog.uni-heidelberg.de/2018/06/14/wikimedia-and-msf-talks-disaster-20-seminar-latest-theory-and-practice-in-disaster-management/)) sur leur travail et les défis auxquels l’organisation est confrontée. Il peut s'agir d'une présentation de base, qui peut être aussi courte que cinq minutes, suivie d'une séance de discussion de quinze minutes. En invitant de tels experts au cours, vos étudiants apprendront des exemples concrets et cela pourrait les inspirer pour leurs thèses de licence ou de master.
 
-
-
 <figure>
-<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_Pete%20Masters.jpg">
-<p class="caption">Pete Masters lors d’une présentation à l’Université Heidelberg. </p>
-</figure>
-<figure>
-<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_IvanGayton.jpg">
-<p class="caption">Ivan Gayton lors d’une présentation à l’Université Heidelberg.</p>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_IvanGayton.jpg "> <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_Pete%20Masters.jpg">
+<p class="caption">Ivan Gayton & Pete Masters <a href="https://disastermappers.wordpress.com/2015/06/">lors d’une présentation</a>  à l’Université Heidelberg.</p>
 </figure>
 
 
@@ -69,11 +63,11 @@ Pour faciliter cela, vous devriez envisager de mettre de l’énergie supplémen
 Présenter votre travail à la conférence State of the Map ou à un autre événement est un bon moyen de partager votre travail avec un public plus large. [Voici un enregistrement](https://www.youtube.com/watch?v=ZUs5e0jFJEo) d'une conférence à SotM 2020 qui a étudié l'évolution de la cartographie humanitaire au sein de la communauté OSM.
 
 
-
 <figure>
-<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_OSMCommunityEvolutionFR.jpg">
-<p class="caption">Figure tirée de la recherche - L'évolution de la cartographie humanitaire au sein de la communauté OpenStreetMap </p>
+ <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_OSMCommunityEvolutionFR.jpg">
+<p class="caption">Figure tirée de la recherche - <a href="https://www.nature.com/articles/s41598-021-82404-z">L'évolution de la cartographie humanitaire au sein de la communauté OpenStreetMap  </a> </p>
 </figure>
+
 
 Si vous êtes stressé par l'idée de préparer une présentation de vingt minutes, envisagez quelque chose de plus léger; comme une séance de questions-réponses, une affiche ou un pitch lors d'une séance birds-of-a-feather. Pour la SotM 2019, YouthMappers ont créé une [affiche](https://wiki.openstreetmap.org/w/images/0/0f/Workforce_development_and_Youthmappers-_Understanding_perceptions_of_students_in_humanitarian_mapping.pdf) qui montre comment la motivation et la performance des nouveaux mapper sont affectées par les informations contextuelles fournies sur le but d'une tâche de cartographie humanitaire.
 
@@ -102,12 +96,14 @@ Il est important que vous définissiez des attentes claires, soyez exigeant. Dit
 
 Par exemple, Anna Lee-Steele partage sa recherche lors d’un événement au Sommet HOT: [Crisis Maps, Community, and Corporations (an Anthropologist’s perspective)](https://www.youtube.com/watch?v=_0a84F0pdNU)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_0a84F0pdNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Autres Ressources
 Nous voulons clôturer cet article de blog avec une courte liste de ressources que nous espérons sera utile pour vous: 
 - YouthMappers: 
 	- [Resource Library](https://sites.google.com/view/youthmapperswiki/home?authuser=0) (avec les ressources de classe)
-	-[YouthMappers Validation Hub](https://www.youthmappers.org/validation-hub) - Un groupe d’étudiants mapper au George Washington University. Implémenté et organisé par la faculté et les étudiants.
-	-[YouthMappers Research Fellows Panel Discussion: The Use and Applications of OSM Data in Academic Research](https://youtu.be/4INGVPpmUZY)
+	- [YouthMappers Validation Hub](https://www.youthmappers.org/validation-hub) - Un groupe d’étudiants mapper au George Washington University. Implémenté et organisé par la faculté et les étudiants.
+	- [YouthMappers Research Fellows Panel Discussion: The Use and Applications of OSM Data in Academic Research](https://youtu.be/4INGVPpmUZY)
 - HeiGIT & Croix-Rouge allemande: 
 	- [GIS In Anticipatory Humanitarian Action](https://gitlab.gistools.geog.uni-heidelberg.de/giscience/disaster-tools/gis-in-anticipatory-humanitarian-action)
 -OpenStreetMap:
