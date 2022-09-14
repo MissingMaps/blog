@@ -106,5 +106,5 @@ Nous voulons clôturer cet article de blog avec une courte liste de ressources q
 	- [YouthMappers Research Fellows Panel Discussion: The Use and Applications of OSM Data in Academic Research](https://youtu.be/4INGVPpmUZY)
 - HeiGIT & Croix-Rouge allemande: 
 	- [GIS In Anticipatory Humanitarian Action](https://gitlab.gistools.geog.uni-heidelberg.de/giscience/disaster-tools/gis-in-anticipatory-humanitarian-action)
--OpenStreetMap:
+- OpenStreetMap:
 	- [OSM Wiki Page on ‘Research’](https://wiki.openstreetmap.org/wiki/Research)
