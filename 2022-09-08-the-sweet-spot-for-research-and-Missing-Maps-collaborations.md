@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The \"sweet spot\" for research and Missing Maps collaborations"
+postID: university-collaborations 
 category: blog
 banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20220908_Pete%20Masters.jpg
 date: 2022-09-08
