@@ -3,10 +3,10 @@ layout: post
 title: Cartographier l’occupation du sol avec OSM Cameroun
 postID: cartographier-l-occupation-du-sol-avec-OSM-Cameroun
 category: blog
-Banner: "https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png"
+Banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png
 date: 2022-10-14
 author: Yves Emmanuel Nikoyo Emougou, Jorieke Vyncke, Lale Pirlot
-excerpt: "Afin d'améliorer la cartographie de l’occupation et l’usage du sol au Cameroun [...] OSM Cameroun s'est efforcé de collecter de meilleures données et d'enrichir la carte OSM qui montre les régularités d’occupation du sol à travers le pays." 
+excerpt: "Afin d'améliorer la cartographie de l’occupation et l’usage du sol au Cameroun, OSM Cameroun s'est efforcé de collecter de meilleures données et d'enrichir la carte OSM qui montre les régularités d’occupation du sol à travers le pays." 
 published: true
 tags: [OSM, partners]
 permalink: /blog/:year/:month/:day/:title/
@@ -43,7 +43,7 @@ Voici la méthode utilisée par OSM Cameroun avec des exemples: Tout d'abord, il
 
 <figure> 
 <img
-src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png"> <p class="caption">Bonnes pratiques de cartographie de l'usage du sol en présence de routes</p> 
+src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png"> <p class="caption">Bonnes pratiques de cartographie de l'usage du sol en présence de routes</p> 
 </figure>
 
 Une fois que la première occupation du sol est tracée, le dessin de la seconde peut suivre. Dans l'exemple de l'équipe d'OSM Cameroun, c'était une zone résidentielle. Il est important d'assurer que les nœuds des zones résidentielles soient connectés à l’occupation du sol  à côté de la zone agricole qui a été dessinée auparavant. Les premiers deux nœuds entre les occupations du sol différentes doivent être joints, puis en appuyant sur F, la ligne existante de la zone résidentielle doit être suivie. L'utilisation du [style de peinture/carte de MissingMaps/YouthMappers](https://github.com/MissingMaps/josm_styles/archive/master.zip) permet d’afficher des triangles d'avertissement quand ils sont interconnectés. Pour éviter ces triangles, il est important de créer des multipolygons en sélectionnant la couche et en appuyant sur CTRL + B.
@@ -57,6 +57,7 @@ Mais que se passe-t-il si une zone résidentielle se trouve à l'intérieur des 
 src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp2_lackofrelations.png"> <p class="caption">Illustration du manque de relation dans la cartographie de l'usage et de l'occupation du sol sur OSM</p> 
 </figure>
 
+<figure> 
 <img
 src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png"> <p class="caption">Utilisation d’une relation dans la cartographie de l'usage et de l'occupation du sol sur OSM</p> 
 </figure>
@@ -64,7 +65,7 @@ src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-b
  #### L'importance des connaissances locales
 Bien que les meilleures pratiques pour cartographier l'usage et l’occupation du sol partagent un terrain d'entente (sans jeu de mots), elles devraient être adaptées au paysage de la région. Trouver une compréhension commune des classes des divers paysages et écorégions peut constituer un défi en matière de cartographie et de classification de l'usage et l’occupation du sol. OSM, en tant que projet mondial, utilise des *tags* pour cartographier l'usage et l’occupation du sol dans le monde entier. Par conséquent, il est essentiel de spécifier comment ces *tags* doivent être utilisés pour la cartographie de l'usage  et l’occupation du sol dans une écorégion spécifique. Les types de forêts en Belgique et les types de forêts au Cameroun ne sont pas les mêmes. De plus, sur l'imagerie aérienne, il peut être difficile de comprendre la spécificité du terrain. Alors, comment devraient-ils être classés? De bonnes instructions avec des images et des connaissances locales sont essentielles pour comprendre quel type d’occupation du sol nous cartographions. L'importance des connaissances locales est primordiale pour collecter des données précises et les classer correctement.
 
-L'occupation et l’usage du sol est maintenant cartographiée avec une variété de *tags* dans OpenStreetMap car elles ont évolué au fil du temps. Cependant, un défi auquel l'équipe a été confrontée était l'absence de tags adaptées aux classes de l'écosystème camerounais sur OSM. En effet, toutes les classes d’occupation du sol  existantes en Afrique ne sont pas sur OSM. Le Cameroun est divisé en quatre régions géographiques: le nord, le centre, le sud et l'ouest. La plaine de savane qui occupe le centre du pays descend en altitude à l'approche du bassin du lac Tchad au nord de la rivière Bénoué. Bien qu'environ 20% de la surface terrestre soit recouverte de savane, elle reste absente en tant que classification sur OSM et pour s'adapter, elle est cartographiée comme [prairie](https://wiki.openstreetmap.org/wiki/FR:Tag:landuse%3Dmeadow) par l'équipe d'OSM Cameroun.
+L'occupation et l’usage du sol est maintenant cartographiée avec une variété de *tags* dans OpenStreetMap car elles ont évolué au fil du temps. Cependant, un défi auquel l'équipe a été confrontée était l'absence de *tags* adaptées aux classes de l'écosystème camerounais sur OSM. En effet, toutes les classes d’occupation du sol  existantes en Afrique ne sont pas sur OSM. Le Cameroun est divisé en quatre régions géographiques: le nord, le centre, le sud et l'ouest. La plaine de savane qui occupe le centre du pays descend en altitude à l'approche du bassin du lac Tchad au nord de la rivière Bénoué. Bien qu'environ 20% de la surface terrestre soit recouverte de savane, elle reste absente en tant que classification sur OSM et pour s'adapter, elle est cartographiée comme [prairie](https://wiki.openstreetmap.org/wiki/FR:Tag:landuse%3Dmeadow) par l'équipe d'OSM Cameroun.
 
 Le fait de ne pas avoir de connaissances locales peut entraver la collecte de données précises. À partir d'images aériennes, on pourrait commettre l'erreur de cartographier certains endroits comme des zones résidentielles alors qu'en réalité, ce sont en fait des bâtiments pour stocker des matériaux pour les activités agricoles. Un autre exemple concerne les champs agricoles. Les champs agricoles avec leurs cultures, pérennes ou annuelles, sont en constante évolution. D'une année à l'autre, les affectations des champs agricoles peuvent changer ou rester les mêmes pendant plus d'une décennie. De plus, il peut y avoir confusion avec les forêts. Une ferme d'huile de palme, de café ou de cacao peut ressembler à une forêt sur des images aériennes. Seules les connaissances locales peuvent élucider et prendre en considération l'organisation des objets que vous voyez. Les objets naturels tels que les forêts sont normalement désorganisés, mais dans certains cas, vous pouvez distinguer les champs agricoles des forêts sur la base d'images aériennes. Comme par exemple les palmeraies de la figure, qui sont mieux organisées et caractérisées par la présence de routes d'accès pour faciliter le transport des cultures.
 
@@ -91,7 +92,7 @@ OSM Cameroun s'engage à continuer d'améliorer sa cartographie de l’usage et 
 
 - [OpenStreetMap comme support à la production de 2673 coupures de cartes topographiques nationales à l'échelle du 1/25 000](https://www.linkedin.com/pulse/openstreetmap-comme-support-%C3%A0-la-production-de-2673-coupures-sob/), de [Willy Franck Sob](https://www.hotosm.org/people/willy-franck-sob/), 2021
 
-Vous pouvez aussi améliorer la cartographie de l’occupation du sol dans OSM et participer aux efforts de cartographie de l’occupation du sol pour les organisations humanitaires. La section « explorer les projets » du Tasking manager permet de filtrer les projets par types, et on peut toujours choisir l'option « occupation du sol » pour trouver des nouvelles tâches! 
+Vous pouvez aussi améliorer la cartographie de l’occupation du sol dans OSM et participer aux efforts de cartographie de l’occupation du sol pour les organisations humanitaires. La section [« explorer les projets » du Tasking Manager de HOT](https://tasks.hotosm.org/explore/filters?types=LAND_USE) permet de filtrer les projets par types, et on peut toujours choisir l'option « occupation du sol » pour trouver des nouvelles tâches! 
 
 #### Médecins Sans Frontières a mis en place un [projet de cartographie de l’usage du sol de Gummi, au Nigéria](https://tasks.hotosm.org/projects/13625/) si vous souhaitez contribuer!
 
