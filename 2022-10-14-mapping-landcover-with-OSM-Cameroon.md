@@ -3,7 +3,7 @@ layout: post
 title: Mapping landcover with OSM Cameroon 
 postID: mapping-landcover-with-OSM-Cameroon
 category: blog
-Banner: "https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png"
+Banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png
 date: 2022-10-14
 author: Yves Emmanuel Nikoyo Emougou, Jorieke Vyncke, Lale Pirlot 
 excerpt: "In order to improve Cameroon’s landcover and landuse mapping, OSM Cameroon strived to collect better data and enrich the OSM map that shows landcover patterns across the country." 
@@ -51,6 +51,8 @@ But what if a residential area is within farmland? “*Since it is not good prac
 src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp2_lackofrelations.png"> <p class="caption">Illustration of the lack of relations in landcover and landuse mapping on OSM</p> 
 </figure>
 
+
+<figure> 
 <img
 src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png"> <p class="caption">Using relations in landcover and landuse mapping on OSM</p> 
 </figure>
@@ -87,7 +89,7 @@ OSM Cameroon is committed to continue improving their landcover mapping in order
 
 - [OpenStreetMap as a support for the production of 2673 national topographic maps at the 1:25,000 scale](https://www.linkedin.com/pulse/openstreetmap-comme-support-%C3%A0-la-production-de-2673-coupures-sob/), from [Willy Franck Sob](https://www.hotosm.org/people/willy-franck-sob/), 2021. 
 
-To improve landcover and landuse mapping in OpenStreetMap you too can participate in landcover and landuse mapping efforts for humanitarian organisations. The HOT Tasking Manager’s explore page allows users to filter projects by types of mapped objects or key words, and one can always choose the ‘landuse’ option to find new tasks! 
+To improve landcover and landuse mapping in OpenStreetMap you too can participate in landcover and landuse mapping efforts for humanitarian organisations. The [HOT Tasking Manager’s explore page](https://tasks.hotosm.org/explore/filters?types=LAND_USE) allows users to filter projects by types of mapped objects or key words, and one can always choose the ‘landuse’ option to find new tasks! 
 
 #### Médecins Sans Frontières set up a task for the [landuse and landcover mapping of Gummi, Nigeria](https://tasks.hotosm.org/projects/13625/) if you’d like to contribute!
 
