@@ -3,7 +3,7 @@ layout: post
 title: Mapping landcover with OSM Cameroon 
 postID: mapping-landcover-with-OSM-Cameroon
 category: blog
-Banner: "https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog-20221012-banner.png"
+Banner: "https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png"
 date: 2022-10-14
 author: Yves Emmanuel Nikoyo Emougou, Jorieke Vyncke, Lale Pirlot 
 excerpt: "In order to improve Cameroon’s landcover and landuse mapping, OSM Cameroon strived to collect better data and enrich the OSM map that shows landcover patterns across the country." 
@@ -16,6 +16,13 @@ lang: en
 
 ### Introduction
 Cameroon is often called "*Africa in miniature*" because of the country’s diversity in landscapes and how the various geographic landscapes adorning the African continent can almost all be found in Cameroon. The country is such an interesting case for mapping landcover and who else is better to do so than its OSM Community?
+
+<figure> 
+<img
+src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_teampic2.png"> <p class="caption"></p> 
+</figure>
+
+
 The OpenStreetMap Cameroon team has been hard at work over the past years, improving the map of their country through data collection and the collaboration with local partners, notably the vocational training [Centre Eurêka Geo](http://eurekageo.space/), which supported the team with training on OSM digitization. Under [Christin Steve Nwagoum Keyamfe](https://www.openstreetmap.org/user/Steveeen)’s supervision, [Yves Emmanuel Nikoyo Emougou](https://www.openstreetmap.org/user/NIKOYO%20EMOUGOU%20Yves%20Emmanuel), [Victoire Tsajio](https://www.openstreetmap.org/user/victoire%20Tsajio), [Sylvie Galago](https://www.openstreetmap.org/user/Sylvie%20GALAGO), [Ismael Ebenezer Ongali Tsala](https://www.openstreetmap.org/user/ongalisma),  [Ian Jocelyn Kemme Kemme](https://www.openstreetmap.org/user/Le%20Mago), [Guy Berlin Boutchouang](https://www.openstreetmap.org/user/Guy%20Berlin%20Boutchouang)  carried out the mapping of landcover for the whole country of Cameroon. Within 6 months, from December 2019 to May 2020, their daily volunteer work yielded fruits. Here is a look back on how they did it, their methods and the challenges they overcame. 
 #### Editor and Imagery choices
 The mapping was done using the [JavaOpenstreetMap (JOSM) editor](https://josm.openstreetmap.de/) which is an OSM editor that has advanced features for digital mapping of topographic features (rivers, roads, buildings) and landcover, unlike other editors like ID Editor. Versions 15322 and 15238 were the most widely used versions of the editor, while the choice of imagery depended on the availability of the vendor. For instance, Maxar Premium, which was the selected imagery for the implementation of this project, was unavailable for a good period of the project’s duration. Thus, Mapbox satellite and Esri Mondial were the imageries used to overcome this problem of unavailability.
@@ -30,7 +37,7 @@ Here’s the method used by OSM Cameroon with examples: First, they chose the la
 
 <figure> 
 <img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog-20221012-cp1-presenceofroads.png"> <p class="caption">Good practice of landuse mapping in the presence of roads</p> 
+src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png"> <p class="caption">Good practice of landuse mapping in the presence of roads</p> 
 </figure>
 
 Once the first landcover or landuse is drawn, the drawing of the second one can follow. In the example of the OSM Cameroon team, this was a residential area. It is important to assure the connectivity of the residential area nodes to the neighbouring landuse of the farmland area, which was drawn previously. The first node between the two different landuses has to be joined, then pressing F, one follows the existing line of the residential area. The use of the [Missing Maps/Youthmappers Map Paint style](https://github.com/MissingMaps/josm_styles/archive/master.zip) can show warning triangles if they are connected with each other. To avoid these triangles, it is important to create multipolygons by selecting the two layers and pressing CTRL+B.
@@ -41,11 +48,11 @@ But what if a residential area is within farmland? “*Since it is not good prac
 
 <figure> 
 <img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog-20221012-cp2-lackofrelations.png"> <p class="caption">Illustration of the lack of relations in landcover and landuse mapping on OSM</p> 
+src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp2_lackofrelations.png"> <p class="caption">Illustration of the lack of relations in landcover and landuse mapping on OSM</p> 
 </figure>
 
 <img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog-20221012-cp3-usingrelations.png"> <p class="caption">Using relations in landcover and landuse mapping on OSM</p> 
+src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png"> <p class="caption">Using relations in landcover and landuse mapping on OSM</p> 
 </figure>
 
 #### The importance of local knowledge 
@@ -57,11 +64,13 @@ The challenges of not having local knowledge can hinder the collection of accura
 
 <figure> 
 <img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog-20221012-cp4-landcoverorganisation-eng.png"> <p class="caption">Illustration of the organisation of a forest and palm groves</p> 
+src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp4_landcoverorganisation_eng.png"> <p class="caption">Illustration of the organisation of a forest and palm groves</p> 
 </figure>
 
 ### What next?
 OSM Cameroon is committed to continue improving their landcover mapping in order to provide better information. Their effort doesn’t end here, as the team is now doing quality control. OSM could be utilised more extensively in operational applications and environmental research, such as monitoring landcover change in connection with vegetation and climate modelling. The achievements of [Christin Steve Nwagoum Keyamfe](https://www.openstreetmap.org/user/Steveeen), [Yves Emmanuel Nikoyo Emougou](https://www.openstreetmap.org/user/NIKOYO%20EMOUGOU%20Yves%20Emmanuel), [Victoire Tsajio](https://www.openstreetmap.org/user/victoire%20Tsajio), [Sylvie Galago](https://www.openstreetmap.org/user/Sylvie%20GALAGO), [Ismael Ebenezer Ongali Tsala](https://www.openstreetmap.org/user/ongalisma),  [Ian Jocelyn Kemme Kemme](https://www.openstreetmap.org/user/Le%20Mago), and [Guy Berlin Boutchouang](https://www.openstreetmap.org/user/Guy%20Berlin%20Boutchouang) are a great example of OSM communities’ capabilities and activities around the world, and more so how their contribution to open geospatial data can be used for various types of decision-making.
+
+
 #### Have a look at their social media accounts! 
 [Facebook](https://www.facebook.com/OpenStreetMap-Cameroun-799439470157013/)
 
@@ -76,9 +85,9 @@ OSM Cameroon is committed to continue improving their landcover mapping in order
 
 - [Advanced Mapping using JOSM](https://www.missingmaps.org/assets/downloads/JOSM_Advanced_Mapping_EN.pdf), MissingMaps’ guide to learn about the ins and outs of JOSM.
 
-- [OpenStreetMap as a support for the production of 2673 national topographic maps at the 1:25,000 scale](https://www.linkedin.com/pulse/openstreetmap-comme-support-%C3%A0-la-production-de-2673-coupures-sob/), [Willy Franck Sob](https://www.hotosm.org/people/willy-franck-sob/), 2021. 
+- [OpenStreetMap as a support for the production of 2673 national topographic maps at the 1:25,000 scale](https://www.linkedin.com/pulse/openstreetmap-comme-support-%C3%A0-la-production-de-2673-coupures-sob/), from [Willy Franck Sob](https://www.hotosm.org/people/willy-franck-sob/), 2021. 
 
 To improve landcover and landuse mapping in OpenStreetMap you too can participate in landcover and landuse mapping efforts for humanitarian organisations. The HOT Tasking Manager’s explore page allows users to filter projects by types of mapped objects or key words, and one can always choose the ‘landuse’ option to find new tasks! 
 
-### Médecins Sans Frontières set up a task for the [landuse and landcover mapping of Gummi, Nigeria](https://tasks.hotosm.org/projects/13625/) if you’d like to contribute!
+#### Médecins Sans Frontières set up a task for the [landuse and landcover mapping of Gummi, Nigeria](https://tasks.hotosm.org/projects/13625/) if you’d like to contribute!
 
