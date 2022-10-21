@@ -3,7 +3,7 @@ layout: post
 title: Mapping landcover with OSM Cameroon 
 postID: mapping-landcover-with-OSM-Cameroon
 category: blog
-Banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png
 date: 2022-10-14
 author: Yves Emmanuel Nikoyo Emougou, Jorieke Vyncke, Lale Pirlot 
 excerpt: "In order to improve Cameroon’s landcover and landuse mapping, OSM Cameroon strived to collect better data and enrich the OSM map that shows landcover patterns across the country." 
@@ -37,7 +37,7 @@ Here’s the method used by OSM Cameroon with examples: First, they chose the la
 
 <figure> 
 <img
-src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png"> <p class="caption">Good practice of landuse mapping in the presence of roads</p> 
+src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png"> <p class="caption">Good practice of landuse mapping in the presence of roads</p> 
 </figure>
 
 Once the first landcover or landuse is drawn, the drawing of the second one can follow. In the example of the OSM Cameroon team, this was a residential area. It is important to assure the connectivity of the residential area nodes to the neighbouring landuse of the farmland area, which was drawn previously. The first node between the two different landuses has to be joined, then pressing F, one follows the existing line of the residential area. The use of the [Missing Maps/Youthmappers Map Paint style](https://github.com/MissingMaps/josm_styles/archive/master.zip) can show warning triangles if they are connected with each other. To avoid these triangles, it is important to create multipolygons by selecting the two layers and pressing CTRL+B.
