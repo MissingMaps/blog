@@ -29,6 +29,9 @@ The mapping was done using the [JavaOpenstreetMap (JOSM) editor](https://josm.op
 #### Landcover & landuse
 One of the many important aspects of mapping is depicting landuse, which helps people understand how the land is being used and what vegetates on it. This information is critical for development planning, disaster response, and many other purposes. As the name implies, [landuse](https://www.google.com/url?q=https://wiki.openstreetmap.org/wiki/Land_use&sa=D&source=docs&ust=1665498066836565&usg=AOvVaw3Iir-sOXoql5spmP6eTNHV) describes what an area of land is used for, such as housing, commercial activities, farming, education, leisure, and so on. It is related to [landcover](https://www.google.com/url?q=https://wiki.openstreetmap.org/wiki/Landcover&sa=D&source=docs&ust=1665498066837017&usg=AOvVaw18x3tMn82uw7sg0lz3wdG5), which describes the physical thing and surface that covers the land. The two ideas are complementary and can be used in tandem, however in the case of OSM Cameroon’s work, the team mainly mapped the landcover of Cameroon. 
 In order to improve Cameroon’s landcover mapping, OSM Cameroon strived to collect better data,  enrich the OSM map that shows landcover patterns across the country and to produce maps at 1/20000. Their collaboration amongst members and hard work has resulted in more accurate and up-to-date landcover maps. Their self-organised and cross-functional team created meaningful data, and we could learn a lot from their knowledge and their process.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FfCFtaNTOaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Data collection and improved collaboration 
 The overarching understanding is that, to do landcover and landuse mapping in OSM, it is very important to know the local area and to avoid mapping conflicts. As a matter of fact, by knowing the environment where one is mapping it is easier to interpret the aerial imagery. And through collaboration and open communication, risks of conflicts are avoided. 
 #### The importance of avoiding conflicts 
@@ -89,7 +92,7 @@ OSM Cameroon is committed to continue improving their landcover mapping in order
 
 - [OpenStreetMap as a support for the production of 2673 national topographic maps at the 1:25,000 scale](https://www.linkedin.com/pulse/openstreetmap-comme-support-%C3%A0-la-production-de-2673-coupures-sob/), from [Willy Franck Sob](https://www.hotosm.org/people/willy-franck-sob/), 2021. 
 
-To improve landcover and landuse mapping in OpenStreetMap you too can participate in landcover and landuse mapping efforts for humanitarian organisations. The [HOT Tasking Manager’s explore page](https://tasks.hotosm.org/explore/filters?types=LAND_USE) allows users to filter projects by types of mapped objects or key words, and one can always choose the ‘landuse’ option to find new tasks! 
+To improve landcover and landuse mapping in OpenStreetMap, you too can participate in landcover and landuse mapping efforts for humanitarian organisations. The [HOT Tasking Manager’s explore page](https://tasks.hotosm.org/explore/filters?types=LAND_USE) allows users to filter projects by types of mapped objects or key words, and one can always choose the ‘landuse’ option to find new tasks! 
 
 #### Médecins Sans Frontières set up a task for the [landuse and landcover mapping of Gummi, Nigeria](https://tasks.hotosm.org/projects/13625/) if you’d like to contribute!
 
