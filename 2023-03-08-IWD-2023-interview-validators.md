@@ -40,7 +40,7 @@ I would like to motivate them to look at validation as an opportunity to be a me
 ## Sophie Gélinas-Gagné, GIS Officer at the Canadian Red Cross, Canada
 
 <figure>
-<img src="https://github.com/Sophie-GelinasGagne/img/ce2ff0bd3130eb5fbb14b3364c7947dce7ecba1d/missingmaps-blog-2023-03-08_IWD_Sophie.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/ce2ff0bd3130eb5fbb14b3364c7947dce7ecba1d/missingmaps-blog-2023-03-08_IWD_Sophie.png">
 <p class="caption">Sophie Gélinas-Gagné, GIS Officer at the Canadian Red Cross, Canada
 </p>
 </figure>
