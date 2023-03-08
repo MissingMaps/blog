@@ -17,7 +17,7 @@ lang: en
 
 Among the Missing Maps contributors, validators are few and they are instrumental for mappers’ growth, as well as the data quality. Women validators are even rarer. For the International Women's Day 2023, three women validators from different countries shared their unique perspectives.
 
-## Honey Grace Fombuena, member and volunteer at OSM Philippines and GIS Associate with Open Mapping Hub Asia Pacific
+## Honey Grace Fombuena, Member and Volunteer at OSM Philippines and GIS Associate with Open Mapping Hub Asia Pacific, Philippines
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog-2023-03-08_IWD_Honey.png">
@@ -41,7 +41,7 @@ I would like to motivate them to look at validation as an opportunity to be a me
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog-2023-03-08_IWD_Sophie.png">
-<p class="caption">Sophie Gélinas-Gagné, GIS Officer at the Canadian Red Cross, Canada
+<p class="caption">Sophie Gélinas-Gagné, GIS Officer at the Canadian Red Cross
 </p>
 </figure>
 
@@ -65,7 +65,7 @@ For the Türkiye/Syria Earthquake Responses mapping campaign for example, the co
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog-2023-03-08_IWD_Sabine.png">
-<p class="caption">Sabine Hiller, HOT global validator, Westport, Ireland
+<p class="caption">Sabine Hiller's screen when validating HOT Tasking Manager tasks in JOSM
 </p>
 </figure>
 
@@ -83,10 +83,10 @@ I developed the Crowd2Map digital badges, which despite their limitations (creat
 
 **What can we do to mentor new women validators?**
 
-Considering that only 10% of validators are women (based on personal estimates), there is clearly something amiss, which can’t be remedied by recommendations on mentoring. After all, new mappers seem fairly equally represented in terms of gender. Something is happening in between, something that prevents women from fully participating. And as you cannot combat inequality unless you know the extent of it (personal estimates are not enough), the first step should be the gathering of data. In the meantime, I can share some personal hunches. 
+Considering that only 10% of validators are women (based on personal estimates), there is clearly something amiss, which can’t be remedied by recommendations on mentoring. After all, new mappers seem fairly equally represented in terms of gender. Something is happening in between, something that prevents women from fully participating. And as you cannot combat inequality unless you know the extent of it (personal estimates are not enough), the first step should be the gathering of data. In the meantime, I can only share some personal hunches as to the causes.
 
-Second, daring to learn tech skills: Several women friends (all post or part-employed) have asked me about mapping - none of them is techy. There are a lot of very tech-savvy people and it is easy to feel intimidated. To become a validator, you need to learn JOSM, and a lot of non-techy mappers will baulk at that. The pool of non/post/part-professional women I mentioned will include many who have never seen a line of code in their lives and even though they may be great at reading the imagery, might need extra support to progress technically.
+First of all, there is digital literacy. Several women friends (all post or part-employed) have asked me about mapping - none of them are techy. There are a lot of very tech-savvy people in HOT and it is easy to feel intimidated. To become a validator, you need to learn JOSM, and a lot of non-techy mappers will baulk at that. The pool of non/post/part-professional women I mentioned will include many who have never seen a line of code in their lives and even though they may be great at reading the imagery, might need extra support to progress technically.
 
-Third, structures and tone matter: There is a need for more transparency within HOTOSM (where and how are decisions made?), and awareness of the tendency to toxic positivity (which can be understood as the belief that no matter how dire or difficult a situation is, people should maintain a positive mindset – note of the editor). Another issue is responses that are obscured by references to unspecified insider information. It may be a habit that people are not even aware of, that they bring with them from their day job, but it can make volunteers reluctant to persevere. We feel fobbed off and will turn quiet as a result - which ultimately means problems won't be tackled, potential solutions not implemented. 
+Secondly, structures and tone matter: There is a need for more transparency within HOTOSM (where and how are decisions made?), and awareness of the tendency to toxic positivity (which can be understood as the belief that no matter how dire or difficult a situation is, people should maintain a positive mindset – note of the editor). Another issue is responses that are obscured by references to unspecified insider information. It may be a habit that people are not even aware of, that they bring with them from their day job, but it can make volunteers reluctant to persevere. We feel fobbed off and will turn quiet as a result - which ultimately means problems won't be tackled, potential solutions not implemented. 
 
 While there are a lot of incredibly supportive people at HOTOSM, we have to search for causes within both the organisational structure and the general culture. Structures and tone matter when you want to promote the participation of an underrepresented group. And if really only 10% of validators are women, something has to change. I hope that other women, whether they are mappers or future validators, feel inspired to speak up.
