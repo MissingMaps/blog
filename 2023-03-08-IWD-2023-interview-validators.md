@@ -3,7 +3,7 @@ layout: post
 title: "Women validators share perspectives"
 postID: 2023-08-08-IWD-interviews-with-women-validators
 category: blog
-banner: https://www.missingmaps.org/img/images/missingmaps-blog-2023-03-08_IWD_banner.jpg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20230308_IWD_banner.jpg
 date: 2023-03-08
 author: Jana Bauerová
 excerpt: "For the International Women's Day 2023, three women validators from different countries shared their unique perspectives"
@@ -20,7 +20,7 @@ Among the Missing Maps contributors, validators are few and they are instrumenta
 ## Honey Grace Fombuena, Member and Volunteer at OSM Philippines and GIS Associate with Open Mapping Hub Asia Pacific, Philippines
 
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog-2023-03-08_IWD_Honey.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230308_IWD_Honey.png">
 <p class="caption">Honey Grace Fombuena, member and volunteer at OSM Philippines and GIS Associate with Open Mapping Hub Asia Pacific
 </p>
 </figure>
@@ -40,7 +40,7 @@ I would like to motivate them to look at validation as an opportunity to be a me
 ## Sophie Gélinas-Gagné, GIS Officer at the Canadian Red Cross, Canada
 
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog-2023-03-08_IWD_Sophie.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230308_IWD_Sophie.png">
 <p class="caption">Sophie Gélinas-Gagné, GIS Officer at the Canadian Red Cross
 </p>
 </figure>
@@ -64,7 +64,7 @@ For the Türkiye/Syria Earthquake Responses mapping campaign for example, the co
 ## Sabine Hiller, HOT global validator, Westport, Ireland
 
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog-2023-03-08_IWD_Sabine.png">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230308_IWD_Sabine.png">
 <p class="caption">Sabine Hiller's screen when validating HOT Tasking Manager tasks in JOSM
 </p>
 </figure>
