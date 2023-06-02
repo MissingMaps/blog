@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote Mapping in Malawi: Supporting Field Operations"
-postID: 2023-06-02-Malawi-MSF-Cholera-and-Cyclone-Freddy-Response
+postID: Malawi-MSF-Cholera-and-Cyclone-Freddy-Response
 category: blog
 banner: https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_banner.jpeg
 date: 2023-06-02
@@ -95,12 +95,13 @@ In Malawi, the seasonal occurrence of tropical cyclones in February-March has be
   
 During the Humanitarian Open Mapping Community Working Group meeting in February 2023, Christine Mhone, the representative of OpenStreetMap (OSM) Malawi, presented their OSM community. Jana Bauerová, the Community Engagement Coordinator at MSF, informed in turn about the remote mapping to support the MSF cholera response in Malawi. Subsequent contact and collaboration led to the launch of a HOT Tasking Manager project in March, focused on the Phalombe area, which was of particular interest following the impact of Tropical Cyclone Freddy on March 13, 2023. The project management responsibility for this initiative was assumed by Map Malawi.
   
-The data gathered through these mapping efforts was used in conducting a needs assessment in Phalombe/Nkulambe, near the border of Malawi and Mozambique, where huge landslides and flash floods heavily damaged entire villages and critical infrastructure. The digitalisation of buildings allowed [MSF](https://www.facebook.com/msfinternational/?__cft__[0]=AZVbT0u2lgB6jfznJ3n1qH9KEptgu_I8GZrPsfuooKh_mRjH9aHCL_bPSSiBFxn_Ka7s11p3YgwyHhk9e9H7PfSxR-3iFgdQfPX8CwU2VJXN-qTIyXx4j9GlWQc9Q9B1_D2FTIYuas7BozT_9JIAWPyuR7UYqExea5TmNMx0RFuWWHcqKB73s7fFkdNj35uG5qY&__tn__=kK-R) to combine the OpenStreetMap (OSM) data with floods and landslide data in maps estimating the impacted zones/buildings (see map cut-out below).
+The data gathered through these mapping efforts was used in conducting a needs assessment in Phalombe/Nkulambe, near the border of Malawi and Mozambique, where huge landslides and flash floods heavily damaged entire villages and critical infrastructure. The digitalisation of buildings allowed [MSF](https://www.facebook.com/doctorswithoutborderscanada/?brand_redir=104857837889022) to combine the OpenStreetMap (OSM) data with floods and landslide data in maps estimating the impacted zones/buildings (see map cut-out below).
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_landslides_potential_building_damage.png">
 <p class="caption"> Malawi 2023 © MSF
 </p>
+</figure>
   
 In addition, the team prioritized the verification and collection of field-specific data that couldn't be extracted solely from satellite imagery. To accomplish this, they hired a motorbike driver familiar with the area and adept at reading maps. This driver transported the team to various locations, allowing them to cross-reference village names obtained from a database with information provided by local residents. Subsequently, GIS specialist Alexis Huart incorporated the verified field data, encompassing village names, residential areas, and road segments, into the OSM database.
   
@@ -108,6 +109,7 @@ In addition, the team prioritized the verification and collection of field-speci
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_cyclone_freddy_impact.jpeg">
 <p class="caption">The Nkulambe health centre two weeks after the Cyclone hit. Malawi 2023 © MSF
 </p>
+</figure>
  
 “When we arrived in Nkulambe a few days after the cyclone there was nothing there. We were the only humanitarian actors on-site,” explained Pascale Antonie, Field Communications Manager in Malawi.
   
@@ -119,6 +121,7 @@ For more severe cases, MSF helped facilitate referrals to larger hospitals, init
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_cyclone_freddy_MSF_WaterRepairs.jpeg">
 <p class="caption">Using all means of transport for water repairs. Malawi 2023 © MSF
 </p>
+</figure>
   
   
 OpenStreetMap data proved invaluable in the emergency response in Malawi. Particularly in remote areas where infrastructure mapping was previously nonexistent, the humanitarian needs prompted the involvement of the Malawi OSM community. Thanks to their efforts, along with the valuable validation from dedicated Missing Maps volunteers, the building footprints were updated and enhanced. This collaborative process ensured that the data obtained was not only reliable but also benefited from the meticulous scrutiny of human reviewers, as opposed to relying solely on automated methods. Using OSM as the main source of geographic data allowed MSF to access affected populations and aided their response to the epidemic and to the consequences resulting from the cyclone. Overall, the use of OSM data showcased the power of collective action and reliable data for effective humanitarian interventions.
