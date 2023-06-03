@@ -12,8 +12,6 @@ tags: [MSF, Medecins Sans Frontieres, Health, Cholera, Malawi, OpenStreetMap, Cy
 permalink: /blog/:year/:month/:day/:title/
 lang: en
 ---
-
----
   
 # Remote Mapping in Malawi: Supporting Field Operations for the Cholera Outbreak and Cyclone Freddy Response
   
@@ -90,6 +88,7 @@ In Malawi, the seasonal occurrence of tropical cyclones in February-March has be
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_cholera_response.jpeg">
 <p class="caption">The 2nd landfall of Cyclone Freddy caused extensive floods in Phalombe District. Malawi 2023 © MSF
 </p>
+</figure>
 
 **Mapping support for a needs assessment**
   
