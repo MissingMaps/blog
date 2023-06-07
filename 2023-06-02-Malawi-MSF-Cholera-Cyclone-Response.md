@@ -15,6 +15,7 @@ lang: en
   
 # Remote Mapping in Malawi: Supporting Field Operations for the Cholera Outbreak and Cyclone Freddy Response
   
+
 ## Cholera outbreak
 In Malawi, cholera remains endemic, with a consistent pattern of cases typically emerging in March, following the arrival of the initial rains. Historically, these occurrences swiftly faded away. However, in 2022, the number of reported cholera cases exhibited a significant rise following the initial occurrences in March. Since then, the cholera outbreak spread to several cities including Lilongwe, where the situation worsened in early December 2022. In mid-December, the number of cases skyrocketed. Responding to this alarming development, the Missing Maps team from Médecins Sans Frontières (MSF) launched remote mapping support, first setting up six Mapswipe projects, and with the resulting grid, HOT Tasking Manager projects to map buildings and residential areas.
   
@@ -53,7 +54,7 @@ Two GIS specialists have been deployed to Malawi to support the MSF emergency re
 OpenStreetMap base maps created through remote mapping projects and mapped during mapathons around the world were used in many operational applications.
   
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_cholera_reponse_LilongweCity_watsan_excerpt.jpg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_cholera_reponse_LilongweCity_watsan_excerpt.jpeg">
 <p class="caption">Map used for a field survey on water access safety in Lilongwe. Malawi 2023 © MSF
 </p>
 </figure>
@@ -66,13 +67,14 @@ The cholera response activities were structured around two pillars, as illustrat
   
 1. Treatment of patients in a 120-bed cholera treatment centre – a referral centre for complicated cases (pregnant women, patients with chronic diseases) – and setting up of rehydration and stabilisation points within communities to reduce the spread of the disease.
 
+  
+2. WASH activities within communities – identifying and, as and when required, repairing water distribution points, dispensing chlorine, donations for future repairs, etc.
+
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_cholera_response.jpeg">
 <p class="caption"> Mother and her child at a Cholera Treatment Centre. Malawi 2023 © MSF
 </p>
 </figure>
-  
-2. WASH activities within communities – identifying and, as and when required, repairing water distribution points, dispensing chlorine, donations for future repairs, etc.
   
 These two activities were supported by a health and hygiene promotion component, and a Case Area Targeted Intervention approach at the end of the epidemic.
   
@@ -85,7 +87,7 @@ To date, the epidemic is still ongoing although the number of reported cases has
 In Malawi, the seasonal occurrence of tropical cyclones in February-March has become increasingly apparent, potentially linked to the presence of climate change. The devastating aftermath of Tropical Storm Ana in 2022 prompted [disaster response mapping](https://reliefweb.int/map/malawi/malawi-phalombe-district-cyclone-ana-impact-map-31-january-2022). This year, Tropical Cyclone Freddy made a second landfall in Malawi and Mozambique in March 2023, triggering widespread flooding and devastating landslides.
   
 <figure>
-<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_cholera_response.jpeg">
+<img src="https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_landslides.jpeg">
 <p class="caption">The 2nd landfall of Cyclone Freddy caused extensive floods in Phalombe District. Malawi 2023 © MSF
 </p>
 </figure>
