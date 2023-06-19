@@ -3,7 +3,7 @@ layout: post
 title: "Remote Mapping in Malawi: Supporting Field Operations"
 postID: Malawi-MSF-Cholera-and-Cyclone-Freddy-Response
 category: blog
-banner: https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_banner.jpeg
+banner: https://www.missingmaps.org/img/images/missingmaps-blog_20230601_malawi_banner3.jpeg
 date: 2023-06-02
 author: Jana Bauerová, Sophie Gélinas-Gagné and Alexis Huart
 excerpt: "Malawi was experiencing the worst cholera epidemic in 20 years, so MSF sent an emergency team and activated Missing Maps. When a cyclone hit in March, OSM data was also invaluable for assessment."
