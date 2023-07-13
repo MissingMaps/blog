@@ -5,7 +5,7 @@ postID: new-version-sketch-map-tool
 category: blog
 banner: https://www.missingmaps.org/img/images/missingmaps-blog-20230714_community_mapping.jpeg
 date: 2023-07-14
-author: May Heidelberg
+author: Melanie Eckle and Alec Schulze-Eckle
 excerpt: The Heidelberg Institute for Geoinformation Technology team recently launched a new version of the Skecth Map Tool - an easy-to-use tool for participatory sketch mapping through offline data collection, digitization and georeferencing of local spatial knowledge.
 published: true
 tags:  [participatory mapping, analog map, digital map, sketch tool]
@@ -69,14 +69,14 @@ Since then, the tool has been tested in different contexts and projects around t
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog-20230714_double.png">
-<p class="caption">Sketch Map of Risk Areas from a project in Colombia (Letzner 2023)</p>
+<p class="caption">Mozambique (György 2022)</p>
 </figure>
 
 Currently, our former HeiGIT intern Kimon Letzner explores the potential and limitations of the Sketch Map Tool in the scope of his Master’s studies at Lund University. His focus is on the community mapping process in the context of the [Enhanced Vulnerability and Capacity Assessment (EVCA)](https://communityengagementhub.org/resource/evca-guide/) in the International Red Cross Red Crescent Movement based on a project with the [Colombian Red Cross National Society](https://www.cruzrojacolombiana.org/).
 
 <figure>
 <img src="https://www.missingmaps.org/img/images/missingmaps-blog-20230714_community_mapping.jpeg">
-<p class="caption">Mozambique (György 2022))</p>
+<p class="caption">Community mapping (Letzner 2023)</p>
 </figure>
 
 In May 2023, the Sketch Map tool was presented and used in a practical exercise at a regional training of the [International Federation of Red Cross and Red Crescent Societies](https://www.ifrc.org/) “Road Map to Community Resilience via Enhanced Vulnerability and Capacity Assessment (EVCA)” in Kuala Lumpur, Malaysia. A write-up of the training can be found [here] (https://heigit.org/training-on-digitalization-of-participatory-mapping-in-kuala-lumpur/). This event represented another crucial step towards implementing the tool in the standard processes of the Red Cross Red Crescent Movement worldwide.
@@ -85,4 +85,4 @@ In May 2023, the Sketch Map tool was presented and used in a practical exercise 
 
 The application examples presented here represent only a small part of the current projects in which the Sketch Map Tool has already been deployed. Due to the Sketch Map Tool’s functions and the easy handling of the tool, the HeiGIT team receives consistent information and ideas about applications and further development from the Red Cross and Red Crescent Movement and beyond. In cooperation with our partners, we are also currently conducting numerous workshops and training on the Sketch Map Tool and planning updates and expansions for the application.
 
-On Friday, June 9th at 4:30 PM EST, the Sketch Map Tool [was] presented at the State of the Map US 2023, the annual OSM conference in the USA, with additional information available [here](https://2023.stateofthemap.us/).
+On Friday, June 9th at 4:30 PM EST, the Sketch Map Tool was presented at the State of the Map US 2023, the annual OSM conference in the USA, with additional information available [here](https://2023.stateofthemap.us/).
