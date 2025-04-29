@@ -3,7 +3,7 @@ layout: post
 title: "OSM in West Africa: The Mapping Continues"
 postID: osm-wafrica
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20171107_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20171107_banner.jpg
 date: 2017-11-07
 author: David Luswata, Emily Eros, and local contributors
 excerpt: "Mapping in West Africa continues, thanks to dedicated OSM communities in Liberia, Guinea, and Sierra Leone. Here's what they are planning for GeoWeek 2017."

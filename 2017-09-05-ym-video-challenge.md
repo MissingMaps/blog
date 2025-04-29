@@ -3,7 +3,7 @@ layout: post
 title: Join us for our first YouthMappers Video Challenge!
 postID: ym-video-challenge
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170905_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170905_banner.jpg
 date: 2017-09-05
 author: Rachel Levine
 excerpt: "Share your chapters' lessons learned with the wider Missing Maps community by filming a short 5 minute video on Tips and Tricks for Hosting a Mapathon.  Winning video will be featured on the Missing Maps website."

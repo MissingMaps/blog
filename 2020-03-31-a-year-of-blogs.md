@@ -3,7 +3,7 @@ layout: post
 title: "'Missing Maps in Canada? Canadian Red Cross Community Mapping' – A Year of Blogs – March 2020"
 postID: a-year-of-blogs-mar2020
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200331_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200331_banner.jpg
 date: 2020-03-31
 author: Melanie Chabot
 excerpt: "The Canadian Red Cross Society’s Missing Maps activities in rural, remote and Indigenous communities."
@@ -17,7 +17,7 @@ lang: en
 The Canadian Red Cross Society became a member of Missing Maps Project in 2017. Our goal was to partner with rural, remote and Indigenous communities in Canada and improve their available maps to increase their resiliency when faced with emergencies. A two-year pilot project to test out this goal is wrapping up at the end of this month – March 2020. The pilot project is part of an ongoing commitment to working alongside communities to increase disaster preparedness and resiliency.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200331_photo1.JPG">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200331_photo1.JPG">
 <p class="caption"> Mapping an educational trail with a pilot community.</p>
 </figure>
 
@@ -32,7 +32,7 @@ This issue is compounded in Indigenous communities, which are greatly underrepre
 The lack of accessible maps for rural, remote and Indigenous communities poses a safety issue when they are faced with emergencies and natural disasters. When these communities face large emergencies, they are often supported by emergency responders from outside of the community. These outsiders are likely very unfamiliar area and would have a difficult time navigating without a map. If an ambulance driver is looking for a house in an unfamiliar rural community, navigating without a map can significantly increase the response time. Furthermore, cell phone coverage in these areas is often unreliable which causes further delays in emergency response.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200331_photo2.JPG">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200331_photo2.JPG">
 <p class="caption"> Field mapping with a pilot community in an area that is recovering from a severe wildfire.</p>
 </figure>
 

@@ -16,7 +16,7 @@ lang: en
 “I realized right after the French lockdown that online mapathons were very important to me during this isolation period. At first, it was a dedicated time during which I could talk with a lot of people. I especially appreciated the fact that we weren't just talking about COVID-19. It allowed me to connect with new people with shared interests such as cartography or GIS, which represents a proper treat for me since such topics are quite specific. We discussed other topics, such as biodiversity and cooking; it was a precious time to think about something else and relax.” - Feedback from a volunteer at a mapathon with [CartONG](https://www.cartong.org/) For full quote, see below.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200729_photo1.png">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200729_photo1.png">
 <p class="caption"> [The Missing Maps team wishes you a happy virtual mapathon!]</p>
 </figure>
 

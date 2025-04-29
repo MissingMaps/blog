@@ -3,7 +3,7 @@ layout: post
 title:  What's new with MapSwipe
 postID: mapswipe-update
 category: [MapSwipe]
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160714_mapswipe.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160714_mapswipe.jpg
 date: 2016-08-01
 author: Pete Masters
 excerpt: Following the excellent feedback so many of you sent us, our team has been hard at work to get the next update out. Get the details, here!

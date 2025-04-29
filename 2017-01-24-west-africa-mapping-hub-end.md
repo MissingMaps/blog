@@ -3,7 +3,7 @@ layout: post
 title: "West Africa Project End"
 postID: west-africa-end
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-webbanner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/westAfrica-webbanner.jpg
 date: 2017-01-24
 author: Matthew Gibb, Emily Eros
 excerpt: Wrapping up our largest undertaking since the start of the Missing Maps project was in West Africa. Covering an area the size of Switzerland, volunteers in Liberia, Guinea, and Sierra Leone visited over 7,000 communities in an area that saw the worst of the Ebola crisis in 2014 and 2015.
@@ -18,7 +18,7 @@ lang: en
 2016 was a busy year for the the American Red Cross and the Missing Maps project. Community-led mapping projects took place in [Colombia](http://www.missingmaps.org/blog/2015/03/29/riohacha-colombia/), Ecuador, and [Zimbabwe](http://www.missingmaps.org/blog/2016/06/07/zimbabwe/). Our largest undertaking since the start of the Missing Maps project was in West Africa. Covering an area the size of Switzerland, volunteers in Liberia, Guinea, and Sierra Leone visited over 7,000 communities in an area that experienced the worst of the Ebola crisis in 2014 and 2015. Here's a snapshot of what the volunteers accomplished:
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/westafrica_stats_horizontal.jpg" alt="Quick stats">
+<img src="https://github.com/MissingMaps/img/blob/main/images/westafrica_stats_horizontal.jpg" alt="Quick stats">
 <p class="caption">A few West Africa stats at a glance. CC-BY American Red Cross.</p>
 </figure>
 
@@ -29,15 +29,15 @@ We started the West Africa project because information gaps in available data ma
 The mapping project involved five processes, which consisted of tech development, a mapping hub, a rapid assessment survey, detailed community mapping, and community engagement.
 
 <figure>
-<a href="https://arcmaps.s3.amazonaws.com/share/blog-pictures/project_phases.png">
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/project_phases_lowres.png" alt="Project Phases"></a>
+<a href="https://github.com/MissingMaps/img/blob/main/images/project_phases.png">
+<img src="https://github.com/MissingMaps/img/blob/main/images/project_phases_lowres.png" alt="Project Phases"></a>
 <p class="caption">Project Phases. CC-BY American Red Cross.</p>
 </figure>
 
 Before the field work, we estimated that there were about 5,000 communities in the target area (based off of OpenStreetMap data). When we actually got on the ground, however, our volunteers visited 7,000 communities. Planning and logistics were a real challenge for this project - here's what 7,000 communities look like across the area:
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-targetcomms.jpg" alt="target comms">
+<img src="https://github.com/MissingMaps/img/blob/main/images/westAfrica-targetcomms.jpg" alt="target comms">
 <p class="caption">Project area and communities visited for rapid assessment and detailed mapping. CC-BY American Red Cross.</p>
 </figure>
 
@@ -48,7 +48,7 @@ Our standard mapping tools consist of Android phones, OpenDataKit and [OpenMapKi
 Here's how POSM works:
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/posm_forblog.jpg" alt="POSM: more than just a cute name">
+<img src="https://github.com/MissingMaps/img/blob/main/images/posm_forblog.jpg" alt="POSM: more than just a cute name">
 <p class="caption">POSM workflow. CC-BY American Red Cross.</p>
 </figure>
 
@@ -59,9 +59,9 @@ Here's how POSM works:
 A mapping hub was established in Guéckédou, Guinea, which served as an operations base and a community engagement facility. Local GIS staff used the mapping hub as a central location to clean incoming data and interact with the local community, building capacity in both the use of OpenStreetMap and general computer, technical, and language skills. POSM also allowed the staff and volunteers to trace features into OpenStreetMap in an offline environment. This process is highlighted [here](https://hi.stamen.com/merging-offline-edits-with-the-posm-replay-tool-2f39a4410d2a#.owg36t8sy). Through partners in each country, local OSM groups formed to continue mapping communities both inside and outside of the initial project area:
 
 <figure>
-<a href="https://twitter.com/osmliberia"><img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/osmliberia.jpg" alt="Pump" style="height:100px; margin-left:15px;"></a>
-<a href="https://twitter.com/osmguinea"><img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/osmguinea.jpg" alt="Pump" style="height:100px; margin-left:15px;"></a>
-<a href="https://twitter.com/osmsierraleone"><img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/osmsl.jpg" alt="Pump" style="height:100px; margin-left:15px;"></a>
+<a href="https://twitter.com/osmliberia"><img src="https://github.com/MissingMaps/img/blob/main/images/osmliberia.jpg" alt="Pump" style="height:100px; margin-left:15px;"></a>
+<a href="https://twitter.com/osmguinea"><img src="https://github.com/MissingMaps/img/blob/main/images/osmguinea.jpg" alt="Pump" style="height:100px; margin-left:15px;"></a>
+<a href="https://twitter.com/osmsierraleone"><img src="https://github.com/MissingMaps/img/blob/main/images/osmsl.jpg" alt="Pump" style="height:100px; margin-left:15px;"></a>
 </figure>
 
 ## Rapid Assessment and Detailed Community Mapping
@@ -73,7 +73,7 @@ Using the vulnerability index and major population centers, 104 communities were
 Based on the data collected and the communities visited, roughly 800 `fixme` location and name tags were removed from the project area in OpenStreetMap. Many of what appeared to be communities were actually seasonal farms or long abandoned villages. Many of the `fixme` tags marked communities that were based on out-of-date maps and government data that was over 50 years old.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-pump.jpg" alt="Pump">
+<img src="https://github.com/MissingMaps/img/blob/main/images/westAfrica-pump.jpg" alt="Pump">
 <p class="caption">Volunteer mapping a water pump during the detailed mapping phase. CC-BY American Red Cross.</p>
 </figure>
 
@@ -91,13 +91,13 @@ Check out some of the analysis already done with the data we collected: [Mapping
 We've also posted pictures from motorbikes and vehicles used in the project to [Mapillary](https://www.mapillary.com/map/im/3hlhf5HEBwR_9XzMb91Rww), so take a look through the 100 GB of photos that we uploaded!
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-motorbike.jpg" alt="motorbike">
+<img src="https://github.com/MissingMaps/img/blob/main/images/westAfrica-motorbike.jpg" alt="motorbike">
 <p class="caption">A Mapillary image captured from a volunteer on motorbike. CC-BY American Red Cross.</p>
 </figure>
 
 Again, this project could not have been completed without the tireless efforts of the 126 Red Cross volunteers who, equipped with a phone and a humanitarian spirit, helped put people on the map. THANKS to everyone who contributed to the project!
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-team.jpg" alt="Team">
+<img src="https://github.com/MissingMaps/img/blob/main/images/westAfrica-team.jpg" alt="Team">
 <p class="caption">Field team leader discussing plans with volunteers in Liberia. CC-BY American Red Cross.</p>
 </figure>

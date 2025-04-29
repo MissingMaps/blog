@@ -3,7 +3,7 @@ layout: post
 title: Supporting a urban improvement project in precarious neighborhoods in Burkina Faso
 postID: urban-improvement-burkina-faso
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190523_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190523_banner.jpg
 date: 2019-05-23
 author: Martin Noblecourt
 excerpt: "In March 2019, Missing Maps member CartONG carried out a 2-weeks mission in Burkina Faso in support of the Yaam Solidarité association. Here is a look back at the mobile data collection and mapping support we provided and the collaborative and sustainable approach we implemented."
@@ -22,7 +22,7 @@ Collaborative mapping, open data and new "low tech" geographic information techn
 Since 2010, Yaam Solidarité has been running a project in Boassa to improve housing and living conditions, which is supported by the French association [Craterre](http://craterre.org/) and funded by the [Abbé Pierre Foundation](http://www.fondation-abbe-pierre.fr/nos-actions/agir-au-dela-des-frontieres/au-burkina-faso-une-nouvelle-echelle-de-cooperation). To provide adequate technical support and carry out this project, CartONG mobilized its volunteer community and worked closely with the OSM community in Burkina Faso.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190523_location.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190523_location.jpg">
 </figure>
 
 ## Objective 1: Create a basic map of the area using the OpenStreetMap platform and crowd sourcing
@@ -32,11 +32,11 @@ In the first phase of the project, CartONG organized 8 mapathons in Lyon, Grenob
 At the end of this first stage, the Boassa district was finally visible on a map, which was then enriched during the second phase of the project that took place on site in Ouagadougou.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190523_before.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190523_before.jpg">
 </figure>
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190523_after.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190523_after.jpg">
 </figure>
 
 ## Objective 2: Collect data in the field through practical and easy-to-use technological solutions and an inclusive approach
@@ -50,7 +50,7 @@ Participants were trained in using OsmAnd and OSM Tracker for geographic data co
 These data collection workshops proved to be a real opportunity to promote collaboration between the local association, members of the neighborhood committee, residents, young students and OSM members, and to promote everyone's knowledge and experience, while allowing them to take better ownership of the project and greater control over their territory and its related challenges.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190523_collection.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190523_collection.jpg">
 </figure>
 
 ## Objective 3: Facilitate the reuse of maps and data and ensure their sustainability in the medium and long term
@@ -60,7 +60,7 @@ All the data produced during the 8 mapathons in France and the data collected in
 As part of the workshops held on site, Yaam Solidarity members were trained in data manipulation on OSM so that they would be able to continue mapping their neighborhood and enrich the database independently of the presence of another actor such as CartONG, and over the long term. This wonderful source of information now makes the inhabitants of the informal district of Boassa visible on the map, as well as the economic activities and initiatives that exist locally. It also highlights other more problematic aspects such as the lack of access to basic services, the risks in terms of accessibility of emergency services, or the evolution and changes in public spaces.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20190523_analysis.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190523_analysis.jpg">
 </figure>
 
 At the same time, the Yaam Solidarity association, which works on the spot, can now use this map to call out public authorities or potential donors to address the existing issues in the area. The map will also be used to raise awareness among residents to better plan the urbanization of the district, protect themselves from high-risk areas or preserve road spaces in an effort to ensure a certain quality of life in the district.
