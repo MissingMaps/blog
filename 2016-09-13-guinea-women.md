@@ -3,7 +3,7 @@ layout: post
 title: Putting Guinea’s reproductive health issues on the map
 postID: putting-guineas-reproductive-health-issues-on-the-map
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160916_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160916_banner.jpg
 date: 2016-09-16
 author: Chris Glithero, Paul Knight, Kat Hicks
 excerpt: "The Danish, Swiss and British Red Cross are currently working together to support the Guinea Red Cross in developing integrated, high quality programmes, and the Reproductive Health and Rights Programme is one of these. It aims to improve knowledge and access to reproductive health and rights in the Moyenne Guinée region of the country."
@@ -42,7 +42,7 @@ It also found that, “poor women in remote areas are the least likely to receiv
 To tackle these issues, the Guinea Red Cross’ Reproductive Health and Rights Programme, aims in part to improve access to emergency medical care for women experiencing childbirth complications. It also aims to shift practices and cultural viewpoints regarding FGM, and to improve knowledge, rights and access to reproductive health in key areas of the country.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160916_village.jpg" alt="village">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160916_village.jpg" alt="village">
 <p class="caption">Community in Labé region. CC-BY-NC-ND British Red Cross, Danish Red Cross and Swiss Red Cross</p>
 </figure>
 
@@ -74,13 +74,13 @@ Once the map features added by remote Missing Maps volunteers have been validate
 The completed maps will then be available for project staff and volunteers to use throughout the programme, and will provide a vital geographic data source with which to visualise the results from the baseline survey.  More importantly, they will play an integral role in implementing systems which will help to ensure that pregnant women experiencing birth complications get the immediate medical attention they need.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160916_dwelling.jpg" alt="dwelling" style="width: 400px;">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160916_dwelling.jpg" alt="dwelling" style="width: 400px;">
 <p class="caption">Baseline surveying. CC-BY-NC-ND British Red Cross, Danish Red Cross and Swiss Red Cross</p>
 </figure>
 
 Without accurate maps – which can guide to a destination, highlight needs, reveal patterns and track developments - the work of aid and development organisations to save and enhance lives can be made even more difficult. Through the efforts of HOT and the Missing Maps community, large swathes of the world which were previously in shadow have been revealed, and the positive impacts of this are only just beginning to be realised.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160916_team.jpg" alt="team">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160916_team.jpg" alt="team">
 <p class="caption">The mobile data collection team. CC-BY-NC-ND British Red Cross, Danish Red Cross and Swiss Red Cross</p>
 </figure>

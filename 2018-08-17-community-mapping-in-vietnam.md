@@ -3,7 +3,7 @@ layout: post
 title: Community Mapping in Viet Nam
 postID: community-mapping-in-vietnam
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180815_banner.png
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180815_banner.png
 date: 2018-08-17
 author: Jennifer Duong & Rachel Levine
 excerpt: This summer, the American Red Cross GIS team held a weeklong training for the Viet Nam Red Cross Society (VNRC) and the American Red Cross Viet Nam Delegation to cover mobile data collection and community mapping best practices. Interested in hosting your own community mapping trip or just curious? Learn more about our training and agenda here.
@@ -22,14 +22,14 @@ In June, members of the American Red Cross GIS team traveled to Hoi An, Viet Nam
 Each year, Central Viet Nam is affected by several major flood events. In recent a recent assessment, The United Nations Institute for Training and Research (UNITAR) published a [map](http://unosat-maps.web.cern.ch/unosat-maps/VN/FL20171106VNM/UNOSAT_A3_FL20171106VNM_QuangNam_Portrait.pdf) that analyzed how many people were  affected by floodwaters in this coastal area following tropical cyclone DAMREY-17 (highlighted in red).
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180815_map.jpg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180815_map.jpg" height="400px">
 <p class="caption">UNITAR Viet Nam Quang Nam Province, Photo: UNITAR</p>
 </figure>
 
 This flood analysis indicates that approximately 190,000 people were affected by Cyclone DAMREY-17 in Quang Nam Province. Having access to maps like these and being able to analysis how far residents live from coastal fronts allow community planners and the VNRC to prepare flood strategies and mitigate large impacts from major storm surges and landslides. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180815_fisherman.jpg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180815_fisherman.jpg" height="400px">
 <p class="caption">Man fishing near river in Hoi An, Viet Nam, Photo: Ⓒ American Red Cross | Dale Kunce</p>
 </figure>
 
@@ -38,7 +38,7 @@ This flood analysis indicates that approximately 190,000 people were affected by
 One way the VNRC prepares for annual flood events is by routinely completing Vulnerability Capacity Assessments (VCAs). These were traditionally done by hand, making results hard to share and refer back to.  When the teams incorporate OpenStreetMap (OSM) into a workflow to complete the VCA, this can result in a more detailed and accurate spatial layout of communities. We can use OSM data layers (like historic flood levels, transportation routes, population densities, etc.) to enhance VCAs so they are more informative to decision-makers. Additionally, understanding where communities are most vulnerable allows us to identify and resolve gaps in our data, ensuring that future plans improve over time. Lastly, using OSM allows us to digitize our results and share the data we created with the wider community for further discussions and improvements.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180815_VCA.jpg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180815_VCA.jpg" height="400px">
 <p class="caption">VCAs done by hand, Photo: Ⓒ American Red Cross | Dale Kunce</p>
 </figure>
 
@@ -70,7 +70,7 @@ Activity: Learn how to use Overpass Turbo to extract mapping data and QGIS to pr
 Goal: Create individual maps from VCAs, complete with traditional mapping markers (including a title, north arrow, and legend)
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180815_volunteerthinking.jpg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180815_volunteerthinking.jpg" height="400px">
 <p class="caption">VCAs done by hand, Photo: Ⓒ American Red Cross | Linh Vu</p>
 </figure>
 
@@ -87,6 +87,6 @@ After the training, participants are able to:
 - Take their new strategies learned and data collected into QGIS to produce a professional map that can be used in meetings with partners and stakeholders
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180815_hoianstreet.jpg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180815_hoianstreet.jpg" height="400px">
 <p class="caption">Participants head out to map the community, Photo: Ⓒ American Red Cross | Rachel Levine</p>
 </figure>

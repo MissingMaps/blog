@@ -27,7 +27,7 @@ These were the remarks from January Makamba, the Tanzanian Minister of State for
 One of the highlights of the week was attending a tour of a number of [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT) supported local mapping projects throughout Dar Es Salaam.  Members of MapAction, the American Red Cross, the International Federation of Red Cross Red Crescent (IFRC), and new HOT staff joined together to visit five different learning environments. HOT is currently supporting multiple projects throughout Tanzania and Africa and works with local universities, communities, technology companies, Red Cross National Societies, and government organisations. Through these projects HOT aims to use [OpenStreetMap](https://www.openstreetmap.org/#map=5/54.910/-3.432) to create sophisticated and highly-accurate maps of Dar Es Salaam to support the local community. With two of the newest Missing Maps members (MapAction and the IFRC) along for the visit, this was a great opportunity to learn more about HOT programming and understand how many of our individual organizations mapping projects overlap with other organizations work.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180921_hospital.jpeg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180921_hospital.jpeg" height="400px">
 <p class="caption">Ground control point placed near launch site, Photo: Ⓒ MapAction | Steve Penson</p>
 </figure>
 
@@ -40,7 +40,7 @@ Over time, as more data is collected, it will be possible to build a clear pictu
 The project, although currently in its very early stages, could have a huge impact throughout Dar and beyond. The project is innovative and remarkably simple, with strong parallels to how Dr. John Snow used spatial data to understand and explain a health problem in London. Using open source maps, local knowledge and local expertise, it will be possible to identify areas of need at a hyperlocal scale with very little impact on hospital resources.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180921_shinamap.jpeg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180921_shinamap.jpeg" height="400px">
 <p class="caption">Shina map with ward boundaries.</p>
 </figure>
 
@@ -51,7 +51,7 @@ The tour also took us to see the work of the much larger Tanzanian mapping proje
 Full, highly detailed, regional drain infrastructure data has now been mapped and, as the community continues to develop, local projects have sprung up with the aim of adding even further detail to the map. The ingenious use of homemade drones and locally made elevation sensors is helping to develop an accurate terrain and elevation model of the region through the use of locally collected Earth Observation data. Through the collection of this data it will not only be possible to understand those affected by floods but will also enable the development of accurate flood plain maps which can be used to identify the people and areas at most risk to flooding.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180921_VCA.jpg" height="400px">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180921_VCA.jpg" height="400px">
 <p class="caption">Community members come together to identify hazards in their Ward, Photo: Ⓒ American Red Cross | Rachel Levine</p>
 </figure>
 

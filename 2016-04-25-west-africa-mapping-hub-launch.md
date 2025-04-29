@@ -3,7 +3,7 @@ layout: post
 title: Field Mapping at Scale in West Africa
 postID: west-africa-mapping-hub-launch
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160425_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160425_banner.jpg
 date: 2016-04-25
 author: Emily Eros
 excerpt: "This past year, the American Red Cross undertook its biggest field effort to date: launching a mapping hub in West Africa and training local volunteers to field map over 5,000 villages in the border regions of Liberia, Guinea, and Sierra Leone. The mapping focuses on public health resources, different aspects of vulnerability, and amenities like markets that would draw people across borders – important information to understand if another Ebola outbreak were to occur."
@@ -26,14 +26,14 @@ When the 2014 Ebola outbreak began, [HOT](https://hotosm.org/) coordinated remot
 This past year, the American Red Cross undertook its biggest field effort to date: launching a mapping hub in West Africa and training local volunteers to field map over 5,000 villages in the border regions of Liberia, Guinea, and Sierra Leone. The mapping focuses on public health resources, different aspects of vulnerability, and amenities like markets that would draw people across borders – important information to understand if another outbreak were to occur.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160425_west-africa-glance.jpg" alt="overview map">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160425_west-africa-glance.jpg" alt="overview map">
 <p class="caption">The project area includes everything shaded pink. Each tiny red dot represents a community to be mapped. CC-BY American Red Cross.</p>
 </figure>
 
 Covering an area nearly as large as Switzerland, this project was a massive effort to scale up our Missing Maps field efforts in a rural region full of technical challenges: no connectivity, extremely poor roads, lack of electricity, dispersed volunteers, varying languages, ongoing health challenges, political challenges, etc.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160425_badroad.jpg" alt="bad road">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160425_badroad.jpg" alt="bad road">
 <p class="caption">Road quality is a major issue, but our volunteers manage to make it through. Photo courtesy of Lofa Chapter Red Cross volunteer.</p>
 </figure>
 
@@ -44,7 +44,7 @@ Since November, we’ve been hard at work to figure out what exactly it takes to
 In March, we were finally ready to begin mapping. Local staff, together with the GIS team from DC, travelled to three field sites in Liberia to train local volunteers in mapping and data collection. The volunteers learned to use [OsmAnd](http://osmand.net/), [ODK Collect](https://opendatakit.org/), [OpenMapKit](http://openmapkit.org/), and paper-based tools like [FieldPapers](fieldpapers.org), then they set off on motorbikes to start visiting their target communities.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160425_planning.jpg" alt="planning">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160425_planning.jpg" alt="planning">
 <p class="caption">Red Cross volunteers prepare for field mapping in Liberia. CC-BY American Red Cross.</p>
 </figure>
 
@@ -59,7 +59,7 @@ POSM is a new tool developed for working in rural areas like West Africa. Over t
 With POSM, we can pre-download all the data for an area of interest before we travel to the field. Then, when we need to prepare for field mapping or lead a mapathon, we just power up the POSM box and wirelessly connect a phone or computer to it. POSM allows us to do all of our core tasks without an internet connection, for potentially months at a time. The software is free and open-source and available [here](https://github.com/americanredcross/posm).
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160425_headlamp-posm.jpg" alt="overview map">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160425_headlamp-posm.jpg" alt="overview map">
 <p class="caption">Left: Before POSM, tech problems meant taping FieldPapers together by headlamp. Right: With POSM, we can fix problems and prep mapping on-the-fly. CC-BY American Red Cross.</p>
 </figure>
 
@@ -68,7 +68,7 @@ With POSM, we can pre-download all the data for an area of interest before we tr
 We’ve also launched a mapping hub at the heart of the cross-border area, in Guéckédou, Guinea. The hub is a physical office space with equipment, staff, and resources to lead trainings and outreach, and to engage with the local community. The goal of the space is not just to facilitate our mapping activities, but to provide longer-term and more sustainable engagement in the area and to foster a local community of mappers.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160425_hub.jpg" alt="overview map">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160425_hub.jpg" alt="overview map">
 <p class="caption">Checking out the new hub facility before it gets set up. CC-BY American Red Cross.</p>
 </figure>
 

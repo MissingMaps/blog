@@ -3,7 +3,7 @@ layout: post
 title: "POSM 0.8 Big Changes"
 postID: posm-update
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180924_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180924_banner.jpg
 date: 2018-09-24
 author: Dan Joseph and Seth Fitzsimmons
 excerpt: "We’ve just released a new version of POSM with many exciting changes."

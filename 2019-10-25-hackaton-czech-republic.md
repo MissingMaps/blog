@@ -3,7 +3,7 @@ layout: post
 title: ‘Czech Tech Saving Lives’ - Inaugural Missing Maps hackathon for Czech Republic. A national first.
 postID: hackaton-czech-republic
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_one-click-hacking-team.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025_one-click-hacking-team.jpg
 date: 2019-10-25
 author: Rupert Allen
 excerpt: How many more lives could be safeguarded if a missing mapper only had to click once on a building, rather than once in each corner? What if last month’s release of the Mapswipe 2.0 app could also directly send identified buildings straight to OSM? These were some of the challenges posed to hackers this weekend by organisers of the first ever czech Missing Maps Hackathon in Plszen, Czech Republic.
@@ -16,7 +16,7 @@ lang: en
 *How many more lives could be safeguarded if a missing mapper only had to click once on a building, rather than once in each corner? What if last month’s release of the Mapswipe 2.0 app could also directly send identified buildings straight to OSM? These were some of the challenges posed to hackers this weekend by organisers of the first ever czech Missing Maps Hackathon in Plszen, Czech Republic.*
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_techheaven.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025_techheaven.jpg">
 <p class="caption">Hackers in ‘their dungeon’. The hackaton was hosted and catered for by local ITNGO in their building by the river, around the corner from the Pilsner Urquell brewery museum.</p>
 </figure>
 
@@ -29,7 +29,7 @@ Introducing tech hackers to the way Missing Maps works is always fun. They quick
 Pilsen is the home of many famous technologies, and is quickly evolving into a stronghold of the digital revolution. 3000 developers are estimated to live in this small but beautiful city. From these, a small group of digital humanitarians gathered around some important technical problems, less in competition than collaboration, to see if they could make Open Source field and remote mapping easier. Czech Tech is big business here, and Hackathons often attract decent prizes, all-night red-eyed coding, and copious amounts of caffeine. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_old-school-hardware.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025_old-school-hardware.jpg">
 <p class="caption">Some of the hackers turned up with some serious old-school hardware.</p>
 </figure>
 
@@ -44,14 +44,14 @@ And so the night began.
 The ‘Mapathon Dashboard’ was one such challenge which interested local hackers Adam, Michal and Matyas. Bad quality data can lead to misdirection in the field, but is also crucial for good advocacy, which can show local decision-makers that OSM is a rigorous process, upon which lives and decision liabilities can depend. Many of us are familiar with the [CartOng Mapathon Dashboard](http://mapathon.cartong.org/), but what if we could see some kind of ‘live conversation’ taking place between good and bad data, involving and mentoring more mappers to validate and to up the quality of their original inputs?'
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_mapathon-dashboard.png">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025_mapathon-dashboard.png">
 <p class="caption">The CartOng mapathon dashboard.</p>
 </figure>
 
 By the end of the weekend, the dashboard had been re-coded to include a live-graph of validated data moment-by-moment, ways to interact validators with their mappers, and some other excellent new features to be proposed to its originators, Missing Maps partners CartOng.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025D_dashboard-hacking-team.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025D_dashboard-hacking-team.jpg">
 <p class="caption">The dashboard hacking team.</p>
 </figure>
 
@@ -60,7 +60,7 @@ By the end of the weekend, the dashboard had been re-coded to include a live-gra
 A lot of work has been done on remote sensing for deforestation, drought and flood at low-resolution, but Jakub, Jan and David started building on algorithms from this kind of land-cover data, with an imagery analysis tool, detecting the circles and squares of new ‘shelters’ in unexpected areas, alerting us to previously unknown expanding population -  areas of ‘new human activity’ where unexpected and rapid crisis-mapping is needed.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_village-growth-hacking-team.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025_village-growth-hacking-team.jpg">
 <p class="caption">The village and settlement growth awareness tool hacking team.</p>
 </figure>
 
@@ -71,7 +71,7 @@ There is an ever-increasing need for validation in mapathons, and the basic mapp
 Martin and Jiri tackled this one, which is set to be a ground-breaking change in mapping practice all over the world. Machine learning is all very well, but the human touch will arguably always be needed. And the validation process should be where we focus our remote-mapping time.  After significant advances in ‘the dungeon’ over the weekend, it is now very nearly possible to click only once rather than four times on a building, potentially speeding-up mapping four times over. 
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_one-click-hacking-team.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025_one-click-hacking-team.jpg">
 <p class="caption">The one-click wonder hacking team.</p>
 </figure>
 
@@ -82,7 +82,7 @@ ODK and Kobo are free smartphone apps which are used almost everywhere in the gl
 ‘The Three Jans’ made significant inroads into a JOSM plugin which could load raw data directly from the field, to be processed simply and effectively, cleaned, validated and conventionalised for upload into OSM.
 
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191025_field-data-hacking-team.jpg">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191025_field-data-hacking-team.jpg">
 <p class="caption">The field data streamlining hacking team.</p>
 </figure>
 

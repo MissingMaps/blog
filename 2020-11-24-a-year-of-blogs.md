@@ -3,7 +3,7 @@ layout: post
 title: "Help to Grow MapSwipe by Joining the Collective – A Year of Blogs – Nov 2020"
 postID: 2020-11-24-a-year-of-blogs
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20201124_photo.png
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20201124_photo.png
 date: 2020-11-24
 author: Laurent Savaëte
 excerpt: "Why we're setting up a collective to support MapSwipe"

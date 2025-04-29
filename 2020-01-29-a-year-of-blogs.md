@@ -3,7 +3,7 @@ layout: post
 title: "‘Burundi anti-malaria campaign: Covering the gap’ - A Year of Blogs - January 2020"
 postID: a-year-of-blogs-jan2020
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20200129_BurundiMap.PNG
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200129_BurundiMap.PNG
 date: 2020-01-29
 author: Jana Bauerová
 excerpt: "More than two thirds of Burundi’s 11-million population reportedly suffered from malaria since January 2019. Médecins Sans Frontières / Doctors Without Borders (MSF) has contained the disease from spreading in eastern Burundi with an indoor residual spraying (IRS) campaign to protect some 300,000 inhabitants for months to come from the malaria-carrying mosquitoes."
