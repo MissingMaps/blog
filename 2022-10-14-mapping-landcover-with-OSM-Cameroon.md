@@ -17,9 +17,9 @@ lang: en
 ### Introduction
 Cameroon is often called "*Africa in miniature*" because of the country’s diversity in landscapes and how the various geographic landscapes adorning the African continent can almost all be found in Cameroon. The country is such an interesting case for mapping landcover and who else is better to do so than its OSM Community?
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_teampic2.png"> <p class="caption"></p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_teampic2.png">
+<p class="caption">OSM Cameroon team working on landcover mapping</p>
 </figure>
 
 
@@ -38,9 +38,9 @@ The overarching understanding is that, to do landcover and landuse mapping in OS
 Whether a task is set up on the [HOT Tasking Manager](https://tasks.hotosm.org/), or the boundaries and grid are defined in [QGIS](https://www.qgis.org/en/site/), it is best to let mappers not work on squares close to each other. For instance, OSM Cameroon’s strategy was to let one mapper start in the north, and the other in the south. It is advised to use a grid as it makes it easier to coordinate the work between different mappers and a conflict in mapping will be avoided. It allowed the OSM Cameroon team to be more efficient in their work and avoid members wasting time and energy on a single task.
 Here’s the method used by OSM Cameroon with examples: First, they chose the landcover or landuse that they wanted to map; farmland for instance. While drawing the area, it is best to avoid the landcover or landuse to connect nodes with roads. Roads can be crossed, but landcover or landuse should not connect to roads. When the area is drawn, then the attributes can be added: eg. landuse=farmland.
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png"> <p class="caption">Good practice of landuse mapping in the presence of roads</p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png">
+<p class="caption">Good practice of landuse mapping in the presence of roads</p>
 </figure>
 
 Once the first landcover or landuse is drawn, the drawing of the second one can follow. In the example of the OSM Cameroon team, this was a residential area. It is important to assure the connectivity of the residential area nodes to the neighbouring landuse of the farmland area, which was drawn previously. The first node between the two different landuses has to be joined, then pressing F, one follows the existing line of the residential area. The use of the [Missing Maps/Youthmappers Map Paint style](https://github.com/MissingMaps/josm_styles/archive/master.zip) can show warning triangles if they are connected with each other. To avoid these triangles, it is important to create multipolygons by selecting the two layers and pressing CTRL+B.
@@ -49,15 +49,15 @@ Yves Emmanuel Nikyo Emougou explains:  “*if the landcover or landuse area that
 
 But what if a residential area is within farmland? “*Since it is not good practice to make landcover and landuse overlapping with each other, they should be mapped as a relation. For this, the best practice to adopt would be to first map the farmland area, and then the residential area within it. Next, select both areas and press CTRL+B to create a multipolygon. Note that, the outside polygon is called outer and the inside polygon inter.*" 
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp2_lackofrelations.png"> <p class="caption">Illustration of the lack of relations in landcover and landuse mapping on OSM</p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp2_lackofrelations.png">
+<p class="caption">Illustration of the lack of relations in landcover and landuse mapping on OSM</p>
 </figure>
 
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png"> <p class="caption">Using relations in landcover and landuse mapping on OSM</p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png">
+<p class="caption">Using relations in landcover and landuse mapping on OSM</p>
 </figure>
 
 #### The importance of local knowledge 
@@ -67,9 +67,9 @@ Landcover and landuse is now mapped with a variety of tags in OpenStreetMap, as 
 
 The challenges of not having local knowledge can hinder the collection of accurate data. From aerial imagery, one could make the mistake of mapping some places as residential areas when in reality, they are actually buildings to store materials for farming activities. Another instance is with agricultural lands. Agricultural land with its crops, perennial or annual, is constantly evolving. From one year to another, agricultural land uses can change, or stay the same for over a decade. Even further, there can be confusion with forests. A palm oil, coffee or cocoa field may look like a forest on aerial imagery. Only local knowledge can elucidate and take into consideration the organisation of the objects you see. Natural objects such as forests are quite disorganised, however in some cases you are able to distinguish farmland from forest based on aerial imagery. Like for example  the palm groves in the figure, which are better organised and characterised by the presence of access roads to facilitate the transportation of crops. 
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp4_landcoverorganisation_eng.png"> <p class="caption">Illustration of the organisation of a forest and palm groves</p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp4_landcoverorganisation_eng.png">
+<p class="caption">Illustration of the organisation of a forest and palm groves</p>
 </figure>
 
 ### What next?

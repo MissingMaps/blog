@@ -34,7 +34,7 @@ layout: post
 title: Missing Maps
 postID: missing-maps
 category: blog
-banner: https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20160422_banner.jpg
+banner: /assets/graphics/content/missingmaps-blog_20160422_banner.jpg
 date: 2016-05-05
 author: Dale Kunce
 excerpt: Welcome to the new Missing Maps Blog. Over nearly the last two years you almost 10,000 mappers have contributed over 22 million edits, almost 3 million buildings and 300,000 km of roads. These achievements are truly amazing. The new blog will focus on sharing some of the personal stories and major events happening with Missing Maps.
@@ -57,7 +57,7 @@ Once your images are in the AWS S3 bucket, you will have to add a link to the im
 
 ````
 <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_YYYYMMDD_my-file-name.extension">
+<img src="/assets/graphics/content/missingmaps-blog_YYYYMMDD_my-file-name.extension">
 <p class="caption">write here the caption of your image</p>
 </figure>
 ````
@@ -67,7 +67,7 @@ Once your images are in the AWS S3 bucket, you will have to add a link to the im
 
 ````
  <figure>
-<img src="https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20191001_screenshot-new-project-types.png">
+<img src="/assets/graphics/content/missingmaps-blog_20191001_screenshot-new-project-types.png">
 <p class="caption">Two new project types are available in MapSwipe 2.0</p>
 </figure>
 ````

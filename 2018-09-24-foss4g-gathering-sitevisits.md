@@ -3,7 +3,7 @@ layout: post
 title: Notes from Tanzania
 postID: foss4g-gathering-sitevisits
 category: blog
-banner: http://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180921_VCA.jpg
+banner: /assets/graphics/content/missingmaps-blog_20180921_VCA.jpg
 date: 2018-09-24
 author: Steve Penson and Rachel Levine
 excerpt: Missing Maps organizations come together to learn and plan Year 5!

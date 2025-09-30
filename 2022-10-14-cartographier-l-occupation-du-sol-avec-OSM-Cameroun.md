@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Cartographier l’occupation du sol avec OSM Cameroun
+title: Cartographier l’occupation du sol ave<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png">
+<p class="caption">Utilisation d'une relation dans la cartographie de l'usage et de l'occupation du sol sur OSM</p>
+</figure>M Cameroun
 postID: cartographier-l-occupation-du-sol-avec-OSM-Cameroun
 category: blog
 banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png
@@ -17,9 +20,9 @@ lang: fr
 ### Introduction
 Le Cameroun est souvent appelé « *l'Afrique en miniature* », en raison de la diversité des paysages du pays et du fait que la plupart des paysages géographiques qui ornent le continent africain se retrouvent presque tous au Cameroun. Le pays est un cas très intéressant pour la cartographie de l’occupation du sol et qui d’autre est mieux placé que sa communauté OSM pour le faire?
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_teampic2.png"> <p class="caption"></p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_teampic2.png">
+<p class="caption">L'équipe OSM Cameroun travaillant sur la cartographie de l'occupation du sol</p>
 </figure>
 
 
@@ -43,9 +46,9 @@ Que la tâche soit configurée sur le [HOT Tasking Manager](https://tasks.hotosm
 Voici la méthode utilisée par OSM Cameroun avec des exemples: Tout d'abord, ils ont choisi l’occupation du sol qu'ils voulaient cartographier; les champs agricoles par exemple. En traçant la zone, il faut éviter que l’occupation du sol  soit connectée aux nœuds des routes. Les routes peuvent être traversées, mais l’occupation du sol ne doit pas se connecter aux routes. Après que la zone est tracée, les attributs peuvent être ajoutés: par exemple, landuse=farmland.
 
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png"> <p class="caption">Bonnes pratiques de cartographie de l'usage du sol en présence de routes</p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp1_presenceofroads.png">
+<p class="caption">Bonnes pratiques de cartographie de l'usage du sol en présence de routes</p>
 </figure>
 
 Une fois que la première occupation du sol est tracée, le dessin de la seconde peut suivre. Dans l'exemple de l'équipe d'OSM Cameroun, c'était une zone résidentielle. Il est important d'assurer que les nœuds des zones résidentielles soient connectés à l’occupation du sol  à côté de la zone agricole qui a été dessinée auparavant. Les premiers deux nœuds entre les occupations du sol différentes doivent être joints, puis en appuyant sur F, la ligne existante de la zone résidentielle doit être suivie. L'utilisation du [style de peinture/carte de MissingMaps/YouthMappers](https://github.com/MissingMaps/josm_styles/archive/master.zip) permet d’afficher des triangles d'avertissement quand ils sont interconnectés. Pour éviter ces triangles, il est important de créer des multipolygons en sélectionnant la couche et en appuyant sur CTRL + B.
@@ -54,9 +57,9 @@ Yves Emmanuel Nikyo Emougou explique: « *Si l’occupation du sol est très vas
 
 Mais que se passe-t-il si une zone résidentielle se trouve à l'intérieur des champs  agricoles? « *Puisque ce n'est pas une bonne pratique que les différentes occupations du sol se chevauchent, elles devraient être cartographiées en tant que relation. Pour cela, la meilleure pratique à adopter est de cartographier d'abord la zone des champs agricoles, puis la zone résidentielle à l'intérieur. Ensuite, sélectionnez les deux zones et appuyez CTRL + B pour créer un multipolygone. Notez que, le polygone extérieur s'appelle outer et le polygone intérieur s’appelle inner.* »
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp2_lackofrelations.png"> <p class="caption">Illustration du manque de relation dans la cartographie de l'usage et de l'occupation du sol sur OSM</p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp2_lackofrelations.png">
+<p class="caption">Illustration du manque de relation dans la cartographie de l'usage et de l'occupation du sol sur OSM</p>
 </figure>
 
 <figure> 
@@ -72,9 +75,9 @@ L'occupation et l’usage du sol est maintenant cartographiée avec une variét�
 Le fait de ne pas avoir de connaissances locales peut entraver la collecte de données précises. À partir d'images aériennes, on pourrait commettre l'erreur de cartographier certains endroits comme des zones résidentielles alors qu'en réalité, ce sont en fait des bâtiments pour stocker des matériaux pour les activités agricoles. Un autre exemple concerne les champs agricoles. Les champs agricoles avec leurs cultures, pérennes ou annuelles, sont en constante évolution. D'une année à l'autre, les affectations des champs agricoles peuvent changer ou rester les mêmes pendant plus d'une décennie. De plus, il peut y avoir confusion avec les forêts. Une ferme d'huile de palme, de café ou de cacao peut ressembler à une forêt sur des images aériennes. Seules les connaissances locales peuvent élucider et prendre en considération l'organisation des objets que vous voyez. Les objets naturels tels que les forêts sont normalement désorganisés, mais dans certains cas, vous pouvez distinguer les champs agricoles des forêts sur la base d'images aériennes. Comme par exemple les palmeraies de la figure, qui sont mieux organisées et caractérisées par la présence de routes d'accès pour faciliter le transport des cultures.
 
 
-<figure> 
-<img
-src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp4_landcoverorganisation.png"> <p class="caption">Illustration de l'organisation d'une forêt et d'une palmeraie</p> 
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp4_landcoverorganisation.png">
+<p class="caption">Illustration de l'organisation d'une forêt et d'une palmeraie</p>
 </figure>
 
 ### Quelle est la suite?
