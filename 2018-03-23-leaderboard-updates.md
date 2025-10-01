@@ -3,7 +3,7 @@ layout: post
 title: Leaderboard 2.0
 postID: leaderboard-updates
 category: blog
-banner: /assets/graphics/content/missingmapsblog-leaderboardbanner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmapsblog-leaderboardbanner.jpg
 date: 2018-03-23
 author: Dale Kunce
 excerpt: Microsoft Philianthropies funds improvements to Missing Maps leaderboards.

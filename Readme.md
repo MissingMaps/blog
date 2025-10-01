@@ -34,7 +34,7 @@ layout: post
 title: Missing Maps
 postID: missing-maps
 category: blog
-banner: /assets/graphics/content/missingmaps-blog_20160422_banner.jpg
+banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160422_banner.jpg
 date: 2016-05-05
 author: Dale Kunce
 excerpt: Welcome to the new Missing Maps Blog. Over nearly the last two years you almost 10,000 mappers have contributed over 22 million edits, almost 3 million buildings and 300,000 km of roads. These achievements are truly amazing. The new blog will focus on sharing some of the personal stories and major events happening with Missing Maps.
@@ -51,13 +51,13 @@ To format the text you will need to use Markdown. Find [here](https://guides.git
 
 The images of your article should be named following `missingmaps-blog_YYYYMMDD_my-file-name.extension`, and should be resized to an appropriately small size. Banner images should have the hue/saturation reduced. 
 
-Images go in the `arcmaps/share/blog-pictures/` S3 bucket. Talk to us about putting the image files in the same AWS S3 bucket as all the other images (talk to daniel.joseph@redcross.org).
+Images should be added to the [MissingMaps/img repository](https://github.com/MissingMaps/img) in the `images/` directory. 
 
-Once your images are in the AWS S3 bucket, you will have to add a link to the image into your text. Use the below formatting for this. 
+Once your images are in the img repository, you will have to add a link to the image into your text. Use the below formatting for this. 
 
 ````
 <figure>
-<img src="/assets/graphics/content/missingmaps-blog_YYYYMMDD_my-file-name.extension">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_YYYYMMDD_my-file-name.extension">
 <p class="caption">write here the caption of your image</p>
 </figure>
 ````
@@ -67,7 +67,7 @@ Once your images are in the AWS S3 bucket, you will have to add a link to the im
 
 ````
  <figure>
-<img src="/assets/graphics/content/missingmaps-blog_20191001_screenshot-new-project-types.png">
+<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191001_screenshot-new-project-types.png">
 <p class="caption">Two new project types are available in MapSwipe 2.0</p>
 </figure>
 ````
