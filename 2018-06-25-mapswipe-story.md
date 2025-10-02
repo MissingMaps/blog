@@ -3,7 +3,7 @@ layout: post
 title: MapSwipe - the story continues
 postID: mapswipe-story
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180625_banner.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20180625_banner.jpg
 date: 2018-06-25
 author: Jess Cahill
 excerpt: MapSwipe volunteer Jess Cahill looks at current MapSwipe developments and how the crowdmapping app is helping survivors of sexual violence in Haiti.
@@ -32,7 +32,7 @@ In 2015 MSF opened the Pran Men’m (“Take My Hand”) clinic, which provides 
 Nell explained that in a large capital city one clinic isn’t accessible to everyone, so there are several outreach sites and MSF are currently carrying out a household survey to look at how they can increase access to services, particularly within the 72 hour window.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180625_banner_port-au-prince.jpg">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20180625_banner_port-au-prince.jpg">
 <p class="caption">Parts of Port-au-Prince are densely populated, Photo: Benedicte Kurzen/Noor</p>
 </figure>
 
@@ -53,7 +53,7 @@ You may be interested in the [MapSwipe Analytics website](http://mapswipe.heigit
 Talking to humanitarian professionals revealed it was important to make the data as open and available as possible so anyone can refer to it when needed, without specialist equipment. So if you look at a project online you can see at a glance where the areas of likely population are. That could be pretty useful in an emergency.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180625_haiti-data.jpg">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20180625_haiti-data.jpg">
 <p class="caption">Part of the Haiti project as visualised on the MapSwipe Analytics website: green areas have been marked by MapSwipe users as populated, yet you can see these buildings are not on the base map.</p>
 </figure>
 

@@ -3,7 +3,7 @@ layout: post
 title: "'MapSwipe: An Award Winner' - A Year of Blogs - February 2020"
 postID: a-year-of-blogs-feb2020
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20191001_mapswipe-grid.png
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20191001_mapswipe-grid.png
 date: 2020-02-28
 author: Johnny Henshall
 excerpt: "This week MapSwipe was awarded Best Mobile Innovation Supporting Emergency or Humanitarian Situations in the Tech4Good category at GSMA’s Global Mobile (GLOMO) awards. As a volunteer-led and open-source project, built and maintained by a small but passionate team, we are extremely proud of this recognition amongst other esteemed projects in this category and the rest of the awards."
@@ -18,7 +18,7 @@ lang: en
 MapSwipe is a mobile app that allows anyone to contribute to Missing Maps using just their phone. Swipe through satellite imagery at home or on the go, identifying areas where there is crucial infrastructure, such as buildings and roads. The results help humanitarian organisations to take action where people need it most.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200228_longerbanner.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200228_longerbanner.png">
 </figure>
 
 This week, [MapSwipe was awarded](https://www.mwcbarcelona.com/glomos/mapswipe-formapswipe/) Best Mobile Innovation Supporting Emergency or Humanitarian Situations in the Tech4Good category at GSMA’s Global Mobile (GLOMO) awards. As a volunteer-led and open-source project, built and maintained by a small but passionate team, we are extremely proud of this recognition amongst other esteemed projects in this category and the rest of the awards. The judges said:
@@ -27,7 +27,7 @@ This week, [MapSwipe was awarded](https://www.mwcbarcelona.com/glomos/mapswipe-f
 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200228_award.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200228_award.png">
 </figure>
 
 The award tops off what has been an exciting time for MapSwipe since the [release of version 2.0](http://www.missingmaps.org/blog/2019/10/01/MapSwipe-v2/) just five months ago. Our users have been racing through projects, often quicker than we can add them and have now swiped through a staggering 850 000km2 of imagery – that’s more than the area of Mozambique! We piloted a new project type aimed at detecting changes in areas, had new volunteers get involved with the design and development of the app, and have a vision of what next.
@@ -37,7 +37,7 @@ The award tops off what has been an exciting time for MapSwipe since the [releas
 MapSwipe makes that mindless time on your phone productive. The results of swiping are used to focus Missing Maps volunteer’s efforts by filtering out areas with no features. For our experienced mappers, you’ll appreciate that MapSwipe reduces those times that you’ve spent ages looking through uninhabited forest or desert just looking for features to map.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200228_example.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200228_example.png">
 </figure>
 
 The impact of this is much quicker mapping for you, our Missing Maps volunteers, who are actually adding data to OpenStreetMap and mapping communities that would otherwise not be on the map. For example, with the help of MapSwipe, in just five days, 186 volunteers mapped more than 1,000 sq. km of Port au Prince, Haiti, identifying communities that previously were not included on the map and allowing MSF to create a surveying plan that was truly representative of the population. [You can read more here.](http://www.missingmaps.org/blog/2018/06/25/mapswipe-story/)

@@ -3,7 +3,7 @@ layout: post
 title: "Roads less traveled... all 72,000 km of them"
 postID: gps-tracks
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/motorbike_road.png
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/motorbike_road.png
 date: 2017-01-07
 author: Emily Eros
 excerpt: "Red Cross volunteers on motorbikes logged 72,000 km of GPS tracks during border mapping in West Africa. We used these data to get under the clouds and add roads to OSM that can't be seen from satellite imagery. These roads connect some of the most remote communities in the region. Here's how we processed the dataset and what we were able to do with it."
@@ -22,8 +22,8 @@ Next, we cleaned up the data. This involved removing any GPX track points with a
 We mapped the data to see the full extent of how much ground the volunteers covered:
 
 <figure>
-<a href="https://github.com/MissingMaps/img/blob/main/images/gpx-tracks-compressed.png">
-<img src="https://github.com/MissingMaps/img/blob/main/images/gpx-tracks-compressed.png"></a>
+<a href="https://raw.githubusercontent.com/MissingMaps/img/main/images/gpx-tracks-compressed.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/gpx-tracks-compressed.png"></a>
 <p class="caption">GPS tracks in West Africa, with snapshot of local area. CC-BY American Red Cross</p>
 </figure>
 
@@ -32,7 +32,7 @@ We mapped the data to see the full extent of how much ground the volunteers cove
 These data aren't just pretty; they're also useful for adding roads to OSM. Several areas in the border regions have really cloudy satellite imagery and we wouldn't be able to trace the roads if it weren't for the GPX data.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/trace_roads.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/trace_roads.png">
 <p class="caption">GPX data lets us get underneath the clouds to add roads to OpenStreetMap (OSM). Track points are shown in fuschia. CC-BY American Red Cross</p>
 </figure>
 

@@ -3,7 +3,7 @@ layout: post
 title: Leaderboard 2.0
 postID: leaderboard-updates
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmapsblog-leaderboardbanner.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmapsblog-leaderboardbanner.jpg
 date: 2018-03-23
 author: Dale Kunce
 excerpt: Microsoft Philianthropies funds improvements to Missing Maps leaderboards.
@@ -30,7 +30,7 @@ Thanks to a generous grant from [Microsoft Philanthropies](https://www.microsoft
  - **Building Edits**: This is a big change. In the past we we tracked _Buildings Added_ to OSM. After doing some reflection, this wasn't a good representation of the total volume of edits Missing Maps contributes. Building Edits now reflects _both_ new additions and the contributions of our validators to clean up and coach new mappers.
  - **Road Measurements**: We've got some egg on our face here. We fixed some math errors (briefly: edits were counting the full length) and we are now _correctly_ reporting the total km of roads added and edited.
 
-![Missing Maps Stats](https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180323_stats.jpg)
+![Missing Maps Stats](https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20180323_stats.jpg)
 
 ### What's New
 
@@ -43,4 +43,4 @@ Thanks to a generous grant from [Microsoft Philanthropies](https://www.microsoft
  - **OSM Stats API**: [OSM Stats API](https://github.com/AmericanRedCross/osm-stats/blob/master/documentation/API.md) now supports some additional queries and options, not all of which are documented yet but will be in the coming days.
  - **OSM Stats Workers**: [OSM Stats Workers](https://github.com/AmericanRedCross/osm-stats-workers) was almost completely rewritten; [metric calculations](https://github.com/AmericanRedCross/osm-stats-workers/tree/master/src/metrics) have been simplified and stream handling made more robust.
 
-![Missing Maps Leaderboards](https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20180323_leaderboard.jpg)
+![Missing Maps Leaderboards](https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20180323_leaderboard.jpg)

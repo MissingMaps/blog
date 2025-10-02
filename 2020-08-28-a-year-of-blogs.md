@@ -3,7 +3,7 @@ layout: post
 title: "'The State of OpenStreetMap in Africa' – A Year of Blogs – Aug 2020"
 postID: a-year-of-blogs-aug2020
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200828_banner.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200828_banner.jpg
 date: 2020-08-28
 author: Geoffrey Kateregga
 excerpt: "In this article we concentrate on Human Centered Design and how you can help us to build a platform that meets the needs of the people using it."
@@ -18,7 +18,7 @@ lang: en
 OpenStreetMap Africa is a network of OSM communities from all over Africa working together to grow OSM on the continent. Ahead of the [State of the Map 2020](https://2020.stateofthemap.org/) conference, which was supposed to take in place in Africa for the first time, but was held online due to COVID-19, OSM Africa surveyed OSM community leaders in different countries in Africa, to assess the state of OSM in their countries. The purpose of the survey was to see where we are as OSM Africa, where we need to be, and how we can focus on achieving our goal to map each and every corner of Africa. We heard back from 52 out of the 55 countries in Africa and the results were [presented at the conference](https://youtu.be/gHqmQp7gbqE).
  
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200828_photo1.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200828_photo1.png">
 <p class="caption"> The brightest spots on the map above illustrate substantial amounts of OSM node density in different places in Africa.  <a href="https://tyrasd.github.io/osm-node-density/#4/3.03/-0.70/latest,places" target="\_blank">OSM Node Density</a> </p>
 </figure>
  
@@ -27,7 +27,7 @@ OpenStreetMap Africa is a network of OSM communities from all over Africa workin
 We also looked at the population in comparison to the number of mapped objects, to measure map completeness in each country.  This shows Eswatini, Lesotho, Seychelles, Botswana and Zimbabwe as the most mapped countries. [Map Lesotho](https://www.maplesotho.com/) is an interesting case where the Government is leading in the use of OSM for rural and urban planning.
  
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200828_photo2.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200828_photo2.png">
 <p class="caption"> Population in comparison to the number of mapped objects. </p>
 </figure>
  
@@ -36,7 +36,7 @@ We also looked at the population in comparison to the number of mapped objects, 
 Sixty-five percent of the countries that participated in the survey indicated there is an OSM community in their country, although the levels of activity differ from country to country, from very active to inactive. It is also interesting to note some countries like Egypt and Morocco where there is active mapping but no single community. 
  
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200828_photo3.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200828_photo3.png">
 <p class="caption"> Existing OSM communities. </p>
 </figure>
  
@@ -92,7 +92,7 @@ For all the challenges faced, there are solutions which have worked in some coun
 One of the major challenges, pointed out in the survey was lack of access to funds for internet access and other things. Yet communities in only 11 countries from Africa applied for the OSMF Microgrants this year! For the countries with no applications, some had communities that were not aware of the call for applications or no active community to begin with. For others there was just a lack of capacity, with no team to work on a proposal, and a few felt they had no need for a microgrant.
  
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200828_photo4.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200828_photo4.png">
 <p class="caption"> OSMF microgrant applicants.. </p>
 </figure>
  

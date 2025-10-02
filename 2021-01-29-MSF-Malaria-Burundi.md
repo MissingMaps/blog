@@ -3,7 +3,7 @@ layout: post
 title: "Mobile Methods Minimizing Malaria Cases in Eastern Burundi"
 postID: 2021-01-29-MSF-Malaria-Burundi
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210129_banner.png
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210129_banner.png
 date: 2021-01-29
 author: Jana Bauerova
 excerpt: "Building on the first year of pilot Indoor Residual Spraying campaign, the Médecins Sans Frontières (MSF) recently conducted a second round. Lessons learned could be incorporated during the repeated exercise and results are encouraging."
@@ -23,7 +23,7 @@ In 2019, the number of people who contracted malaria significantly rose in Burun
 It was time to think about how to prevent tiny mosquitoes from transmitting the disease to a sizeable chunk of population. In September 2019, MSF supported the Ministry of Health  in the setting up of a [first round of indoor residual spraying (IRS) campaign](https://www.missingmaps.org/blog/2020/01/29/a-year-of-blogs/). This technique involves spraying individual houses with insecticide to kill off mosquitoes. In one month, the MSF teams sprayed 59,731 homes, protecting close to 287,000 inhabitants for a period estimated up to nine months. 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210129_photo4.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210129_photo4.png">
 </figure>
 
 **Spraying at a household level against malaria-carrying mosquitoes**
@@ -31,7 +31,7 @@ It was time to think about how to prevent tiny mosquitoes from transmitting the 
 For the IRS campaign to be effective, it needs to be repeated. In this case, the spraying of the houses in the area would be done every year over the course of three years. That leads to renewing the protection of the households, and lowering the number of malaria-transmitting mosquitoes in the community. A Missing Maps activation had helped to obtain a base map with updated buildings based on recent satellite imagery with help of volunteers before the 1st round of IRS. Once data were available on openstreetmap, the experts in Geographic Information Systems (GIS) and Internet and Communication Technologies (ICT) uploaded the in mobile phones and computers to prepare the IRS Data Collection strategy. 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210129_photo1.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210129_photo1.png">
 <p class="caption"> MSF team adding data to phones</p>
 </figure>
 
@@ -40,8 +40,8 @@ To carry out the second round of the IRS campaign meant to mobilize local author
 Overall, 468 sprayers and 330 community health workers were dispatched in the hills to prepare and conduct the campaign. Luckily, over 80% were field workers involved in the first round of the IRS campaign in 2019, so it was possible to do the training over the course of three weeks. Close to 100 local staff were trained in mobile data collection in OSMand and Kobo applications. During the campaign, building information was updated in the mobile mapping applications directly by the team leaders to monitor the progress and compiled always at the end of the day by the GIS expert. 
 
 <p float="left">
-  <img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210129_photo2.png" width="300" />
-  <img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210129_photo3.png" width="300" /> 
+  <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210129_photo2.png" width="300" />
+  <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210129_photo3.png" width="300" /> 
   <p class="caption">What a  team leader sees on the mobile screen: Black dots are houses sprayed, yellow yet to be sprayed and red – spraying refused or not possible.</p>
 </p>
 
@@ -54,6 +54,6 @@ According to the GIS Superviser, it was better for the spraying teams to start f
 Even though the second year included new houses, the 2020 campaign succeeded to have a higher coverage than the first year: 311,500 people protected in the three communes (97% of total population), with 98% of the houses sprayed. Thankfully, a tangible impact with a more than 85% reduction of malaria cases in the district following the 2019 intervention made the MSF team usually welcome by the local people. These good results led to the interest of the National Programme to learn from the MSF experience and best practices. The experience shows that the desired results may be reached, but require a complex planning, logistics and considerable human resources including the training and a multi-year implementation with use of the Geographic Information Systems.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210129_photo5.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210129_photo5.png">
 <p class="caption"> Spraying equipment is quite heavy!</p>
 </figure>

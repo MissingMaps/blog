@@ -3,7 +3,7 @@ layout: post
 title: Fighting FGM in Tanzania
 postID: fighting-fgm-in-tanzania
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170220_banner.png
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170220_banner.png
 date: 2017-02-20
 author: Janet Chapman
 excerpt: "I first met Rhobi in a building site in Mugumu, Serengeti,  Tanzania, in September 2014 where she was desperately trying to get a Safe House for girls refusing Female Genital Mutilation finished before the \"cutting season\" started in December.  In the week we spent together I accompanied her and her team as they visited the surrounding villages, telling the villagers the dangers of FGM through debates, drama and dance.  Rhobi almost bled to death from FGM in one of these villages as a 13 year old and has been a passionate advocate for womens' rights ever since."
@@ -19,14 +19,14 @@ I first met [Rhobi](http://hiaragirlpower.blogspot.co.uk/2014/09/rhobis-story-wh
 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170220_girlwsign.png" alt="">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170220_girlwsign.png" alt="">
 <p class="caption">CC BY-SA Janet Chapman</p>
 </figure>
 
 As we bounced along the dusty tracks in a rusty over crowded car, frequently getting lost and stopping to ask for directions, I was frustrated by everyone’s complete lack of maps.  I had been inspired to learn about Openstreetmap at [Wikimania](https://wikimania2014.wikimedia.org/wiki/Programme) London the previous month, and had even printed out basic maps to ask Rhobi to mark villages on before I visited.  That was a failure, as was my mapping attempts that time.  No one I met had a good understanding of where the villages were on paper and I was thwarted by poor connectivity and inadequate tools or understanding.   Later on my trip I was amazed to find my GPS at Zeze, and village of 9000 people showed a completely blank map.  I was 2 hours late visiting Ikondo School after driving round in circles through muddy rivers in torrential rain trying to find it. 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170220_communitymeeting.png" alt="">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170220_communitymeeting.png" alt="">
 <p class="caption">CC BY-SA Janet Chapman</p>
 </figure>
 
@@ -36,7 +36,7 @@ When [Maps.Me](http://maps.me/en/home) produced their version that allowed edits
 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170220_mapathon.png" alt="">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170220_mapathon.png" alt="">
 <p class="caption">CC BY-SA Janet Chapman</p>
 </figure>
 
@@ -44,7 +44,7 @@ We’ve now recruited over 900 online volunteers and 199 local mappers.  In our 
 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170220_girlsatcomputers.png" alt="">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170220_girlsatcomputers.png" alt="">
 <p class="caption">CC BY-SA Janet Chapman</p>
 </figure>
 
@@ -55,7 +55,7 @@ Having better maps helped prevent 2257 girls from being cut this year.  However 
 Girls like Bhoke* forcibly cut at 13, her body [thrown into the bush](http://hiaragirlpower.blogspot.co.uk/2015/01/5-girls-bodies-thrown-into-bush.html).  But the tide is turning.  This year saw the first prosecutions against parents and cutters for FGM. 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170220_infographic.png" alt="">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170220_infographic.png" alt="">
 <p class="caption">CC BY-SA Janet Chapman</p>
 </figure>
 
@@ -66,7 +66,7 @@ There is more information about this project in this [2 minute video on Al Jazee
 Local mappers are continuing to improve the map by adding the names of missing villages across Tanzania, but we are a volunteer run project with no budget and access to smartphones is a limiting factor.  If anyone has any unwanted phones we can make very good use of them!  Please contact us [here](https://crowd2map.wordpress.com/). 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170220_map.png" alt="">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170220_map.png" alt="">
 <p class="caption">CC BY-SA Janet Chapman, <a target="_blank" href="https://jachapman82.carto.com/builder/4324bc10-f250-11e6-9d00-0ee66e2c9693/embed">web map</a></p>
 </figure>
   

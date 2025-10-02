@@ -3,7 +3,7 @@ layout: post
 title: "Mapear tu propio patio trasero: historias de mapeadores de comunidades locales!"
 postID: 2021-05-26-community-mapping-es
 category: blog
-banner: "https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210526_Banner.png"
+banner: "https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210526_Banner.png"
 date: 2021-05-26
 author: Melanie Chabot, Rachel Levine & Jorieke Vyncke
 excerpt: Hemos recopilado las historias de varios OSM-ers entusiastas que han dominado el arte de mapear sus propios patios traseros. Han compartido sus consejos para aquellos que están empezando y las razones por las que se han vuelto tan apasionados por la cartografía local.
@@ -28,7 +28,7 @@ Hemos recopilado las historias de varios entusiastas voluntarios de OSM que han 
 ## Herry Kasunga, Tanzania
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210526_Herry.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210526_Herry.png">
 <p class="caption"> Herry Kasunga mapeando su comunidad usando la aplicación <a href="https://maps.me/" target="\_blank">Maps.me application</a> en su teléfono inteligente. Este mapeo apoyará posteriormente las actividades de planificación para ayudar a las niñas que se encuentran en lugares vulnerables (como las que corren el riesgo de sufrir mutilación genital femenina).</p>
 </figure>
 
@@ -45,7 +45,7 @@ Hemos recopilado las historias de varios entusiastas voluntarios de OSM que han 
 ## Gregory Marler, Reino Unido
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210526_Gregory.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210526_Gregory.png">
 <p class="caption"> Gregory en la cima de una colina con vistas a Pittington. ¡Esta es una aldea que intentó inspeccionar de una sola vez! Estaba mucho más nevado y frío de lo que pensaba que podía soportar. La aventura fue filmada para su canal   <a href="https://www.youtube.com/watch?v=dFxDTp_1rEo" target="\_blank">"Mapper Diaries"</a> en YouTube, que es un poco como caminar junto a Gregory mientras realiza su típico mapeo. </p>
 </figure>
 
@@ -60,7 +60,7 @@ Hemos recopilado las historias de varios entusiastas voluntarios de OSM que han 
 ## Matthew Darwin, Canadá
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210526_Matthew.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210526_Matthew.png">
 <p class="caption"> Matthew en un viaje en bicicleta por los cayos de Florida. ¡Condujo en bicicleta desde el marcador de la milla 80 hasta el 0! </p>
 </figure>
 
@@ -69,7 +69,7 @@ Hemos recopilado las historias de varios entusiastas voluntarios de OSM que han 
 **¿Día ideal de mapeo?** Ottawa está ahora bastante bien mapeada debido a una gran cantidad de datos abiertos de la ciudad de Ottawa, así como a un gran esfuerzo voluntario. Por lo tanto, el trabajo consiste principalmente en completar las áreas que faltan. Cuando comencé, había muchas cosas desordenadas que pasé bastantes meses ayudando a limpiar. Pasé mucho tiempo con la nomenclatura de las calles. Se dedica esfuerzo a la infraestructura de transporte activa, como caminos, estacionamiento para bicicletas, fuentes de agua, así como direcciones para áreas nuevas o actualizadas de la ciudad. Paso la mayor parte de mi tiempo haciendo mapas en el auto o en una bicicleta tomando fotos para [Mapillary](https://www.mapillary.com/). Las herramientas que utilizo son: [JOSM](https://josm.openstreetmap.de/), [Mapillary](https://www.mapillary.com/), [Keypad Mapper](https://wiki.openstreetmap.org/wiki/Keypad-Mapper_3) y [Field Papers](http://fieldpapers.org/). Dedico mucho tiempo a garantizar la calidad de los datos de OSM en Canadá: cosas que puedes mejorar sin un conocimiento local detallado, como corregir el formato de números de teléfono, códigos postales o corregir la ortografía de ciudades y nombres de calles.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210526_Matthew2.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210526_Matthew2.png">
 <p class="caption"> Una foto que Matthew tomó el otoño pasado desde una cámara colocada en su bicicleta y subida a Mapillary. Es una foto del nuevo puente <a href="https://ottawa.ca/en/city-hall/public-engagement/projects/jackie-holzman-bridge-formerly-harmer-avenue-pedestrian-bridge-replacement" target="\_blank">new bridge</a>  que reemplazó al puente que solía cruzar todos los días en su camino a la escuela secundaria (en bicicleta o caminando). </p>
 </figure>
 
@@ -80,7 +80,7 @@ Hemos recopilado las historias de varios entusiastas voluntarios de OSM que han 
 ## Leigh Lunas, Filipinas
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20210526_Leigh.png">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20210526_Leigh.png">
 <p class="caption">Leigh muestra a los entusiastas de la cartografía cómo usar drones para levantamientos aéreos en Pista ng Mapa en Dumaguete en el 2019. </p>
 </figure>
 

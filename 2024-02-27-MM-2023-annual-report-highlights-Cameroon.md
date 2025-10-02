@@ -3,7 +3,7 @@ layout: post
 title: "Missing Maps 2023 annual report & highlights from Cameroon"
 postID: MM-2023-annual-report-highlights-Cameroon
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20240227_Gathering_Group.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20240227_Gathering_Group.jpg
 date: 2024-02-27
 author: Jorieke Vyncke and Jana Bauerová
 excerpt: The State of the Map Africa 2023 provided a space for a hybrid Missing Maps annual meeting on the edges of the conference in Yaoundé, as well as the first-ever Missing Maps annual report with highlights, successes and challenges.
@@ -39,7 +39,7 @@ Please celebrate with us, you were an essential part of it!
 We are looking forward to the next global State of the Map which will be hosted in Nairobi, Kenya in September 2024. 2024 also marks the 10th anniversary of Missing Maps, stay tuned for news about upcoming celebrations!
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20240227_Gathering_Yaound%C3%A9.jpeg">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20240227_Gathering_Yaound%C3%A9.jpeg">
 <p class="caption">Missing Maps gathering 2023 in Yaoundé, Cameroon © Omowonuola Akintola
 </p>
 </figure>

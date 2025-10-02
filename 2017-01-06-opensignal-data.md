@@ -3,7 +3,7 @@ layout: post
 title: Mapping cell phone signals
 postID: opensignal
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/signal_strength.png
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/signal_strength.png
 date: 2017-01-06
 author: Emily Eros
 excerpt: This past spring/summer, over 100 Red Cross volunteers conducted field mapping in the border regions of Guinea, Liberia, and Sierra Leone. In addition to the actual mapping, we also set the volunteers' phones to record their GPS tracks each day, and we set their phones to automatically collect cell signal strength data using OpenSignal, an app which crowdsources this information. We haven't come across much about working with OpenSignal data, so this post documents our workflow for using the data, the challenges we had, and our results.
@@ -31,7 +31,7 @@ We loaded OpenSignal onto all of the phones before the fieldwork began, then dow
 OpenSignal generated three types of CSV files: wifi, speedtests, and cell signals:
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/file_types.png" alt="File types">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/file_types.png" alt="File types">
 <p class="caption">CC-BY American Red Cross.</p>
 </figure>
 
@@ -96,7 +96,7 @@ I loaded the CSV file into GIS and converted it into an equal-area projection (t
 Again, the data look very sparse compared to the amount of volunteers and time spent in the field. The image below shows the OpenSignal data overlaid on GPX tracks collected by volunteers (shown in grey) for the West African region. The OpenSignal data covers some main highways across the region and some clusters in certain cities, but it's extremely sparse compared to what I was expecting.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/signal_strength.png" alt="Signal strength">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/signal_strength.png" alt="Signal strength">
 <p class="caption">CC-BY American Red Cross.</p>
 </figure>
 
@@ -105,7 +105,7 @@ The settings on the OpenSignal app explain, "Data is collected when the app is o
 That's not what I see in the West Africa data. The snippet below contains data from a few different files. In each of these files, a phone collects data briefly when set up in late March... then nothing until a month later, at the end of April. When the phones are logging data, they are doing so at the expected rate of about 10x per hour... it's just that there are huge gaps between the readings.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/timestamps.png" alt="time stamps">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/timestamps.png" alt="time stamps">
 <p class="caption">CC-BY American Red Cross.</p>
 </figure>
 
@@ -118,7 +118,7 @@ Next steps for the data involve turning the OpenSignal data into a raster (ie pi
 To do this, we zoomed in to an area in the Eastern Province of Sierra Leone with a high density of signal recordings. We took the RSSI values for these recordings and then performed [kriging](http://www.qgistutorials.com/en/docs/interpolating_point_data.html) using the inverse distance weighting method. What this means: we have a set of points and we want to fill in the gaps between them to predict what the cell signal strength will be in other areas nearby. When doing this, we set a distance limit on how far away the kriging will examine. Too small, and we won't learn that much. Too large, and the results won't be very accurate. Even with an appropriate distance limit, predictions won't be perfect because we aren't factoring in topography or other things that might affect signal strength. But this is still enough to help understand the gaps in the data for a local area. The output from the kriging is a grid of cells, each of which has a predicted RSSI value. This helps us to understand connectivity "hotspots" in the local area.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/kriging.png" alt="IDW kriging surface. Cell size is set to 10m">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/kriging.png" alt="IDW kriging surface. Cell size is set to 10m">
 <p class="caption">CC-BY American Red Cross.</p>
 </figure>
 

@@ -3,7 +3,7 @@ layout: post
 title: "OSM Geography Awareness Week: 13-19 November"
 postID: osm-geoweek
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20161007_banner.png
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20161007_banner.png
 date: 2016-10-07
 author: Emily Eros
 excerpt: "Missing Maps members are gearing up for OSM Geography Awareness Week this Novmber, hoping to support over 100 mapathons around the world!"
@@ -32,6 +32,6 @@ This week presents a great opportunity for students, coworkers, or members of a 
 If your organization is interested in participating, the Missing Maps network and our colleagues can provide you with the information and materials needed to host a successful mapathon. If you’re located in the USA, then we can even send you a box of stickers and other swag as a care package for your event! If you'd like to host an event, [sign up here](https://docs.google.com/forms/d/1SG9DW7ZyEC9Vf78RbApUfBYAQPSIReyxbupGJPCqjtw/viewform?edit_requested=true).
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20161007_swag.png" alt="Stickers galore">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20161007_swag.png" alt="Stickers galore">
 <p class="caption">Want some stylish mapathon accessories for your event? Sign up on the website and we'll mail you a box of stickers and more! (Apologies to those outside the USA, but we can't ship internationally)</p>
 </figure>

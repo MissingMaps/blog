@@ -3,7 +3,7 @@ layout: post
 title: "POSM 0.7: Faster and better than ever!"
 postID: posm-update
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170726_banner.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170726_banner.jpg
 date: 2017-07-26
 author: Emily Eros, Seth Fitzsimmons
 excerpt: "We are pleased to announce a new and improved version of POSM – now faster and slicker than ever!"
@@ -30,12 +30,12 @@ Additions and improvements include:
 * Various small bugs found and fixes applied
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170726_pic1.jpg" alt="New POSM Admin interface">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170726_pic1.jpg" alt="New POSM Admin interface">
 <p class="caption">POSM's new admin interface makes the device easier to navigate and use. Offline instructions are linked on the left and the fileshare info is easy to find on the home screen. CC-BY American Red Cross</p>
 </figure>
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20170726_pic2.jpg" alt="Online and offline instruction guide">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20170726_pic2.jpg" alt="Online and offline instruction guide">
 <p class="caption">We wrote a step-by-step instruction guide where project managers can find everything they need to know about getting, setting up, and using a POSM. Troubleshooting tips are included and the full guide can be accessed [online](www.posm.io) or through the POSM itself. CC-BY American Red Cross</p>
 </figure>
 

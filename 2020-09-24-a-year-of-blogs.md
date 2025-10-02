@@ -3,7 +3,7 @@ layout: post
 title: "'Anticipating and addressing epidemics' – A Year of Blogs – Sept 2020"
 postID: 2020-09-24-a-year-of-blogs
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200924_banner.JPG
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200924_banner.JPG
 date: 2020-09-24
 author: Katharina Lorenz
 excerpt: "In order for FbF to work, we need to decide quickly, when and where to act."
@@ -43,7 +43,7 @@ The types of features being mapped vary based on the local needs, but can includ
 In [Botswana](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=0fc5623a76&e=12fee999b0), HOT has been mapping at the request of the Botswana Institute of Geoinformatics to support the national COVID-19 response. While the mapping of the initial priority region has been completed, efforts are now expanding to map the entire country in OSM.
 
 In [Mali](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=885ea70ba0&e=12fee999b0), HOT is supporting the COVID-19 coalition, which includes members of the local OpenStreetMap community and the Mali Red Cross, so they can better plan and respond to coronavirus impacts.
-<figure> <img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200924_MaliMappingCovid.jpg"> <p class="caption"> HOT mapping task supporting COVID-19 response in Mali.</p> </figure>
+<figure> <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200924_MaliMappingCovid.jpg"> <p class="caption"> HOT mapping task supporting COVID-19 response in Mali.</p> </figure>
 
 In [Peru](https://hotosm.us9.list-manage.com/track/click?u=5191e27b207136970f2a9ec1b&id=0a0f40644b&e=12fee999b0), HOT has mapped the entire Cusco region, home to 1.2 million people and with extremely varied terrain; from Altiplano communities living at 5,000m altitude to Amazonian jungle. Creating better maps has allowed government workers to begin using the data to assess healthcare needs. This is particularly vital for maternal healthcare services, which have been largely unavailable over the past few months due to quarantine. For more information please check out this [blog](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/).
 
@@ -60,7 +60,7 @@ The Heidelberg Institute for Geoinformation Technology (HeiGIT gGmbH), also a Mi
 To enable awareness of local health capacities and building on the data created through HOT efforts, in the scope of the COVID-19 response the HeiGIT team developed an extension of their [OSM History Explorer](https://ohsome.org/apps/osm-history-explorer/#/amenity_clinic_healthcare_clinic_ptpl/2020-06-01T00:00:00Z/2/0/0) (ohsome hex) which allows analyses of OSM completeness in mapping health facilities in Sub-Saharan Africa. This extension facilitates quick and simple assessment of health facilities in areas of interest and to respectively raise awareness of vulnerable areas. 
 
 Additionally, the team conducted several related research studies and developed a [“Map of Hope”](https://covid-19.heigit.org/clinical_trials.html) that provides a comprehensive overview of COVID-19 related clinical trials, using OSM as a base layer for localization. 
-<figure> <img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20200924_Explorer.JPG"> <p class="caption"> OSM History Explorer showing completeness of health facilities in sub-saharan Africa.</p> </figure>
+<figure> <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20200924_Explorer.JPG"> <p class="caption"> OSM History Explorer showing completeness of health facilities in sub-saharan Africa.</p> </figure>
 
 ## What next? ##
 

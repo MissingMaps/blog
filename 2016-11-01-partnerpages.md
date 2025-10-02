@@ -3,7 +3,7 @@ layout: post
 title: "Partner Pages"
 postID: partner-pages
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/partner-pages.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/partner-pages.jpg
 date: 2016-11-01
 author: Dale Kunce
 excerpt: "The next step in data analytics is coming to Missing Maps. Using the infrastructure we continue to build out on the Missing Maps leaderboards and osm-stats-api we are very happy to announce the creation of partner pages. Partner pages can be any sort of partner from some of Missing Maps corporate partners such as JP Morgan Chase to local groups such as Maptime."
@@ -27,13 +27,13 @@ If you would like to have your own partner page included into the main Missing M
 When we launched the Missing Maps leaderboards we only tracked hashtags if #missingmaps was included with the commit. We did this to make sure our little leaderboard workers could keep up. Long story, we worked out a lot of bugs and we are now turning off the restriction of including the #missingmaps hashtag to track your project. All hashtags regardless of what they are now being tracked and can be searched and analyzed via the [leaderboards](http://missingmaps.org/leaderboards). Be sure to include your custom hashtag in your changeset comment when saving.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/new_hashtag.gif" alt="new hashtag">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/new_hashtag.gif" alt="new hashtag">
 <p class="caption">Adding a custom hashtag to your changeset comment. CC-BY American Red Cross.</p>
 </figure>
 
 To view the custom leaderboard go to the [leaderboard page](http://missingmaps.org/leaderboards) and click on "Add Competitor" to to see the leaderboard for your hashtag or event. Add more than one competitor to see how you stack up [against another group](http://www.missingmaps.org/leaderboards/#/redcross,rodekruis).
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/add_hashtag.gif" alt="add hashtag">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/add_hashtag.gif" alt="add hashtag">
 <p class="caption">Adding a custom hashtag to the leaderboard. CC-BY American Red Cross.</p>
 </figure>

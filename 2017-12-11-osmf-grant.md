@@ -3,7 +3,7 @@ layout: post
 title: $25,000 Grant to OpenStreetMap
 postID: osmf-grant
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/matt_philippines.jpeg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/matt_philippines.jpeg
 date: 2017-12-11
 author: Dale Kunce
 excerpt: American Red Cross grants $25,000 to OpenSteetMap to ensure the resilience during disasters.

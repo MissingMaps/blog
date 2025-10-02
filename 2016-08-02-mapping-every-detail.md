@@ -3,7 +3,7 @@ layout: post
 title:  Mapping Every Detail
 postID: mapping-every-detail
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160802_banner.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20160802_banner.jpg
 date: 2016-08-02
 author: David Luswata
 excerpt: After initially sending volunteers to record all the population centres in the border regions, we then selected some emerging cities in Liberia, Guinea and Sierra Leone to map in their entirety. Volunteers spend hours and days moving from one corner of the city to the other mapping every mappable entity, capturing every detail.
@@ -17,7 +17,7 @@ lang: en
 
 The term ‘city’ often elicits an image of towering metropolises. However, this image is more consistent with cities found in already developed nations. For the many towns and evolving communities in still developing countries, we have a different classification: ‘emerging cities’. These emerging cities are at the center of development, showing rapid population growth as an increasing number of people leave villages to pursue opportunity in these cities. In these epicenters of commerce, a wide range of commodities can be found in markets as people innovate and continue to improve their livelihoods. In all of this, we see promise as humanity advances and lives and communities continue to improve.    
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160802_city.jpg" alt="Emerging cities, emerging promise.">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20160802_city.jpg" alt="Emerging cities, emerging promise.">
 <p class="caption">Emerging cities, emerging promise. CC-BY David Luswata.</p>
 </figure>
 
@@ -39,7 +39,7 @@ Located in the south of Guinea, the city of Gueckedou is one of the major gatewa
 
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160802_market.jpg" alt="Market day in Gueckedou">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20160802_market.jpg" alt="Market day in Gueckedou">
 <p class="caption">Market day in Gueckedou. CC-BY David Luswata.</p>
 </figure>
 
@@ -54,7 +54,7 @@ He continues, “If any one became sick in that time, your family would desert y
 Celestine Kamano is one of our Field Team Leaders in Guinea. Despite being a recent graduate in Linguistic Science, Celestine has been using his brother’s laptop to learn to map whenever he is not in the field collecting data. When our work started he had not found a job yet. Hte was successful in applying for and joining our team. Now he is thinking of changing his career to better contribute to his country through mapping. “I am saving up to buy a laptop so that I can always be able to map my country. This project has opened my eyes. There are a lot of things not mapped here, and now I know that I can make a contribution to my country by mapping. Through going to very many communities within the 15 kilometre radius, I have seen how life is from community to community. This has given me a lot of reflection on what my country and communities are. I am already thinking of how I can help; I will start with mapping.”
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160802_celestine.jpg" alt="Celestine mapping">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20160802_celestine.jpg" alt="Celestine mapping">
 <p class="caption">Celestine mapping. CC-BY David Luswata.</p>
 </figure>
 
@@ -65,7 +65,7 @@ In one town, after explaining why we are mapping and how useful it is, a lady ca
 In another community, while mapping was going on, we took time to view submissions to the server to show the volunteers real time results from their efforts. The volunteers were with a local leader from this community, and as we started viewing the uploads and the mapped buildings, a group of young men came as well to steal a look. Judging by their enthusiastic looks at our work, those young men are potential mappers.
 
 <figure>
-<img src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20160802_server.jpg" alt="Viewing submissions">
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20160802_server.jpg" alt="Viewing submissions">
 <p class="caption">Viewing submissions to the server in the field. CC-BY David Luswata.</p>
 </figure>
 
