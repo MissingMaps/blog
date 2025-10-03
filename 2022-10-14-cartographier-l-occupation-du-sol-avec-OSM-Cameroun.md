@@ -1,5 +1,18 @@
 ---
 layout: post
+title: Cartographier l'occupation du sol avec OSM Cameroun
+postID: cartographier-l-occupation-du-sol-avec-OSM-Cameroun
+category: blog
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_banner.png
+date: 2022-10-14
+author: Camille Couturier
+lang: fr
+---
+
+<figure>
+<img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png">
+<p class="caption">Utilisation d'une relation dans la cartographie de l'usage et de l'occupation du sol sur OSM</p>
+</figure>: post
 title: Cartographier l’occupation du sol ave<figure>
 <img src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20221012_cp3_usingrelations.png">
 <p class="caption">Utilisation d'une relation dans la cartographie de l'usage et de l'occupation du sol sur OSM</p>
