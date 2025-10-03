@@ -27,7 +27,7 @@ Why invest in open source? American Red Cross could have purchased many years of
 
 
 <figure>
-<img alt="the WebODM interface" src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190807_culasi.png">
+<img alt="the WebODM interface" src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20190807_culasi.png">
 <p class="caption">The WebODM interface on a POSM showing a completed processing task</p>
 </figure>
 

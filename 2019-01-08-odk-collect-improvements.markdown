@@ -30,7 +30,7 @@ One of the key components is ODK Collect, an Android app enabling users to retri
 Staff and volunteers of the Red Cross Red Crescent network are among the 2.5 million users in the past year of ODK Collect and other ODK software like the Aggregate server and the Briefcase desktop app. Conducting damage assessments and registering people for relief distributions are two of the many ways the technology can be used to improve the efficiency and impact of humanitarian action.
 
 <figure>
-<img alt="tweets from Namibia Red Cross and Indian Red Cross about using ODK" src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190108_supporting-odk-society-tweets.png">
+<img alt="tweets from Namibia Red Cross and Indian Red Cross about using ODK" src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20190108_supporting-odk-society-tweets.png">
 <p class="caption">Tweets from Namibia Red Cross and Indian Red Cross about using ODK</p>
 </figure>
 
@@ -53,7 +53,7 @@ Each idea went through an open feedback and consultation phase. Conversations oc
 The American Red Cross funded a data export option that allows the user to get their survey data in a GeoJSON geographic file format instead of the standard spreadsheet. The functionality makes it easier to use the data in a GIS or other downstream tool. The functionality was intended to be implemented in both Aggregate and Briefcase. Briefcase v1.13 included the feature  for both the graphical user interface and via command line. Implementing the feature in Aggregate with Google App Engine support, a key part of many existing server deployments, was going to be too costly so we pivoted that funding into additional features (see the last section below). The community discussion for the feature can be found on the [forum](https://forum.opendatakit.org/t/add-a-geojson-export-to-briefcase-and-aggregate/15184). The improvement was tracked and implemented on [GitHub](https://github.com/opendatakit/roadmap/issues/26) and released in [Briefcase v1.13](https://forum.opendatakit.org/t/odk-briefcase-v1-13/16442). 
 
 <figure>
-<img alt="a tweet from @OpenDataKit about the Briefcase release" src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190108_supporting-odk-tweet-briefcase.png">
+<img alt="a tweet from @OpenDataKit about the Briefcase release" src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20190108_supporting-odk-tweet-briefcase.png">
 <p class="caption">A tweet from <a href="https://twitter.com/i/web/status/1066995088511897600" target="_blank">@OpenDataKit about the Briefcase release</a></p>
 </figure>
 
@@ -62,7 +62,7 @@ The American Red Cross funded a data export option that allows the user to get t
 We funded an optional feature to occasionally collect GPS coordinates in the background to provide evidence that data was collected in a particular place. There are many legitimate use-cases for this feature but also the potential for abuse; the community discussion around this feature included a good debate about privacy. The discussion for the feature can be found on the [forum](https://forum.opendatakit.org/t/collect-extend-audit-log-to-include-gps-coordinates/15162). The improvement was released in [Collect v1.20 Beta](https://forum.opendatakit.org/t/odk-collect-v1-20-beta/18021) along with related updates to ODK XForms spec, pyxform, XLSForm Online, XLSForm Offline, and the user [documentation](https://docs.opendatakit.org/form-audit-log/).
 
 <figure>
-<img alt="a tweet from @OpenDataKit about the ODK Collect release" src="https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190108_supporting-odk-tweet-odk-audit.png">
+<img alt="a tweet from @OpenDataKit about the ODK Collect release" src="https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20190108_supporting-odk-tweet-odk-audit.png">
   <p class="caption">A tweet from <a href="https://twitter.com/arphp/status/1100019065882583041" target="_blank">@OpenDataKit about the Collect release</a></p>
 </figure>
 
