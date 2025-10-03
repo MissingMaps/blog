@@ -3,7 +3,7 @@ layout: post
 title: "Supporting Open Data Kit"
 postID: supporting-open-data-kit
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190108_banner.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20190108_banner.jpg
 date: 2019-01-08
 author: Dan Joseph
 excerpt: "The Open Data Kit (ODK) community produces free and open-source software for collecting, managing, and using data in resource-constrained environments. The various ODK tools enable cost effective, scalable, and user-friendly implementation of mobile data activities. The American Red Cross was able to support improvements to ODK."

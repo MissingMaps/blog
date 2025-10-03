@@ -3,7 +3,7 @@ layout: post
 title: "POSM 0.9 - Passel of POSMs"
 postID: posm-passel
 category: blog
-banner: https://github.com/MissingMaps/img/blob/main/images/missingmaps-blog_20190807_banner.jpg
+banner: https://raw.githubusercontent.com/MissingMaps/img/main/images/missingmaps-blog_20190807_banner.jpg
 date: 2019-08-07
 author: Dan Joseph, Seth Fitzsimmons
 excerpt: "OpenDroneMap (ODM) is an open ecosystem of solutions for collecting, processing, analyzing and displaying aerial data. American Red Cross has used it when conducting drone mapping and trainings with the Philippines Red Cross, Haitian Red Cross, and Belize Red Cross. We’re excited to have been able to fund some recent improvements that create exciting opportunities when running ODM with POSM, while also benefiting the overall ODM project. The newest POSM release brings in the ODM updates and lets you distribute the processing of large image sets across a passel of POSMs. "
